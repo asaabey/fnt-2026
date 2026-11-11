@@ -1,0 +1,65 @@
+DIURETIC MECHANISMS AND TERMINOLOGY
+Prepared 11 November 2026. Source mechanisms checked against official labels
+and renal physiology literature; the animation is an educational synthesis.
+
+NEPHRON SITES
+Site I: proximal tubule.
+Site II: thick ascending limb (traditionally medullary diluting segment).
+Site III: distal convoluted tubule (traditionally cortical diluting segment).
+Site IV: late distal / connecting tubule and collecting system.
+
+The four-site numbering remains present in teaching, but it is a schematic
+classification rather than a unique modern anatomical nomenclature. This
+animation gives the segment names prominence and site numbers secondary
+status. Mannitol spans water-permeable segments; site numbers alone also do
+not distinguish MR, ENaC and V2 mechanisms in the distal/collecting system.
+
+Terminology evidence (used only to document numbering, not for drug dosing):
+Modern diuretics and the kidney (1981): historical Site I–IV table.
+https://jcp.bmj.com/content/jclinpath/34/11/1267.full.pdf
+University teaching material for 2025–2026: uses the four-zone scheme.
+https://resource.odmu.edu.ua/chair/download/193006/CwIBo_iWQw9A_DTlzT8ASw/ClinPharm_PharmCare_IWS_Part_I_2025-2026.pdf
+Vander's Renal Physiology, Appendix B: class, mechanism and named segment.
+https://accessmedicine.mhmedical.com/Content.aspx?bookid=2348&sectionid=185664633
+The recommendation to prioritise anatomy and targets is an authoring choice,
+not a claim that numbered sites are prohibited or absent from current books.
+
+MECHANISMS
+Mannitol: official OSMITROL label, section 12.1.
+https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc
+
+Acetazolamide: carbonic anhydrase inhibition and renal bicarbonate loss.
+https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0913db35-3f08-4d82-8394-486bd9a487c4
+
+Empagliflozin: official mechanism and urinary glucose excretion (section 12).
+https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/204629s033lbl.pdf
+Transient natriuresis measured in placebo-controlled human studies:
+https://pubmed.ncbi.nlm.nih.gov/27692976/
+https://pubmed.ncbi.nlm.nih.gov/32567439/
+Renal physiological effects of SGLT2 inhibition, including sodium handling:
+Cherney et al. Circulation 2014 (mechanistic study, not a prescribing guide).
+https://pubmed.ncbi.nlm.nih.gov/24334175/
+
+Loop NKCC2, thiazide NCC and distal targets:
+Clinical Pharmacology in Diuretic Use. CJASN 2019.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6682831/
+NKCC2 physiology and the concentrating mechanism:
+https://journals.physiology.org/doi/full/10.1152/ajprenal.00432.2014
+
+Spironolactone: ALDACTONE label, mineralocorticoid receptor antagonism.
+https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc&version=25
+Amiloride and spironolactone: different targets, tested in a clinical study.
+https://pubmed.ncbi.nlm.nih.gov/16116042/
+Principal-cell transport and membrane polarity:
+Collecting Duct Principal Cell Transport Processes and Their Regulation.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4284417/
+
+Tolvaptan: official SAMSCA label, V2 antagonism and aquaresis.
+https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5526617c-c7b9-4556-886d-729bbabbc566
+AQP2 trafficking and retrieval with reduced vasopressin signalling:
+Boone and Deen. Physiology and pathophysiology of the vasopressin-regulated
+renal water reabsorption (2008).
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2518081/
+
+The video does not reproduce source figures or numerical trial effects.
+All artwork is original editable Manim geometry.

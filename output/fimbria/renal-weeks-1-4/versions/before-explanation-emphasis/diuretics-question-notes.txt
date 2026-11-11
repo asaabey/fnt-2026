@@ -1,0 +1,124 @@
+DIURETIC QUESTIONS — TEACHER NOTES
+Question labels match the topic-sorted main lesson: Q4 and Q5.
+
+Q4
+Consider three diuretics: mannitol, furosemide and hydrochlorothiazide. Which option correctly matches each drug to its main renal mechanism of action?
+
+A. Mannitol: retains water osmotically in tubular fluid; furosemide: blocks NCC in the distal convoluted tubule; hydrochlorothiazide: blocks NKCC2 in the thick ascending limb.
+B. Mannitol: retains water osmotically in tubular fluid; furosemide: blocks NKCC2 in the thick ascending limb; hydrochlorothiazide: blocks NCC in the distal convoluted tubule.
+C. Mannitol: blocks ENaC in the collecting system; furosemide: blocks NKCC2 in the thick ascending limb; hydrochlorothiazide: blocks NCC in the distal convoluted tubule.
+D. Mannitol: retains water osmotically in tubular fluid; furosemide: blocks V2 receptors in the collecting duct; hydrochlorothiazide: blocks NCC in the distal convoluted tubule.
+
+Correct answer: B. Mannitol is a filtered, poorly reabsorbed osmole → ↓ tubular water reabsorption, especially in water-permeable segments. Furosemide inhibits apical NKCC2 (Na+/K+/2Cl− cotransporter) in the water-impermeable thick ascending limb. Hydrochlorothiazide inhibits apical NCC (Na+/Cl− cotransporter) in the distal convoluted tubule.
+
+A swaps the loop and thiazide targets. C assigns the ENaC-blocking mechanism of amiloride to mannitol. D assigns the V2-antagonist mechanism of tolvaptan to furosemide.
+
+NKCC2 blockade → weaker medullary osmotic gradient → ↓ maximum urine-concentrating capacity, even with vasopressin present. Osmotic diuresis and natriuresis are distinct from selective aquaresis. Sources: D1–D2 in diuretics-question-notes.txt.
+
+Q5
+Spironolactone and amiloride are potassium-sparing diuretics; tolvaptan promotes aquaresis. Which option correctly identifies their direct renal targets?
+
+A. Spironolactone: ENaC; amiloride: mineralocorticoid receptor; tolvaptan: vasopressin V2 receptor.
+B. Spironolactone: mineralocorticoid receptor; amiloride: ENaC; tolvaptan: aquaporin-2 water channel.
+C. Spironolactone: mineralocorticoid receptor; amiloride: ENaC; tolvaptan: vasopressin V2 receptor.
+D. Spironolactone: mineralocorticoid receptor; amiloride: Na+/K+-ATPase; tolvaptan: vasopressin V2 receptor.
+
+Correct answer: C. Spironolactone blocks the intracellular mineralocorticoid receptor → ↓ aldosterone-driven sodium transport. Amiloride directly blocks apical epithelial sodium channels (ENaC). Both cause ↓ electrogenic sodium reabsorption in the aldosterone-sensitive distal nephron → ↓ driving force for potassium secretion.
+
+Tolvaptan blocks basolateral V2 receptors in collecting-duct principal cells → ↓ signalling for apical aquaporin-2 (AQP2) insertion. Result: ↑ water excretion relatively independently of electrolyte excretion — aquaresis.
+
+A swaps spironolactone and amiloride targets. B mistakes the downstream water channel for tolvaptan’s direct receptor target. D mistakes the basolateral sodium pump for amiloride’s apical channel target. The pump maintains gradients but is not directly inhibited by amiloride. Sources: D3–D5 in diuretics-question-notes.txt.
+
+EXPLANATION SLIDES
+
+Mannitol, loop diuretics and thiazides
+Correct answer: B.
+
+Mannitol: a filtered osmole remains in tubular fluid and opposes water reabsorption. It does not need to block a receptor or channel.
+
+Furosemide: blocks apical NKCC2 in the thick ascending limb.
+
+Hydrochlorothiazide: blocks apical NCC in the distal convoluted tubule.
+
+Option A swaps NKCC2 and NCC. Learning point: identify the nephron segment as well as the transporter.
+
+Diuretic mechanisms and molecular targets
+Option C is wrong: mannitol acts osmotically; amiloride is the ENaC blocker.
+
+Option D is wrong: furosemide blocks NKCC2; tolvaptan is the V2 antagonist.
+
+Mannitol, loops and thiazides can cause ↑ water excretion, but they do not share one molecular target.
+
+Learning point: ↑ urine volume does not make every drug a selective aquaretic.
+
+Medullary osmotic gradient and collecting-duct water permeability
+The loop system helps establish a medullary osmotic gradient; urea recycling contributes, especially in the inner medulla.
+
+Vasa recta countercurrent exchange helps preserve the gradient.
+
+Vasopressin acts at V2 receptors, promoting apical aquaporin-2 insertion in collecting-duct principal cells. Water then moves down an osmotic gradient.
+
+A concentrating defect can arise from failure of either the gradient or the water-permeability response.
+
+Mineralocorticoid receptors, ENaC and V2 receptors
+Correct answer: C.
+
+Spironolactone → intracellular mineralocorticoid receptor.
+Amiloride → apical ENaC.
+Tolvaptan → basolateral vasopressin V2 receptor.
+
+Aldosterone regulates sodium transport through its receptor; amiloride blocks sodium entry directly.
+
+Learning point: spironolactone and amiloride share potassium-sparing effects through different direct targets.
+
+Diuretic receptor, channel and pump targets
+A is wrong: spironolactone blocks the mineralocorticoid receptor; amiloride blocks ENaC.
+
+B is wrong: tolvaptan blocks V2 signalling → ↓ AQP2 insertion; it does not directly plug AQP2.
+
+D is wrong: Na+/K+-ATPase is basolateral and sustains ion gradients; amiloride’s target is apical ENaC.
+
+Learning point: distinguish the drug’s direct target from downstream transport changes.
+
+Potassium-sparing diuresis and aquaresis
+Spironolactone and amiloride → ↓ electrogenic distal sodium reabsorption. Less negative lumen → ↓ driving force for potassium secretion. Potassium excretion also depends on distal delivery, flow and potassium availability.
+
+Tolvaptan → ↓ vasopressin-dependent collecting-duct water permeability. Its characteristic effect is aquaresis, rather than the salt-and-water loss of conventional natriuretic diuretics.
+
+Learning point: predict effects from the pathway being interrupted; do not equate every ↑ in urine volume with sodium loss.
+
+Diuretic targets along the nephron
+Proximal tubule:
+• Mannitol: osmotic water retention in tubular fluid; also acts in other water-permeable segments.
+• Acetazolamide: carbonic anhydrase inhibition → ↓ bicarbonate reabsorption.
+• SGLT2 inhibitors: ↓ sodium–glucose cotransport → glycosuria and osmotic diuresis, with natriuretic effects.
+
+Thick ascending limb: loop diuretics → NKCC2.
+Distal convoluted tubule: thiazides → NCC.
+Aldosterone-sensitive distal nephron: spironolactone → mineralocorticoid receptor; amiloride → ENaC.
+Collecting duct: tolvaptan → V2 receptor → ↓ AQP2 insertion.
+
+Targets include an enzyme, cotransporters, a channel and receptors. Mannitol acts as an osmole.
+
+REFERENCES — checked 11 November 2026
+D1. Mannitol prescribing information, mechanism of action.
+https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc
+D2. Clinical Pharmacology in Diuretic Use: NKCC2 and NCC targets.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6682831/
+D3. ALDACTONE prescribing information: mineralocorticoid-receptor antagonism.
+https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc&version=25
+D4. Improvement in blood pressure with inhibition of the epithelial sodium channel in blacks with hypertension: direct ENaC versus aldosterone-receptor targets.
+https://pubmed.ncbi.nlm.nih.gov/16116042/
+D5. SAMSCA prescribing information: V2 antagonism and aquaresis.
+https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5526617c-c7b9-4556-886d-729bbabbc566
+D6. Acetazolamide prescribing information: carbonic anhydrase inhibition.
+https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0913db35-3f08-4d82-8394-486bd9a487c4
+D7. JARDIANCE prescribing information: SGLT2 inhibition and urinary glucose excretion.
+https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/204629s033lbl.pdf
+
+Scope: the questions test renal mechanisms, not indications or prescribing choices. The nephron map adds acetazolamide and SGLT2 inhibitors for context; these are not extra components of the two answer options. Spironolactone is not a direct ENaC blocker; tolvaptan is not a direct AQP2 blocker. No claim is made that every natriuretic weakens the medullary gradient.
+
+VIDEO
+Diuretics: sites of action, transporters and receptors
+https://youtu.be/HfeTV6MAxzM
+Lesson step: diuretics-mechanisms-video, after Q5’s nephron-map summary and before Q6 (water load).

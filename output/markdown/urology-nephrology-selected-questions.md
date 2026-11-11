@@ -1,0 +1,1280 @@
+# Urology, nephrology and urogynaecology: selected questions
+
+Reviewed all 163 questions in the two supplied papers. Selected **37 core questions** plus **7 additional questions with an indirect connection** (44 total).
+
+Scope includes kidney disease and renal physiology, transplantation, the urinary tract, male genital anatomy/development and fertility, and female urinary/pelvic-floor topics. Selection follows the content regardless of the original subject heading. Pure obstetric, ovarian/menstrual and general sexual-health questions are omitted unless they have a specific urological, renal or pelvic-floor connection.
+
+Original question numbers are retained and prefixed with **Main** or **Bonus**. Topic labels and selection reasons are editorial additions, not answer keys. Original stems, choices and credits are retained; only layout and reading order have been tidied. The six slides in Bonus Q45 contain statements the exam asks the student to evaluate; they are transcribed as supplied.
+
+Figures and text embedded in figures remain in linked source-page images. Source-page numbers below refer to the original PDFs. The source papers' student-authored status and disclaimers continue to apply.
+
+[Selection index and rationale](urology-nephrology-selection-index.md)
+
+
+## Renal physiology, kidney disease and transplantation
+
+### Main Q23
+
+**Topic:** Kidney-transplant maintenance immunosuppression
+
+**Reason for inclusion:** Direct kidney-transplant pharmacology.
+
+**Source:** [Main paper, original question 23](practice-exam-1-main-paper.md#question-23), PDF page 16.
+
+**Subject:** Pharmacology
+
+A 55 year old patient, with a history of hyperlipidaemia, undergoes a kidney transplant.
+
+To prevent organ transplant rejection, which long-term drug regime is most appropriate?
+
+- **A.** Thalidomide (immunomodulatory drug) + corticosteroid
+
+- **B.** Sirolimus (mTOR inhibitor) + corticosteroid
+
+- **C.** Tacrolimus (calcineurin inhibitor) + mycophenolate mofetil (anti-metabolite) + corticosteroid
+
+- **D.** Basiliximab (IL-2 receptor antagonist) + mycophenolate mofetil (anti-metabolite) + corticosteroid
+
+Author: Angela Zheng
+
+### Main Q24
+
+**Topic:** Sirolimus pharmacology
+
+**Reason for inclusion:** Relevant immunosuppressant pharmacology for renal transplantation.
+
+**Source:** [Main paper, original question 24](practice-exam-1-main-paper.md#question-24), PDF page 16.
+
+**Subject:** Pharmacology
+
+Which of the following is true regarding Sirolimus (mTOR inhibitor)?
+
+- **A.** Has high oral absorption
+
+- **B.** Causes delayed wound healing
+
+- **C.** Blocks S-G2 phase transition
+
+- **D.** Directly prevents IL-2 expression by T cells
+
+Author: Angela Zheng
+
+### Bonus Q18
+
+**Topic:** Iron infusions, renal phosphate wasting and hypophosphataemia
+
+**Reason for inclusion:** Explicit renal phosphate handling and drug-related electrolyte disturbance.
+
+**Source:** [Bonus paper, original question 18](practice-exam-1-bonus-questions.md#question-18), PDF page 17.
+
+**Subject:** Pharmacology
+
+In October 2026, the ABC published an article which detailed growing concerns over the risks of iron infusions. They note that the rates of iron infusions across Australia have increased over the past decade, especially amongst women of reproductive age. It is believed that ferric carboxymaltose (FCM) infusions increase levels of intact fibroblast growth factor 23 (iGFG23), which can cause hyperparathyroidism, renal wasting of phosphate and thus hypophosphataemia.
+
+Regarding the use of ferric carboxymaltose infusions, which of the following is correct?
+
+- **A.** Where oral iron cannot be tolerated, intramuscular injections are usually preferred to intravenous infusions.
+
+- **B.** Because oral therapy also uses FCM preparations, adverse effects are due to intravenous administration.
+
+- **C.** For patients with a past history of a FCM reaction, intravenous iron-sucrose-type infusions are available.
+
+- **D.** In the event of symptomatic hypophosphataemia, intravenous iron chelators should be given immediately. Source: https://www.abc.net.au/news/2026-10-15/australians-call-for-stronger-warnings-on-iron-infusion-risks/107264142
+
+Author: Allen Trang
+
+### Bonus Q33
+
+**Topic:** Hypoxia, renal erythropoietin and erythropoiesis
+
+**Reason for inclusion:** Tests the endocrine role of the kidneys.
+
+**Source:** [Bonus paper, original question 33](practice-exam-1-bonus-questions.md#question-33), PDF page 31.
+
+**Subject:** Haematology
+
+Dan Heng, a 30-year-old male, moves to a high-altitude research station. Over several weeks, his body undergoes physiological adaptations to the lower oxygen tension.
+
+Which of the following describes the correct sequence of events initiated by this hypoxaemia?
+
+- **A.** Sensed by the liver → Increased iron absorption → Maturation of multipotential stem cells.
+
+- **B.** Sensed by the spleen → Release of stored reticulocytes → Increased haemoglobin synthesis.
+
+- **C.** Sensed by the kidneys → Secretion of erythropoietin → Stimulation of red bone marrow.
+
+- **D.** Sensed by the bone marrow → Rapid division of proerythroblasts → Decreased cell transit time.
+
+Author: Alex Li
+
+[View source-page figures and original layout](assets/practice-exam-1-bonus-questions/page-031.png)
+
+### Bonus Q55
+
+**Topic:** Proteinuria, reduced eGFR and systemic disease
+
+**Reason for inclusion:** Renal manifestations are central to the clinical presentation.
+
+**Source:** [Bonus paper, original question 55](practice-exam-1-bonus-questions.md#question-55), PDF page 47.
+
+**Subject:** Clinical Skills
+
+A 70-year-old male presents to the GP, saying he feels ‘weaker’ than ever before. He has diffuse bone pain of the vertebral column and his muscles feel weak. He also reports infrequent urination, frothy urine and mentions that he managed to pass a kidney stone by himself a few days ago. He has no relevant history otherwise.
+
+On examination, he shows pallor, tachycardia and postural hypotension. He has generalised muscle weakness, hyporeflexia and significant back pain; chest sounds are normal and no thyroid abnormalities detected. Urinalysis confirms proteinuria, but is normal otherwise. An FBE reveals normochromic normocytic anaemia, leukopenia, and numerous Rouleaux formations on peripheral blood smears. Other investigations show a low eGFR, indicating chronic kidney disease, as well as hypergammaglobulinaemia. A CT scan is also ordered and shown below.
+
+Image: Case courtesy of Dr Abiola Ayodele, Radiopaedia.org, rID: 88393
+
+The diagnosis for this patient is
+
+- **A.** Haemophilia A
+
+- **B.** Acute myeloid leukaemia
+
+- **C.** Acute lymphoblastic leukaemia
+
+- **D.** Multiple myeloma
+
+Author: Allen Trang
+
+[View source-page figures and original layout](assets/practice-exam-1-bonus-questions/page-047.png)
+
+## Clinical urology and genitourinary infection
+
+### Main Q6
+
+**Topic:** Urethral foreign bodies and urethral injury
+
+**Reason for inclusion:** Urethral anatomy, innervation and trauma.
+
+**Source:** [Main paper, original question 6](practice-exam-1-main-paper.md#question-6), PDF page 5.
+
+**Subject:** Anatomy
+
+Urethral sounding is a practice in which an object, typically solid, is inserted into the urethra. This can be done for medical reasons, but often is done recreationally for sexual gratification. It is more frequently associated with men.
+
+In 2019, a case report was published, detailing the plight of an 18-year-old male who had been experimenting with his partner by inserting many magnetic beads into his urethral meatus. He presented to the emergency department with pain and an inability to remove the beads. A radiograph is shown below.
+
+Lindsay JS. The practice of 'urethral sounding' complicated by retained magnetic beads within the bladder and urethra: diagnosis and review of management. Am J Case Rep. 2019 Dec;20:1841-1844. doi:10.12659/AJCR.919439
+
+Which of the following statements, regarding sounding in men, is incorrect?
+
+- **A.** The dorsal nerve of the penis, a branch of the pudendal nerve, transmits the physical sensations during urethral sounding.
+
+- **B.** The membranous part of the urethra is highly vulnerable to rupture and damage during urethral sounding.
+
+- **C.** The distal urethra is covered by corpus spongiosum, which is more compliant than the corpora cavernosa.
+
+- **D.** The neurovasculature of the penis is likely to be damaged if the sound pierces the walls of the urethra.
+
+Author: Allen Trang
+
+[View source-page figures and original layout](assets/practice-exam-1-main-paper/page-005.png)
+
+### Main Q8
+
+**Topic:** Penile constriction and vascular compromise
+
+**Reason for inclusion:** Penile blood supply, ischaemia and lymphatic drainage; the scenario is partly in the figures.
+
+**Source:** [Main paper, original question 8](practice-exam-1-main-paper.md#question-8), PDF page 7.
+
+**Subject:** Anatomy
+
+A second year medical student has become an aspiring medical influencer after receiving an “Exceeds Standard” grade in all criteria on their Health Promotion assignment. However, unlike their Health Promotion assignment, they choose to conduct their research on social media rather than depending on Claude to do the heavy lifting.
+
+They claim to be brainstorming for their next YouTube video, which they insist will be when the algorithm turns them into a media sensation, when they come across this Reddit post that was posted on the 7th of December, 2022.
+
+After contemplating the posed question for a grand total of 10 seconds, they decide to open the comments section to see if they can plagiarise any responses from armchair Reddit doctors to potentially propose in their upcoming video as medical advice. An excerpt of the comments section has been provided below.
+
+Source: Adapted from https://www.reddit.com/r/AskReddit/s/dpQPuBsiKK
+
+Which of the following is least likely to be true?
+
+- **A.** The suggestion from u/CrowWarrior would be effective, albeit slower than the gold standard.
+
+- **B.** If the cylinder has blood flow like u/renton56 states, it will continue to engorge over time due to compression of vascular structures against the M&Ms tube, resulting in ischaemia and eventually necrosis.
+
+- **C.** If the suggestion from u/CrowWarrior was not performed carefully and resulted in sharp pain, another consequence could be enlarged superficial inguinal lymph nodes.
+
+- **D.** Following either suggestion from u/renton56 would be an effective solution.
+
+Author: Tony Zhang
+
+[View source-page figures and original layout](assets/practice-exam-1-main-paper/page-007.png)
+
+### Main Q9
+
+**Topic:** Acute scrotal and perineal infection
+
+**Reason for inclusion:** Recognition and management of a urological emergency.
+
+**Source:** [Main paper, original question 9](practice-exam-1-main-paper.md#question-9), PDF page 8.
+
+**Subject:** Anatomy
+
+A 36 year old patient assigned male at birth presents to the emergency department with a 2-day history of progressively worsening scrotal pain which was initially noticed as a small swelling near the base of the scrotum. However, the pain has since spread to the crotch, and over the last 12 hours, has become severe and constant.
+
+His past medical history includes type 2 diabetes mellitus for the past 10 years, which he manages with metformin and insulin, but has missed doses for the past few days while unwell. Relevant systems review findings include subjective fever, chills and general unwellness.
+
+Preliminary vitals are provided below.
+
+- Temperature: 38.9॰C
+
+- Heart rate: 124 bpm
+
+- Blood pressure: 95/52 mmHg
+
+- Respiratory rate: 26
+
+- Pulse oximetry: 95% SpO2 RA
+
+Notable physical examination findings include visible erythema and oedema in the perineal region. The scrotum is swollen and oedematous, with a tense bulla and phimosis present. Crepitus is noted from light touch in the perineal region but is extremely uncomfortable for the patient.
+
+What would be most important regarding their management?
+
+- **A.** Aspirating the scrotal swelling for staining and culturing
+
+- **B.** Obtaining a scrotal ultrasound and CT with intravenous contrast
+
+- **C.** Providing intravenous broad spectrum antibiotics
+
+- **D.** Contacting the general surgery department
+
+Author: Tony Zhang
+
+### Main Q81
+
+**Topic:** Urethritis, dysuria and STI testing
+
+**Reason for inclusion:** Urinary presentation, specimen selection and genitourinary microbiology.
+
+**Source:** [Main paper, original question 81](practice-exam-1-main-paper.md#question-81), PDF page 54.
+
+**Subject:** Microbiology
+
+A 35-year-old male presents with dysuria and a watery-to-mucopurulent urethral discharge.
+
+Consider the following statements involving investigations and diagnosis for this patient.
+
+- **I.**   A NAAT for Chlamydia trachomatis (CT) should be performed.
+
+- **II.**   A NAAT for Neisseria gonorrhoeae (NG) should be performed.
+
+- **III.**   A mid-stream urine sample should be obtained for NAAT testing.
+
+- **IV.**   If a diagnosis of CT is confirmed it must be reported to the local health department.
+
+Which of the following statements is correct?
+
+- **A.** I, III and IV
+
+- **B.** I, II and IV
+
+- **C.** I and IV
+
+- **D.** All of the statements
+
+Author: Indulee Jayawardena
+
+### Main Q86
+
+**Topic:** Acute pelvic pain with a renal-stone differential
+
+**Reason for inclusion:** One of the cases specifically involves haematuria and possible urinary stones.
+
+**Source:** [Main paper, original question 86](practice-exam-1-main-paper.md#question-86), PDF page 57.
+
+**Subject:** Clinical Skills
+
+5 female patients aged in their 20s present to the ED with acute onset severe pelvic pain in the right iliac fossa.
+
+- Patient 1: The pain started suddenly whilst lifting weights at the gym as was originally sharp and stabbing, but has now turned into an ache. She has noticed some light vaginal bleeding. She has recently been taking fertility treatments in preparation for an IVF cycle coming up in a few days.
+
+- Patient 2: The pain started suddenly and is on and off. She has noticed some blood in her urine. She has a past medical history of Crohn’s disease.
+
+- Patient 3: The pain started suddenly and severely and is associated with nausea and vomiting. She has a history of endometriosis and has a known 6cm chocolate cyst on her right ovary.
+
+- Patient 4: She has had dull cramping pain in the right side of her pelvis for a few days, associated with moderate vaginal bleeding and passing a red, fleshy, pear shaped cast. Suddenly the pain became severe and is associated with nausea and dizziness. Her last menstrual period was 6 weeks ago. Her cycle is usually regular, every 4 weeks.
+
+- Patient 5: The pain was originally around her belly button, then moved to her right pelvic region. It hurts to move or cough.
+
+Based on their histories, what are the most likely diagnoses?
+
+| Option | Patient 1 | Patient 2 | Patient 3 | Patient 4 | Patient 5 |
+| --- | --- | --- | --- | --- | --- |
+| A | Ectopic pregnancy | Kidney stone | Ovarian cyst rupture | Ovarian torsion | Appendicitis |
+| B | Ovarian cyst rupture | Kidney stone | Ovarian torsion | Ectopic pregnancy | Appendicitis |
+| C | Kidney stone | Ovarian torsion | Ovarian cyst rupture | Ectopic pregnancy | Appendicitis |
+| D | Ovarian torsion | Ovarian cyst rupture | Ectopic pregnancy | Kidney stone | Appendicitis |
+
+Author: Giselle Robinson
+
+### Main Q92
+
+**Topic:** Investigations including testicular torsion
+
+**Reason for inclusion:** Contains a directly urological diagnostic-investigation pairing.
+
+**Source:** [Main paper, original question 92](practice-exam-1-main-paper.md#question-92), PDF page 60.
+
+**Subject:** Clinical Skills
+
+Which of the following correctly pairs an appropriate first line investigation to the suspected diagnosis?
+
+| Option | Diagnosis | First-line investigation |
+| --- | --- | --- |
+| A | Ovarian torsion | Doppler ultrasound |
+| B | Testicular torsion | Doppler ultrasound |
+| C | Postpartum haemorrhage | Transvaginal ultrasound |
+| D | Ectopic pregnancy | Transvaginal ultrasound |
+
+Author: Angela Zheng
+
+### Main Q94
+
+**Topic:** Haematuria with abnormal coagulation studies
+
+**Reason for inclusion:** Systemic bleeding disorders in the differential for haematuria; primarily a haematology question.
+
+**Source:** [Main paper, original question 94](practice-exam-1-main-paper.md#question-94), PDF page 60.
+
+**Subject:** Clinical Skills
+
+A young male patient presents with haematuria. He also describes having many large bruises and a painful, swollen knee over the past few months. You decide to do some blood tests.
+
+His APPT and PT are elevated but correct to normal with mixing studies. Platelets are within the normal range.
+
+Which aspect attained on history is most relevant to these findings?
+
+- **A.** He was septic the day of the blood test and also noticed pain, swelling and redness of their calves.
+
+- **B.** He has a history of cystic fibrosis and struggles with frequent severe steatorrhoea.
+
+- **C.** His mother’s brother and uncle were diagnosed with Haemophilia A.
+
+- **D.** He has recently been in hospital and was given heparin therapy.
+
+Author: Giselle Robinson
+
+### Bonus Q2
+
+**Topic:** Penile fracture
+
+**Reason for inclusion:** Penile fascia, tunica albuginea, urethral injury and surgical management.
+
+**Source:** [Bonus paper, original question 2](practice-exam-1-bonus-questions.md#question-2), PDF page 2.
+
+**Subject:** Anatomy
+
+Blunt trauma to the penis can cause a penile fracture. Typically, ‘female superior’ and ‘rear entry’ positions in sexual intercouse have been linked with an increased risk; aggressive masturbation may also be a cause.
+
+In penile fractures, blunt trauma causes a sudden increase in pressure within the blood-filled structures of the penis, causing a rupture of the tissues enclosing it. Hence, it is considered a medical emergency.
+
+Which of the following is incorrect?
+
+- **A.** The patient may report an audible crack, pain, a loss of the erection and a haematoma.
+
+- **B.** Most patients would report a poor stream or urinary retention due to urethral damage.
+
+- **C.** Damage to Buck’s fascia can cause blood to track into the scrotum and abdominal wall.
+
+- **D.** Surgical treatment involves examining the tunica albuginea and repairing any defects.
+
+Author: Allen Trang
+
+### Bonus Q5
+
+**Topic:** Lower urinary tract symptoms and haematuria
+
+**Reason for inclusion:** Voiding symptoms, regional pain referral and treatment effects.
+
+**Source:** [Bonus paper, original question 5](practice-exam-1-bonus-questions.md#question-5), PDF page 5.
+
+**Subject:** Anatomy
+
+A 67-year-old male presents to the GP with haematuria, retention and hesitancy during micturition. An ultrasound is ordered and shown below.
+
+Image: Case courtesy of Frank Gaillard, Radiopaedia.org, rID: 10979
+
+Which of these would not be expected in this patient?
+
+- **A.** He would have noticed terminal haematuria and a slow progression to his symptoms.
+
+- **B.** Pain from this region could have referred to the penis, posterior scrotum or perianal region.
+
+- **C.** The drugs used to alleviate symptoms of this condition could also treat retrograde ejaculation.
+
+- **D.** It is possible that this could also cause obstruction of the bowels, causing possible constipation.
+
+Author: Allen Trang
+
+[View source-page figures and original layout](assets/practice-exam-1-bonus-questions/page-005.png)
+
+### Bonus Q45
+
+**Topic:** Chlamydia, gonorrhoea and genitourinary complications
+
+**Reason for inclusion:** Urethritis, dysuria, epididymitis, urine testing and related microbiology.
+
+**Source:** [Bonus paper, original question 45](practice-exam-1-bonus-questions.md#question-45), PDF page 39.
+
+**Subject:** Microbiology
+
+The O-week convenors of 2027 are making some pre-departure briefing slides for the Year 1s going on MedCamp. To ensure they are not liable for any foolish decisions made, they ensure their slides discuss protection.
+
+Some of the slides they have prepared, so far, are given below.
+
+**Slide 1: Bacterial STIs**
+
+- Chlamydia trachomatis and Neisseria gonorrhoea are amongst the most common STIs
+- It is common to get both simultaneously
+- These two are curable but tend to be asymptomatic
+
+**Slide 2: Chlamydia**
+
+- Obligate intracellular bacteria that infect mucosal epithelial cells
+- Signs and symptoms include: Mucopurulent discharge; Dysuria and proctitis; Cervicitis and epididymitis
+
+**Slide 3: Complications of Chlamydia**
+
+- Can cause reproductive and fertility issues within females later in life
+- Genital fluid contact with eyes can cause trachoma, which may lead to blindness
+- Can spread vertically to babies
+- Being infected predisposes to HIV
+
+**Slide 4: Gonorrhoea**
+
+- Gram negative diplococci
+- Excellent at immune evasion
+- Signs and symptoms include: Yellow or green discharge; Urethritis and dysuria; Cervicitis and epididymitis
+
+**Slide 5: Complications of Gonorrhoea**
+
+- Can cause infertility in both sexes
+- Can spread vertically to babies, which can cause debilitating complications
+- Can cause systemic complications
+- Being infected predisposes to HIV
+
+**Slide 6: Management**
+
+- Testing involves PCR or nucleic acid amplification test for both simultaneously
+- First-pass urine tests may also be done
+- Doxycycline is the first-line treatment
+- Both are notifiable diseases
+
+Which of the above slides contain incorrect information?
+
+- **A.** Slides 2, 3 and 6 only
+
+- **B.** Slide 3 only
+
+- **C.** Slide 5 only
+
+- **D.** Slides 1, 4 and 5 only
+
+Author: Allen Trang
+
+[View source-page figures and original layout](assets/practice-exam-1-bonus-questions/page-039.png)
+
+### Bonus Q57
+
+**Topic:** Erectile dysfunction and cardiovascular comorbidity
+
+**Reason for inclusion:** Erectile dysfunction, vascular risk factors and drug interactions.
+
+**Source:** [Bonus paper, original question 57](practice-exam-1-bonus-questions.md#question-57), PDF page 48.
+
+**Subject:** Clinical Skills
+
+A 69-year-old male presents to the GP with an inability to have sex. He says he has difficulty ‘getting it up’ and even when he does, he gets chest pain after enough time elapses. He has a smoking history of 40 pack-years and has consumed approximately 5 standard drinks per week for 50 years. He is not taking any drugs, other than some medications to help him maintain an erection.
+
+Blood tests show non-megaloblastic anaemia, high levels of liver enzymes, normal kidney function, hypercholesterolaemia, hyperlipidaemia, high fasting blood glucose and high HbA1c level; an ECG at rest is normal, but T-wave inversion is seen on exertion.
+
+It is unlikely that
+
+- **A.** Numerous atherosclerotic lesions are causing poor myocardial and penile perfusion.
+
+- **B.** Hyperglycaemia due to type II diabetes mellitus has caused microvascular damage.
+
+- **C.** The patient should not be given nitrovasodilators as it could be dangerous for him.
+
+- **D.** Beta blockers would be the ideal drug of choice as they reduce oxygen demand.
+
+Author: Allen Trang
+
+## Urogynaecology and female urinary symptoms
+
+### Main Q1
+
+**Topic:** Stress urinary incontinence and pelvic support
+
+**Reason for inclusion:** Direct urogynaecology: urethral support, pelvic-floor injury and continence.
+
+**Source:** [Main paper, original question 1](practice-exam-1-main-paper.md#question-1), PDF page 2.
+
+**Subject:** Anatomy
+
+A multiparous woman presents to her GP with a history of stress incontinence. She reports that every time she laughs, coughs or sneezes, urine ‘shoots’ out of her bladder.
+
+Which of the following is correct?
+
+- **A.** If the urethra is palpable through the anterior vaginal wall, it strongly suggests a urethrocele or cystocele.
+
+- **B.** As levator ani does not surround the urethra, tears during parturition have no effect on urinary continence.
+
+- **C.** Pubococcygeus and puborectalis are the muscles most commonly torn during the process of childbirth.
+
+- **D.** Women are more prone to urinary incontinence as men have a more complex external urethral sphincter.
+
+Author: Allen Trang
+
+### Main Q18
+
+**Topic:** Pelvic vascular anatomy and the ureter
+
+**Reason for inclusion:** Pelvic surgical anatomy, ureteric relationships and vesical vascular connections.
+
+**Source:** [Main paper, original question 18](practice-exam-1-main-paper.md#question-18), PDF page 14.
+
+**Subject:** Anatomy
+
+A patient undergoes a radical hysterectomy. 6 hours later, they develop continuous vaginal bleeding. Imaging identifies bleeding from a vessel running along the lateral wall of the upper vagina.
+
+Which of the following statements is true regarding the vessel?
+
+- **A.** It has low anatomical variability and is almost always a direct branch from the anterior division of the internal iliac artery
+
+- **B.** The vessel passes superiorly over the ureter near the lateral aspect of the cervix
+
+- **C.** The male equivalent of this vessel is the inferior vesical artery
+
+- **D.** It is commonly found travelling through the deep perineal pouch
+
+Author: Angela Zheng
+
+### Main Q32
+
+**Topic:** Genitourinary changes after menopause
+
+**Reason for inclusion:** Includes dysuria, incontinence, vaginal dryness and dyspareunia.
+
+**Source:** [Main paper, original question 32](practice-exam-1-main-paper.md#question-32), PDF page 19.
+
+**Subject:** Physiology
+
+Eve Strogen is a 50-year-old female who is postmenopausal. One day, she goes to the GP and talks about how ‘miserable’ menopause has made her. She has not been to the GP since her last pap smear a few years ago, before she had undergone menopause.
+
+Which of the following is not typically seen following menopause?
+
+| Option | Genitourinary | Musculoskeletal | Adiposity | Cardiovascular |
+| --- | --- | --- | --- | --- |
+| A. | Vaginal dryness | Osteoporosis | Significantly greater adiposity | Atherosclerosis |
+| B. | Dysuria | Osteopenia | Increased intra-abdominal fat | Hypertension |
+| C. | Incontinence | Osteopenia | Significantly increased BMI | Increased LDL |
+| D. | Dyspareunia | Osteoporosis | Increased proportion of fat mass | Decreased HDL |
+
+Author: Allen Trang
+
+### Main Q84
+
+**Topic:** Urinary symptoms in chronic pelvic disease
+
+**Reason for inclusion:** Urinary urgency/frequency, bladder compression and renal-vein relationships.
+
+**Source:** [Main paper, original question 84](practice-exam-1-main-paper.md#question-84), PDF page 56.
+
+**Subject:** Clinical Skills
+
+A 28 year old female patient comes after 2 years of trying to conceive. She has heavy bleeding and severe pain during her periods, as well as chronic pelvic pain between periods. She also has urinary issues, including urgency and frequency. She had a pelvic ultrasound a few years ago, which showed no abnormalities.
+
+Which option correctly describes a differential diagnosis and a consideration for investigations?
+
+- **A.** Endometriosis can cause all of these symptoms and many others, as the endometrium-like tissue can grow almost anywhere in the body, though is most commonly found in the pelvis. An ultrasound cannot rule out endometriosis.
+
+- **B.** Pelvic inflammatory disease can cause all of these symptoms, but is less likely if the patient does not have a fever and has no abnormal discharge on pelvic examination. A negative test for gonorrhoea and chlamydia can rule out PID.
+
+- **C.** Subserosal fibroids can cause infertility via affecting implantation, and submucosal fibroids can cause urinary symptoms by directly pushing on the bladder. A transvaginal ultrasound and large fibroids are more likely to have a positive finding than a transabdominal ultrasound and small fibroids.
+
+- **D.** External compression of the left renal vein can cause primary vein insufficiency, whereas incompetent valves in the ovarian veins cause secondary vein insufficiency. Signs of pelvic congestion syndrome on Doppler ultrasound include dilated veins with reversed blood flow.
+
+Author: Giselle Robinson
+
+## Male genital anatomy, development and andrology
+
+### Main Q10
+
+**Topic:** Seminiferous epithelium and cell identification
+
+**Reason for inclusion:** Testicular histology relevant to male reproductive urology.
+
+**Source:** [Main paper, original question 10](practice-exam-1-main-paper.md#question-10), PDF page 9.
+
+**Subject:** Anatomy
+
+Consider the following histological slide of the male reproductive system.
+
+Adapted from: Copyright © 2011 Michael Bonert, MD, FRCPC (https://commons.wikimedia.org/wiki/User:Nephron), CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+
+Which is true regarding the type of cell indicated by the arrows?
+
+- **A.** It forms the basal section of the complex stratified epithelium
+
+- **B.** It is a type of diploid germ cell
+
+- **C.** Adjacent cells of this type have tight junctions between each other
+
+- **D.** It does not respond to FSH or testosterone stimulation
+
+Author: Angela Zheng
+
+[View source-page figures and original layout](assets/practice-exam-1-main-paper/page-009.png)
+
+### Main Q11
+
+**Topic:** Male reproductive duct histology
+
+**Reason for inclusion:** Duct structure, epithelium and sperm storage.
+
+**Source:** [Main paper, original question 11](practice-exam-1-main-paper.md#question-11), PDF page 10.
+
+**Subject:** Anatomy
+
+Consider the following histological slide of the male reproductive system.
+
+Image: https://histology.siu.edu/erg/RE030b.htm
+
+What is true regarding the structure shown above?
+
+- **A.** The structure shown consists of a single duct
+
+- **B.** This structure is lined by a pseudostratified epithelium with motile cilia
+
+- **C.** Spermatogenesis occurs in the tubules of this structure
+
+- **D.** Sperm is mainly stored in the head of this structure
+
+Author: Angela Zheng
+
+[View source-page figures and original layout](assets/practice-exam-1-main-paper/page-010.png)
+
+### Main Q12
+
+**Topic:** Spermatogenesis and chromosome content
+
+**Reason for inclusion:** Basic science underpinning male fertility.
+
+**Source:** [Main paper, original question 12](practice-exam-1-main-paper.md#question-12), PDF page 10.
+
+**Subject:** Anatomy
+
+You see a round cell within the seminiferous epithelium, its chromosomes are lined up in the middle and it is undergoing metaphase. What is the identity of this less if it had 46 chromatids?
+
+- **A.** Primary spermatocyte
+
+- **B.** Secondary spermatocyte
+
+- **C.** Spermatid
+
+- **D.** It can either be a primary or secondary spermatocyte
+
+Author: Angela Zheng
+
+[View source-page figures and original layout](assets/practice-exam-1-main-paper/page-010.png)
+
+### Main Q16
+
+**Topic:** External genital development and Leydig-cell function
+
+**Reason for inclusion:** Urogenital folds, labioscrotal development and androgen effects.
+
+**Source:** [Main paper, original question 16](practice-exam-1-main-paper.md#question-16), PDF page 13.
+
+**Subject:** Anatomy
+
+Leydig cell hypoplasia is caused by mutations in the LHCGR gene leading to underdeveloped and sparse Leydig cells in the interstitium.
+
+In a foetus with an otherwise normal XY karyotype, what may you expect to see during the 10th week of gestation?
+
+- **A.** The genital tubercles have not developed yet
+
+- **B.** The genital tubercles appears identical in male and female embryos as it is still in the indifferent stage
+
+- **C.** The urogenital folds and labioscrotal swellings have fused in the midline
+
+- **D.** The urogenital folds and labioscrotal swellings have not completely fused in the midline
+
+Author: Angela Zheng
+
+### Main Q17
+
+**Topic:** Undescended testes and duct development
+
+**Reason for inclusion:** Paediatric urology and persistent embryological structures.
+
+**Source:** [Main paper, original question 17](practice-exam-1-main-paper.md#question-17), PDF page 13.
+
+**Subject:** Anatomy
+
+An 8‑month‑old phenotypically male infant with a 46,XY karyotype presents with undescended testes. He is subsequently diagnosed with Persistent Müllerian Duct Syndrome (PMDS).
+
+Which of the following is the most likely cause of this atypical development?
+
+- **A.** Hyperplasia of fetal Leydig cells
+
+- **B.** Inactivation of SRY gene on Y chromosome
+
+- **C.** Chromosomal translocation of the Y chromosome
+
+- **D.** Anti-mullerian hormone insufficiency
+
+Author: Indulee Jayawardena
+
+### Main Q34
+
+**Topic:** Sperm maturation and fertilisation failure
+
+**Reason for inclusion:** Sperm function and male-factor fertility assessment.
+
+**Source:** [Main paper, original question 34](practice-exam-1-main-paper.md#question-34), PDF page 20.
+
+**Subject:** Physiology
+
+Ejaculated sperm was obtained from a healthy male and placed with an oocyte in a laboratory dish. Despite normal sperm motility, no fertilisation occurred.
+
+Which of the following is most likely to be true?
+
+- **A.** The sperm has denatured due to prolonged exposure to an inhospitable environment
+
+- **B.** The sperm is unable to fuse with the oocyte’s surface due to incomplete maturation of its plasma membrane
+
+- **C.** A rise in intracellular calcium in the oocyte has prevented sperm-egg fusion at the oocyte surface
+
+- **D.** The Juno receptor has been removed from the oolemma, preventing sperm-egg membrane interaction
+
+Author: Indulee Jayawardena
+
+[View source-page figures and original layout](assets/practice-exam-1-main-paper/page-020.png)
+
+### Main Q36
+
+**Topic:** Small testes, oligospermia and gonadotrophins
+
+**Reason for inclusion:** Andrology and hormonal assessment of male infertility.
+
+**Source:** [Main paper, original question 36](practice-exam-1-main-paper.md#question-36), PDF page 22.
+
+**Subject:** Physiology
+
+You are examining a patient (AMAB), he has Tanner stage V development of pubic hair, normal penile size and testes that are smaller than expected. The patient reports normal libido, erectile function and is of healthy muscle mass. Semen tests reveal oligospermia.
+
+Using the information provided, what might you expect to see on a blood test?
+
+- **A.** Decreased LH, normal FSH
+
+- **B.** Normal LH, decreased FSH
+
+- **C.** Increased LH, increased FSH
+
+- **D.** Decreased LH, decreased FSH
+
+Author: Angela Zheng
+
+### Main Q46
+
+**Topic:** Anabolic steroids and male reproductive function
+
+**Reason for inclusion:** Testicular atrophy, fertility and endocrine feedback.
+
+**Source:** [Main paper, original question 46](practice-exam-1-main-paper.md#question-46), PDF page 28.
+
+**Subject:** Physiology
+
+The Enhanced Games are a sports event which permits the use of performance-enhancing drugs; it has faced significant criticisms from many groups. The first event was held on 24 May 2026.
+
+Source: <https://www.enhanced.com/>
+
+One of the most common performance-enhancing drugs are anabolic steroids, which are synthetic drugs related to testosterone. They are used to help build muscle quickly.
+
+Which of the following statements, regarding the use of anabolic steroids in men, is true?
+
+- **A.** Their use is associated with a significantly higher libido and marginally increased fertility.
+
+- **B.** In terms of sexual health, patients chiefly complain of priapism, or prolonged erections.
+
+- **C.** Feminisation can occur, resulting in signs such as gynaecomastia and testicular atrophy.
+
+- **D.** Exogenous androgens do not affect FSH levels as inhibin is required for negative feedback.
+
+Author: Allen Trang
+
+[View source-page figures and original layout](assets/practice-exam-1-main-paper/page-028.png)
+
+### Main Q47
+
+**Topic:** Testicular endocrine feedback
+
+**Reason for inclusion:** Sertoli/Leydig physiology and the regulation of inhibin.
+
+**Source:** [Main paper, original question 47](practice-exam-1-main-paper.md#question-47), PDF page 28.
+
+**Subject:** Physiology
+
+Using these three statements, deduce the identity of Hormone A, Hormone B and Cell A. 1. Hormone A acts on Cell A in the testis. 2. In response to Hormone A stimulation, Cell A produces inhibin. 3. In order to suppress the release of Hormone A, inhibin must antagonise Hormone B in the anterior pituitary gland.
+
+| Option | Hormone A | Hormone B | Cell A |
+| --- | --- | --- | --- |
+| A. | LH | FSH | Sertoli |
+| B. | FSH | Activin | Sertoli |
+| C. | FSH | GnRH | Leydig |
+| D | LH | FSH | Leydig |
+
+Author: Angela Zheng
+
+[View source-page figures and original layout](assets/practice-exam-1-main-paper/page-028.png)
+
+### Main Q48
+
+**Topic:** Oestrogens and aromatisation in males
+
+**Reason for inclusion:** Andrology-related endocrine physiology; broader than urinary medicine.
+
+**Source:** [Main paper, original question 48](practice-exam-1-main-paper.md#question-48), PDF page 29.
+
+**Subject:** Physiology
+
+The term ‘soy boy’ is used commonly in many online communities to describe a male who lacks masculine characteristics, i.e., a male who is feminine.
+
+Soy contains isoflavones, which are naturally occurring compounds found in plants. These isoflavones may be considered to be phytoestrogens, meaning that they are exogenous steroids with a weak oestrogen-like activity. Whether or not soy isoflavones disrupt the male endocrine system is disputed.
+
+Consider the following statements regarding oestrogens in the male body.
+
+- **I.**   The male body is capable of peripherally converting endogenous testosterone into oestrogens with aromatase.
+
+- **II.**   Oestrogens, like oestradiol, fully and completely antagonise the effects of testosterone on the male body.
+
+- **III.**   The use of aromatase inhibitors in adolescent males is unlikely to have significant negative health effects.
+
+- **IV.**   Obesity increases the rate at which a male can synthesise oestrogen, which can thus cause gynaecomastia.
+
+Which of the above statements is correct?
+
+- **A.** I only
+
+- **B.** II only
+
+- **C.** I, II and III only
+
+- **D.** I and IV only
+
+Author: Allen Trang
+
+### Bonus Q6
+
+**Topic:** Epididymal/testicular histology and sperm handling
+
+**Reason for inclusion:** Male genital anatomy and reproductive-tract function.
+
+**Source:** [Bonus paper, original question 6](practice-exam-1-bonus-questions.md#question-6), PDF page 6.
+
+**Subject:** Anatomy
+
+The slang term ‘blue balls’ refers to an uncomfortable achy sensation within the genitals caused by prolonged sexual arousal without achieving ejaculation. It is also called ‘epididymal hypertension’; infrequently, the term ‘blue vulva’ is used for women. Whilst it seems amusing, there are concerns this term is used for sexual coercion.
+
+Physiological explanations have been espoused, which posit that oedema is responsible for the uncomfortable sensation. However, the evidence for such explanations is scant.
+
+Consider the following histological slide.
+
+Image: Copyright © 2011 Michael Bonert, MD, FRCPC (https://commons.wikimedia.org/wiki/User:Nephron), CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+
+Which of the following statements, regarding the structure shown above, is true?
+
+- **A.** During sexual arousal, cilia in this structure are responsible for ‘sweeping’ the spermatids for ejaculation.
+
+- **B.** Long periods without ejaculation prevent removal of sperm from testes, causing this structure to distend.
+
+- **C.** The testes are both an endocrine and exocrine gland, as evidenced by the Leydig cells found between tubes.
+
+- **D.** This structure is the primary site of spermatid maturation and storage, as well as the reabsorption of fluids.
+
+Author: Allen Trang
+
+[View source-page figures and original layout](assets/practice-exam-1-bonus-questions/page-006.png)
+
+### Bonus Q7
+
+**Topic:** Testicular histology and fertility
+
+**Reason for inclusion:** Spermatogenesis, testicular cell function and fertility interpretation.
+
+**Source:** [Bonus paper, original question 7](practice-exam-1-bonus-questions.md#question-7), PDF page 7.
+
+**Subject:** Anatomy
+
+In 2024, a study was published which found microplastics in all human testes examined. It is believed that some plastics, like bisphenol A (BPA) can act as endocrine disruptors due to their chemical similarities to oestrogens.
+
+Consider the following histological section.
+
+Image: Copyright © 2011 Michael Bonert, MD, FRCPC (https://commons.wikimedia.org/wiki/User:Nephron), CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+
+Study: Hu CJ, Garcia MA, Nihart A et al. Microplastic presence in dog and human testis and its potential association with sperm count and weights of testis and epididymis. Toxicol Sci. 2025;200(2):235–240. doi:10.1093/toxsci/kfae060
+
+In this individual, it can be concluded that
+
+- **A.** He is infertile due to Sertoli cell aplasia, causing a failure of spermatogenesis in the seminiferous tubules.
+
+- **B.** Atrophy of intertubular cells has led to oestrogen predominance and feminisation, which has caused testicular atrophy.
+
+- **C.** His fertility status is indeterminate as the timing and staging of spermatogenesis differs within the testes.
+
+- **D.** Whilst it may be possible to conceive with assistive technologies, this patient will have azoospermia.
+
+Author: Allen Trang
+
+[View source-page figures and original layout](assets/practice-exam-1-bonus-questions/page-007.png)
+
+### Bonus Q8
+
+**Topic:** Identification of seminiferous-tubule cells
+
+**Reason for inclusion:** Testicular histology.
+
+**Source:** [Bonus paper, original question 8](practice-exam-1-bonus-questions.md#question-8), PDF page 8.
+
+**Subject:** Anatomy
+
+Consider the following histological section.
+
+Image: Adapted from https://www.meyershistologyatlas.com/
+
+Which of the following correctly identifies the cells depicted?
+
+| Option | W | X | Y | Z |
+| --- | --- | --- | --- | --- |
+| A. | Spermatogonium | Sertoli cell | Primary spermatocyte | Elongated spermatid |
+| B. | Elongated spermatid | Primary spermatocyte | Sertoli cell | Spermatogonium |
+| C. | Elongated spermatid | Sertoli cell | Spermatogonium | Primary spermatocyte |
+| D. | Primary spermatocyte | Spermatogonium | Sertoli cell | Elongated spermatid |
+
+Author: Allen Trang
+
+[View source-page figures and original layout](assets/practice-exam-1-bonus-questions/page-008.png)
+
+### Bonus Q10
+
+**Topic:** Sex differentiation and embryonic duct development
+
+**Reason for inclusion:** Shared urogenital embryology; the question includes congenital genital-tract abnormalities.
+
+**Source:** [Bonus paper, original question 10](practice-exam-1-bonus-questions.md#question-10), PDF page 10.
+
+**Subject:** Anatomy
+
+In a developing embryo, the lack of the SRY gene prevents the secretion of testis-determining factor (TDF).
+
+Without TDF, the testes do not form and so there is a lack of anti-Müllerian hormone. This causes regression of one pair of ducts; the other pair of ducts does not fuse. All succeeding developmental steps occur as usual.
+
+As a result of this event, it would be expected that
+
+- **A.** A healthy baby with a female phenotype is born with no congenital abnormalities.
+
+- **B.** A baby with a female phenotype is born with an imperforate hymen.
+
+- **C.** A baby with a female phenotype is born with a double uterus.
+
+- **D.** A baby with a female phenotype is born with a vesicovaginal fistula.
+
+Author: Allen Trang
+
+### Bonus Q11
+
+**Topic:** Ambiguous genitalia and undescended testes
+
+**Reason for inclusion:** Paediatric urology and external genital development.
+
+**Source:** [Bonus paper, original question 11](practice-exam-1-bonus-questions.md#question-11), PDF page 10.
+
+**Subject:** Anatomy
+
+A baby is born with ambiguous genitalia. An ultrasound reveals that there are testes contained within the inguinal canal. Tests reveal low androgen levels and a male genotype.
+
+Three decades later, the baby becomes a man who is able to start a family, with the right surgical treatments.
+
+Which of the following could explain the cause of his abnormality?
+
+- **A.** Low levels of anti-Müllerian hormone causes regression of the paramesonephric ducts.
+
+- **B.** Failure of the urorectal septum to form causes the persistence of the cloaca.
+
+- **C.** A loss-of-function mutation in the SRY gene causes failure of masculinisation.
+
+- **D.** Low androgen levels cause a failure of the labioscrotal swellings to fuse in the midline.
+
+Author: Allen Trang
+
+### Bonus Q20
+
+**Topic:** Sperm preparation and capacitation
+
+**Reason for inclusion:** Andrology and assisted male fertility.
+
+**Source:** [Bonus paper, original question 20](practice-exam-1-bonus-questions.md#question-20), PDF page 18.
+
+**Subject:** Physiology
+
+During in-vitro fertilisation (IVF), sperm is usually ‘washed’, which means preparing it for fertilisation. One of the most popular methods of washing sperm is through the density gradient technique, also called the Percoll method.
+
+A simplified explanation of the Percoll method is given below:
+
+1. Fresh semen is placed on top of two layers of Percoll (colloidal silica) of different densities in a test tube.
+2. The test tube is centrifuged to allow sperm to swim down.
+3. The supernatant, or the Percoll mixtures, are removed.
+4. Human capacitation medium is added to the healthy sperm pellet.
+5. The sperm are developed and become ready for fertilisation.
+
+Image: Made by Allen Trang. You may reuse this image for any purpose without my permission.
+
+Which of the following statements is correct?
+
+- **A.** Washing sperm is only necessary where a male suffers from infertility issues.
+
+- **B.** The process of washing allows the sperm in the semen to gain motility.
+
+- **C.** Seminal proteins and cholesterol are removed from sperm during washing.
+
+- **D.** This process ensures the integrity and strength of the sperm’s plasma membrane.
+
+Author: Allen Trang
+
+[View source-page figures and original layout](assets/practice-exam-1-bonus-questions/page-018.png)
+
+### Bonus Q51
+
+**Topic:** Delayed male puberty, small testes and micropenis
+
+**Reason for inclusion:** Clinical andrology and the hypothalamic-pituitary-gonadal axis.
+
+**Source:** [Bonus paper, original question 51](practice-exam-1-bonus-questions.md#question-51), PDF page 43.
+
+**Subject:** Clinical Skills
+
+A 15-year-old male is brought into the GP’s clinic with concerns of delayed puberty. He says that his voice has not changed, he has not noticed any muscle changes, nor has he developed any axillary or pubic hair. His parents also say that they fear for his hearing and vision and it seems poor, compared to that of his siblings.
+
+On examination, his vitals are normal with a Tanner stage of I. He lacks axillary and pubic hair; his testes are small and he has a micropenis. Cranial nerves examination reveals some nystagmus and total anosmia. Investigations are ordered and shown below.
+
+Which of the following is correct?
+
+- **A.** The GP should order a blood test to measure GnRH and ensure it is being secreted properly.
+
+- **B.** The correct treatment involves administering the satiety hormone leptin to induce puberty.
+
+- **C.** This is attributable to a suppressing tumour within the anterior pituitary or hypothalamus.
+
+- **D.** The patient’s androgen levels will rise in response to GnRH pulses or hormone replacement.
+
+Author: Allen Trang
+
+[View source-page figures and original layout](assets/practice-exam-1-bonus-questions/page-043.png)
+
+## Additional questions with an indirect connection
+
+### Main Q3
+
+**Topic:** Vulval anatomy and infibulation
+
+**Reason for inclusion:** Supporting female perineal neurovascular/fascial anatomy; no primary renal or urinary diagnosis.
+
+**Source:** [Main paper, original question 3](practice-exam-1-main-paper.md#question-3), PDF page 3.
+
+**Subject:** Anatomy
+
+Female genital mutilation (FGM) is a practice that involves excising parts of the vulva for non-medical reasons. The prevalence of FGM is highest in Africa, the Middle-East and Asia. It has no known medical benefits.
+
+The ethics of FGM are hotly contested. Reasons for practising FGM include promoting sexual purity and virginity, social norms, religious beliefs, tradition and hygiene. It is usually practised in an unsafe environment, without any sterilisation or anaesthesia.
+
+There are many different types of FGM, as defined by the United Nations. A basic description is given below.
+
+| Classification | Description |
+| --- | --- |
+| I | Total or partial removal of the clitoris and/or clitoral prepuce |
+| II | Total removal of the clitoris; total or partial removal of the labia majora and/or labia minora |
+| III | Total removal of labia majora, labia minora and clitoris; suturing across the vulva, creating a seal with only one small hole for urine and menstruation; also called ‘infibulation’ |
+| IV | All other harmful practices, including (but not limited to) cauterisation, labial stretching and piercing |
+
+Which of the following statements, regarding infibulation, is correct?
+
+- **A.** A pudendal nerve block would be sufficient to eliminate pain during infibulation.
+
+- **B.** Pelvic inflammatory disease and reflux of blood into the peritoneal cavity may occur.
+
+- **C.** Arterial bleeding would come from the labial branches of the internal pudendal artery.
+
+- **D.** Necrotising fasciitis due to infection cannot track cephalad to the anterior abdominal wall.
+
+Author: Allen Trang
+
+### Main Q4
+
+**Topic:** Pelvic-floor mechanics during defecation
+
+**Reason for inclusion:** Shared pelvic-floor anatomy relevant to pelvic-floor dysfunction; the tested function is bowel evacuation.
+
+**Source:** [Main paper, original question 4](practice-exam-1-main-paper.md#question-4), PDF page 4.
+
+**Subject:** Anatomy
+
+A significant number of Australians suffer from constipation. One option to relieve this is to change a person’s body positioning. Healthdirect recommends that people should ‘sit on the toilet, place [their] elbows on [their] knees and lean forward’; others swear by toilet stools, like the Squatty Potty, which put users into a squatting position by elevating their legs.
+
+Which of the following best describes how adopting such a position would aid in defecation?
+
+- **A.** Squatting involves the contraction of the levator ani muscle, which aids in the expulsion of faeces.
+
+- **B.** Contents of the peritoneal cavity press against the rectum, increasing intraluminal pressure.
+
+- **C.** The anal canal becomes perpendicular to the ground, allowing gravity to force faeces inferiorly.
+
+- **D.** The sling around the anorectal junction relaxes during squatting, straightening the rectum.
+
+Author: Allen Trang
+
+### Main Q5
+
+**Topic:** Ischioanal fossa and nerve compression
+
+**Reason for inclusion:** Supporting perineal nerve anatomy; the presentation is anorectal.
+
+**Source:** [Main paper, original question 5](practice-exam-1-main-paper.md#question-5), PDF page 4.
+
+**Subject:** Anatomy
+
+A patient is experiencing severe pain and swelling in the buttocks. They are diagnosed with a large ischioanal fossa abscess. The abscess has caused compression of a nerve that runs along the lateral wall of the ischioanal fossa
+
+What might you expect this patient to report?
+
+- **A.** Numbness around the anus
+
+- **B.** Pain in the medial thigh
+
+- **C.** Inability to defecate
+
+- **D.** Pain is relieved by sitting
+
+Author: Angela Zheng
+
+### Main Q7
+
+**Topic:** Flank pain with pelvic/adnexal imaging
+
+**Reason for inclusion:** Potential pelvic differential for urinary-region pain; no explicit renal diagnosis in the options.
+
+**Source:** [Main paper, original question 7](practice-exam-1-main-paper.md#question-7), PDF page 6.
+
+**Subject:** Anatomy
+
+A female patient presents to the emergency department with moderate, constant, aching right flank pain for the last three days that began after exercise. Relevant positives from history include associated symptoms of mild nausea and vomiting and one small, benign cyst on the right ovary. Physical examination confirms unilateral tenderness.
+
+A pelvic ultrasound was ordered and an annotated image is provided below.
+
+Image: Adapted from https://radiopaedia.org/cases/13050
+
+What is the most likely diagnosis for this patient?
+
+- **A.** Ruptured ovarian cyst
+
+- **B.** Varicocele
+
+- **C.** Ovarian torsion
+
+- **D.** Retrocaecal appendicitis
+
+Author: Tony Zhang
+
+[View source-page figures and original layout](assets/practice-exam-1-main-paper/page-006.png)
+
+### Main Q19
+
+**Topic:** Episiotomy and perineal repair anatomy
+
+**Reason for inclusion:** Supporting urogynaecological anatomy of the perineum.
+
+**Source:** [Main paper, original question 19](practice-exam-1-main-paper.md#question-19), PDF page 14.
+
+**Subject:** Anatomy
+
+The “husband stitch” is an unendorsed and medically unnecessary surgical procedure in which more sutures than necessary are used to repair the perineum of individuals assigned female at birth following a vaginal delivery. It is purported that its purpose is to tighten the vaginal opening to thus enhance the pleasure of the male sex partner during penetrative sexual intercourse.
+
+While major health organizations such as the American College of Obstetricians and Gynecologists state that the practice is not a standard or common medical procedure, there have been many patient testimonies, journalistic investigations and historical records that suggest otherwise.
+
+Consider a female patient who has had a mediolateral episiotomy performed during childbirth to facilitate delivery of the foetus and has had a “husband stitch” placed during episiotomy repair.
+
+Which structures are most directly affected by this suture?
+
+- **A.** Perineal membrane
+
+- **B.** Colles’ fascia
+
+- **C.** Bulbospongiosus
+
+- **D.** Levator ani
+
+Author: Tony Zhang
+
+### Bonus Q4
+
+**Topic:** Vulval lymphatics and genital infection
+
+**Reason for inclusion:** Supporting female genital lymphatic anatomy and STI complications.
+
+**Source:** [Bonus paper, original question 4](practice-exam-1-bonus-questions.md#question-4), PDF page 4.
+
+**Subject:** Anatomy
+
+A 30-year-old woman presents to the GP with gait problems. On examination, she has oedema and sclerosing fibrosis of the vulva. Tests reveal that she has the L2 serovar of Chlamydia trachomatis, which can cause lymphogranuloma venereum (LGV), an aggressive STI that causes infection of the lymphatic system.
+
+This results in significant inflammation, eventually leading to her presentation of esthiomene.
+
+Image: Anand Pai, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+
+Unfortunately, earlier stages of LGV are often missed in women as the signs and symptoms are less remarkable.
+
+Which of the following would be expected?
+
+- **A.** In the earlier stages of LGV, she may have noticed inguinal lymphadenopathy.
+
+- **B.** Other than the obstruction of the anus, there would not be any anorectal involvement.
+
+- **C.** No palpable structures would be felt if an abdominal examination were performed.
+
+- **D.** Further testing may reveal other concomitant STIs without newer vaginal infections since.
+
+Author: Allen Trang
+
+[View source-page figures and original layout](assets/practice-exam-1-bonus-questions/page-004.png)
+
+### Bonus Q56
+
+**Topic:** Erythrocytosis and exogenous erythropoietin
+
+**Reason for inclusion:** Indirect overlap with renal endocrine physiology; primarily a haematology question.
+
+**Source:** [Bonus paper, original question 56](practice-exam-1-bonus-questions.md#question-56), PDF page 48.
+
+**Subject:** Clinical Skills
+
+A 40-year-old male professional cyclist presents to the GP with headaches, dizziness, paraesthesia, itchiness and post-prandial fullness. He explains that over the past few months, it has slowly gotten worse and it has impacted his career. He does not know what the cause could be because he tries to be fit and healthy.
+
+On examination, he has a blood pressure of 152/96 and normal vitals otherwise. He appears perfectly healthy. His cranial nerves examination is normal. He is noted to have splenomegaly, but all else is normal otherwise.
+
+A full blood examination shows increased haematocrit, red cell count and haemoglobin levels, as well as leukocytosis and thrombocytosis.
+
+Which of these cannot explain his presentation?
+
+- **A.** Altitude training
+
+- **B.** Use of recombinant EPO
+
+- **C.** Use of vitamin megadoses
+
+- **D.** Use of anabolic steroids
+
+Author: Allen Trang

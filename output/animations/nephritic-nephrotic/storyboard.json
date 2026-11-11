@@ -1,0 +1,71 @@
+{
+  "title": "Two patterns of glomerular injury",
+  "question": 5,
+  "reference": "reference.png \u2014 user-supplied visual reference",
+  "implementation": "Original layered Manim illustration; no raster image generation or tracing",
+  "aesthetics": {
+    "background": "#10151F",
+    "font": "Avenir Next",
+    "redCells": "#EC6174",
+    "albumin": "#65D4C2",
+    "podocytes": "#F2C66D",
+    "endothelium": "#BC7B8D",
+    "basementMembrane": "#78B9D1"
+  },
+  "layers": [
+    "capillary lumen",
+    "fenestrated endothelium and endothelial nuclei",
+    "glomerular basement membrane",
+    "podocyte bodies and branches",
+    "foot processes and slit diaphragms",
+    "blood cells and albumin",
+    "inflammatory swelling/cells/mediators",
+    "red-cell and albumin leakage",
+    "downstream tubular cast inset"
+  ],
+  "scenes": [
+    {
+      "id": "healthy",
+      "intent": "Explain the three cooperating barrier layers before disease changes",
+      "state": "Retain red cells and most albumin; show filtration"
+    },
+    {
+      "id": "nephritic-injury",
+      "intent": "Evolve inflammatory injury into barrier disruption and reduced filtration",
+      "state": "Inflammatory cells, local defect, red-cell leakage and some protein leakage"
+    },
+    {
+      "id": "red-cell-casts",
+      "intent": "Place cast formation in the correct downstream location",
+      "state": "Red cells collect within a tubular matrix"
+    },
+    {
+      "id": "healthy-reset",
+      "intent": "Separate the illustrative disease branches",
+      "state": "Return to the labelled healthy barrier"
+    },
+    {
+      "id": "podocyte-injury-and-protein-loss",
+      "intent": "Show foot-process effacement/slit dysfunction and increasing albumin passage",
+      "state": "Flattened processes and heavy protein leakage; no red-cell leakage in this example"
+    },
+    {
+      "id": "nephrotic-clinical-features",
+      "intent": "Connect protein loss with the case findings",
+      "state": "5.2 g/day protein, plasma albumin 20 g/L, oedema and hyperlipidaemia"
+    },
+    {
+      "id": "comparison",
+      "intent": "Compare the two dominant patterns and acknowledge overlap",
+      "state": "Matched illustrated states and concise case findings"
+    }
+  ],
+  "clinicalDesignDecisions": [
+    "No universal charge-only explanation of nephrotic proteinuria",
+    "Inflammatory mechanism is illustrative rather than a specific unproven diagnosis",
+    "Nephritic proteinuria is variable; the 1 g/day value belongs to this case",
+    "Cast formation occurs downstream, not in the capillary",
+    "Albumin loss and sodium retention both contribute to oedema",
+    "Nephritic-to-nephrotic conversion is not implied by the sequence"
+  ]
+}

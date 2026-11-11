@@ -1,0 +1,22 @@
+At low plasma osmolality, vasopressin is suppressed and urine is dilute.
+
+Now follow the cursor as water is lost. The sodium amount stays the same,
+but there is less water relative to sodium, so plasma osmolality rises.
+
+Vasopressin rises. The kidneys conserve more water, producing a smaller
+volume of more concentrated urine.
+
+Thirst provides another response: replacing water by drinking.
+
+Notice the orange plateau. Once the kidney reaches its concentrating limit,
+vasopressin can continue to rise without much further increase in urine
+concentration. Conserving water has a ceiling.
+
+After drinking water is absorbed, water increases relative to sodium and
+plasma osmolality falls. Follow the cursor back along the same curves.
+The drive to retain and drink water decreases: negative feedback.
+
+Vasopressin conserves water. Thirst replaces water.
+
+Teaching note: these are schematic curves. Thirst and vasopressin thresholds
+vary and can overlap. The horizontal axis is osmolality, not time.

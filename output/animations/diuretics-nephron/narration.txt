@@ -1,0 +1,53 @@
+OPTIONAL VOICE-OVER OUTLINE — NO AUDIO IN THE MP4
+
+Overview
+Use the same nephron to locate each drug's action. The anatomical names are
+primary; the small site numbers provide the traditional I–IV cross-reference.
+The inset has tubular fluid on the left, a tubular cell centrally and
+interstitium on the right.
+
+Mannitol
+Mannitol is filtered and poorly reabsorbed. It increases tubular-fluid
+osmolality and reduces water reabsorption in water-permeable segments.
+Its action is osmotic rather than receptor or channel blockade.
+
+Acetazolamide
+In the proximal tubule, carbonic anhydrase inhibition reduces bicarbonate
+reclamation and associated sodium reabsorption. More bicarbonate, sodium
+and water are excreted.
+
+SGLT2 inhibitors
+Blocking proximal sodium–glucose cotransport increases glucose delivery to
+urine. Glucose contributes to osmotic diuresis. Sodium handling also changes,
+although the natriuretic response varies over time and with clinical setting.
+
+Loop diuretics
+Furosemide and related drugs block NKCC2 in the thick ascending limb. They
+increase sodium excretion and weaken the medullary osmotic gradient. The
+ascending limb does not become water-permeable. A weaker gradient reduces
+the maximum urine concentration the kidney can achieve.
+
+Thiazides
+Thiazides and thiazide-like drugs inhibit NCC in the distal convoluted tubule.
+Less sodium and chloride are reabsorbed there. NCC is a different target
+from NKCC2.
+
+Mineralocorticoid receptor antagonists
+Spironolactone and eplerenone act at the intracellular mineralocorticoid
+receptor, reducing aldosterone-dependent transport. Reduced electrogenic
+sodium reabsorption reduces a driving force for potassium secretion.
+
+ENaC blockers
+Amiloride and triamterene directly block apical epithelial sodium channels.
+The direct target differs from spironolactone, but both groups spare potassium.
+Potassium handling also depends on delivery, flow and other physiological factors.
+
+Tolvaptan
+Tolvaptan blocks basolateral vasopressin V2 receptors. Less signalling means
+less apical aquaporin-2 insertion, with retrieval into intracellular vesicles.
+The resulting predominantly water-excreting effect is aquaresis.
+
+Summary
+Match the segment to the molecular target. Natriuresis means increased sodium
+excretion; aquaresis means increased water excretion relatively independently
+of electrolyte excretion. The drugs share a nephron, but not one mechanism.

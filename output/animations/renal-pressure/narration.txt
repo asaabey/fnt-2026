@@ -1,0 +1,49 @@
+OPTIONAL VOICE-OVER OUTLINE
+The delivered video is silent; the on-screen captions carry the explanation.
+This outline can guide a later recording, timed to chapter-times.json.
+
+Opening
+Glomerular pressure depends partly on resistance before and after the
+capillary filter. The afferent arteriole is the inlet; the efferent is the
+outlet. Each comparison starts from its own reference setting.
+
+Angiotensin II
+At moderate activation in low perfusion, preferential efferent constriction
+helps support filtration pressure. Strong activation has broader effects.
+
+ACE inhibitors
+Reducing angiotensin II formation relaxes the efferent arteriole. Initial
+filtration can fall even while vascular blood flow continues. Lower
+intraglomerular pressure can be protective over time in suitable patients.
+
+ARBs
+Blocking the AT1 receptor reduces angiotensin-mediated efferent tone through
+a different molecular target, with a similar illustrated vascular endpoint.
+
+Prostaglandins and NSAIDs
+In a low-perfusion setting, prostaglandins help keep the afferent inlet open.
+NSAIDs inhibit their production. Losing this vasodilator support can tighten
+the inlet and reduce filtration.
+
+SGLT2 inhibitors
+More sodium chloride reaches the macula densa, restoring feedback in the
+classic hyperfiltration model. Afferent tone increases and excessive
+intraglomerular pressure falls. Some type 2 diabetes studies support an
+efferent-dilation contribution instead. The mechanism is context-dependent.
+An early haemodynamic dip can accompany long-term kidney protection.
+
+Combination
+Volume depletion reduces perfusion. Add loss of afferent dilation from an
+NSAID and loss of efferent constrictor support from an ACE inhibitor OR ARB:
+filtration may fall substantially. Diuretic-associated volume depletion
+acts through perfusion, not a simple selective arteriolar switch.
+
+Albuminuria
+ACE inhibitors, ARBs and SGLT2 inhibitors can reduce albuminuria in relevant
+clinical settings. Lower intraglomerular pressure contributes to this effect;
+the haemodynamic diagram does not depict all protective mechanisms or
+predict a numerical change in urine albumin.
+
+Summary
+The direction of the pressure change is only the start of the interpretation.
+Clinical context, magnitude and time course determine what it means.

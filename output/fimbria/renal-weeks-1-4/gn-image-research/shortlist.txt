@@ -1,0 +1,53 @@
+GN MICROSCOPY IMAGE SHORTLIST
+Updated 12 November 2026. Question numbers match the sorted lesson.
+
+REVIEWED AND INTEGRATED
+Q12: IgA nephropathy — original LM/IF/EM composite from Knoppova et al.
+Q14: Lupus nephritis — complete full-house IF panel (Figure 2) from Shahar et al.; dedicated microscopy slide after the biopsy explanation.
+Q15: ANCA-associated GN — original LM/IF pair from Kim et al.
+
+Post-infectious and anti-GBM figure downloads remain pending. The lupus LM candidate is in Figure 1 of the newly downloaded source PDF but is not added in this revision.
+
+Q12 — IgA nephropathy
+https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2016.00117/full
+LM: Figure 1B — PAS-stained mesangial expansion and hypercellularity.
+IF: Figure 1A — Mesangial IgA staining.
+Reuse: CC BY 4.0
+Review: Original composite inspected; LM and IF panels clear. Panel C is EM, not IF.
+Note: Credit the named image contributors Huma Fatima (LM/EM) and Lea Novak (IF), UAB, as well as the article authors. These are representative images; do not imply all panels are one biopsy.
+CDN: https://assets.lattice-1.com/renal/gn/iga-nephropathy-original-figure1.54f2bd2c5470.webp
+
+Q13 — Post-infectious / post-streptococcal GN pattern
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9677723/
+LM: Figure 1 — Endocapillary hypercellularity with prominent neutrophils, H&E ×400.
+IF: Figure 4 — Granular C3 in mesangium and capillary loops: starry-sky pattern, ×600.
+Reuse: CC BY-NC 4.0
+Review: Figure captions and article license checked in Europe PMC full-text XML; binary retrieval blocked with HTTP 403. Full-resolution visual review remains pending.
+Note: This is an infection-related GN teaching atlas, not proof of streptococcal aetiology from the stain alone. Figure 3 is an alternative garland-pattern C3 image. Avoid the SPEB/CD10 research staining in PMC4400488: it is not routine diagnostic glomerular C3 IF.
+
+Q14 — Proliferative lupus nephritis
+https://jctn.msn.org.my/index.php/ejournal/article/download/86/39
+LM: Figure 1 — Class IV proliferative injury including endocapillary hypercellularity, crescents and deposits.
+IF: Figure 2 — Complete labelled panel: A IgG, B IgA, C IgM, D C3, E C1q, F kappa, G lambda.
+Reuse: CC BY 4.0
+Review: Full PDF page and extracted Figure 2 region visually inspected. All seven panels, letters and scale bar retained. IgA is weaker than other stains, consistent with the source caption.
+Note: Source case was classified as class IV lupus nephritis. Figure illustrates full-house staining and does not assign a histological class to the fictional question patient. Figure-region extraction is credited; tissue content unchanged.
+CDN: https://assets.lattice-1.com/renal/gn/lupus-full-house-figure2.ace6a828a95f.png
+
+Q15 — ANCA-associated pauci-immune necrotising crescentic GN
+https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1515622/full
+LM: Figure 2A — PAS-stained cellular crescent and fibrinoid necrosis, ×400.
+IF: Figure 2B — Absent glomerular IgG staining; background fluorescence remains visible, ×400.
+Reuse: CC BY 4.0
+Review: Original two-panel LM/IF composite inspected; LM lesion and IF glomerulus visible.
+Note: Source case is MPO-positive GPA, whereas Q15 is PR3-positive. Label as an illustrative ANCA-associated pauci-immune pattern; not the case patient’s biopsy. This is renal tissue IF, not indirect serum ANCA staining.
+CDN: https://assets.lattice-1.com/renal/gn/anca-pauci-immune-original-figure2.834187e78ecc.webp
+
+Q16 — Anti-GBM disease
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10466353/
+LM: Figure 1 — Cellular crescent on silver stain, ×200.
+IF: Figure 4 — Linear IgG along glomerular capillary walls.
+Reuse: CC BY-NC 4.0
+Review: Figure captions and license checked in Europe PMC full-text XML; binary retrieval blocked with HTTP 403. Full-resolution visual review remains pending.
+Note: Figure 3 is a useful alternative LM view showing a crescent and segmental necrosis. Prefer this classic linear-IgG case over mixed IgA/anti-GBM or atypical seronegative examples for the introductory lesson.
+

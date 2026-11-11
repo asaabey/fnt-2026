@@ -1,0 +1,48 @@
+IMAGE HOSTING RECOMMENDATION
+Prepared 12 November 2026. Hosting subsequently deployed via Wrangler at assets.lattice-1.com; see the deployment update below.
+
+Recommendation: Cloudflare R2 Standard storage + a custom asset subdomain + Cloudflare CDN caching.
+
+Architecture:
+Student browser -> Fimbria on Proxmox: lesson UI, voting and session state.
+Student browser -> assets.<your-domain>/renal/gn/<versioned-name>.webp: static teaching images.
+Cloudflare CDN cache -> R2 on a cache miss; Proxmox does not serve these image bytes.
+
+WHY
+Fifty students alone is not an unusually large static-image workload. The more likely bottleneck for internet-facing access is the home/office uplink. At an illustrative 300 KB per image, one image requested by 50 students is 15 MB; an LM/IF pair is 30 MB; ten such images over the lesson total 150 MB. These are transfer estimates, not measurements of the downloaded original figures. Local-LAN students may be served adequately and faster by the local server.
+
+R2 decouples image storage and bandwidth from Proxmox, including cold-cache requests. Putting Cloudflare CDN in front of images still stored on Proxmox is another viable option, but cache misses still depend on the server/uplink. Keep live app/API/session traffic separate from static-asset caching.
+
+CONFIGURATION TO USE AFTER ASSET REVIEW
+1. A dedicated R2 bucket, using Standard storage.
+2. A custom domain such as assets.<your-domain>; use the custom domain for production. Cloudflare documents r2.dev as a development endpoint and does not provide its CDN caching capabilities there.
+3. Versioned or content-hashed object keys, e.g. renal/gn/iga-lm.<hash>.webp. Replace the URL when an image changes.
+4. Set correct Content-Type metadata and Cache-Control: public, max-age=31536000, immutable for versioned public image objects. Configure the asset host/path as eligible for caching, and verify CF-Cache-Status on repeated requests.
+5. Retain original-resolution archival files and use an appropriately sized slide derivative. Aim initially for about 1200–1600 px across the teaching image and 200–500 KB where microscopic detail permits; the two downloaded source composites are larger. Keep scale bars and avoid compression that erases granular deposits or nuclear detail. A larger original can be linked for zooming.
+6. Preserve source, panel/stain, author/image-contributor credit, license and modification notes alongside each asset and in the lesson caption. Several candidates have noncommercial reuse terms. Do not hotlink publisher/PMC figure URLs as production image hosting.
+
+EXPECTED COST
+As checked on 12 November 2026, R2 Standard includes 10 GB-month storage, 1 million Class A requests and 10 million Class B requests per month; internet egress is free. This small image collection and a 50-student class would fit well within those allowances if the account's other usage has not consumed them. An R2 subscription is needed; avoid claiming the entire Cloudflare account will necessarily have a zero bill. A paid image-transformation service is unnecessary for a few pre-sized assets.
+
+FIMBRIA COMPATIBILITY
+The current lesson schema accepts HTTPS image.src values. The current LessonImage component uses an ordinary img element, supports image captions and links to the full-size source URL. No app change is required just to use a public CDN image URL. This has been checked in the local app source, not against a deployed server.
+
+SOURCES
+Cloudflare R2 public buckets and custom-domain caching:
+https://developers.cloudflare.com/r2/buckets/public-buckets/
+Cloudflare R2 pricing and free tier:
+https://developers.cloudflare.com/r2/pricing/
+Cloudflare cache-control behaviour:
+https://developers.cloudflare.com/cache/concepts/cache-control/
+Cloudflare R2 setup and subscription:
+https://developers.cloudflare.com/r2/get-started/
+
+DEPLOYMENT UPDATE
+R2 bucket fimbria-teaching-assets was created and connected to assets.lattice-1.com.
+Two visually reviewed, CC BY original microscopy figures and their attribution file are uploaded.
+Public HTTPS, SHA-256 equality and Cloudflare image cache HIT were verified.
+Deployment record: output/hosting/lattice-1-assets/deployment-report.json
+The reviewed IgA and ANCA originals are now included in both lesson files on their first explanation slides. The other three figure pairs await full-resolution review.
+
+LUPUS UPDATE
+A complete full-house IF panel from Shahar et al. (JCTN, 2025), Figure 2, is now published and integrated into a dedicated Q14 microscopy slide. CC BY 4.0; the figure region was extracted from the PDF without changing tissue content. Three GN figures are now hosted.

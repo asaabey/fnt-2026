@@ -1,0 +1,330 @@
+{
+  "title": "Medicines and glomerular pressure",
+  "model": "Qualitative haemodynamic tendencies; independent, context-specific comparisons",
+  "scenes": [
+    {
+      "id": "angiotensin-ii",
+      "title": "ANGIOTENSIN II",
+      "reference": "Reduced renal perfusion",
+      "mechanism": "Preferential efferent constriction supports glomerular pressure.",
+      "context": "Moderate activation illustrated; strong activation can constrict both sides.",
+      "afferentLabel": "Afferent: unchanged here",
+      "efferentLabel": "Efferent: constricts",
+      "baseline": [
+        0,
+        0,
+        0.38,
+        0.32,
+        0.48
+      ],
+      "effect": [
+        0,
+        0.7,
+        0.61,
+        0.55,
+        0.38
+      ],
+      "hold": 5.5,
+      "references": [
+        "physiology"
+      ],
+      "layout": {
+        "afferentMedicine": "",
+        "efferentMedicine": "Angiotensin II",
+        "afferentAction": "",
+        "efferentAction": "Constricts",
+        "caption": "Efferent constriction supports glomerular pressure.",
+        "context": "Moderate activation shown."
+      }
+    },
+    {
+      "id": "acei",
+      "title": "ACE INHIBITORS",
+      "reference": "Angiotensin-dependent\nfiltration pressure",
+      "mechanism": "Less angiotensin II formation → efferent relaxation.",
+      "context": "Acute GFR may fall; albuminuric kidney disease can benefit long term.",
+      "afferentLabel": "Afferent: unchanged here",
+      "efferentLabel": "Efferent: dilates",
+      "baseline": [
+        0,
+        0.7,
+        0.64,
+        0.61,
+        0.5
+      ],
+      "effect": [
+        0,
+        -0.3,
+        0.42,
+        0.37,
+        0.66
+      ],
+      "hold": 5.5,
+      "references": [
+        "physiology",
+        "nkf-raas",
+        "kdigo-ckd"
+      ],
+      "layout": {
+        "afferentMedicine": "",
+        "efferentMedicine": "ACE inhibitors",
+        "afferentAction": "",
+        "efferentAction": "Dilates",
+        "caption": "Less angiotensin II → efferent relaxation.",
+        "context": "An initial GFR dip can accompany long-term benefit."
+      }
+    },
+    {
+      "id": "arb",
+      "title": "ANGIOTENSIN RECEPTOR BLOCKERS",
+      "reference": "Angiotensin-dependent\nfiltration pressure",
+      "mechanism": "AT1 receptor blockade → less efferent constrictor tone.",
+      "context": "A similar haemodynamic endpoint to ACE inhibition, via a different target.",
+      "afferentLabel": "Afferent: unchanged here",
+      "efferentLabel": "Efferent: dilates",
+      "baseline": [
+        0,
+        0.7,
+        0.64,
+        0.61,
+        0.5
+      ],
+      "effect": [
+        0,
+        -0.3,
+        0.42,
+        0.37,
+        0.66
+      ],
+      "hold": 5.5,
+      "references": [
+        "physiology",
+        "nkf-raas"
+      ],
+      "layout": {
+        "afferentMedicine": "",
+        "efferentMedicine": "ARBs",
+        "afferentAction": "",
+        "efferentAction": "Dilates",
+        "caption": "AT1 blockade → less efferent constrictor tone.",
+        "context": ""
+      }
+    },
+    {
+      "id": "prostaglandins",
+      "title": "PROSTAGLANDIN SUPPORT",
+      "reference": "Low-perfusion setting",
+      "mechanism": "PGE2 and PGI2 help preserve afferent dilation and renal perfusion.",
+      "context": "This endogenous support matters most when perfusion is threatened.",
+      "afferentLabel": "Afferent: dilates",
+      "efferentLabel": "Efferent: unchanged here",
+      "baseline": [
+        0.55,
+        0,
+        0.35,
+        0.31,
+        0.42
+      ],
+      "effect": [
+        -0.35,
+        0,
+        0.59,
+        0.56,
+        0.7
+      ],
+      "hold": 5.5,
+      "references": [
+        "aki-guidance",
+        "physiology"
+      ],
+      "layout": {
+        "afferentMedicine": "Prostaglandins",
+        "efferentMedicine": "",
+        "afferentAction": "Dilate",
+        "efferentAction": "",
+        "caption": "PGE2 / PGI2 help maintain afferent dilation.",
+        "context": ""
+      }
+    },
+    {
+      "id": "nsaids",
+      "title": "NSAIDs",
+      "reference": "Prostaglandin-dependent\nafferent dilation",
+      "mechanism": "COX inhibition removes vasodilator support → afferent constriction.",
+      "context": "The haemodynamic AKI risk is greater with low effective circulating volume.",
+      "afferentLabel": "Afferent: constricts",
+      "efferentLabel": "Efferent: unchanged here",
+      "baseline": [
+        -0.35,
+        0,
+        0.59,
+        0.56,
+        0.7
+      ],
+      "effect": [
+        0.7,
+        0,
+        0.32,
+        0.28,
+        0.38
+      ],
+      "hold": 6.5,
+      "references": [
+        "aki-guidance",
+        "nkf-raas"
+      ],
+      "layout": {
+        "afferentMedicine": "NSAIDs",
+        "efferentMedicine": "",
+        "afferentAction": "Constrict",
+        "efferentAction": "",
+        "caption": "COX inhibition removes afferent vasodilator support.",
+        "context": "AKI risk is greater when perfusion is low."
+      }
+    },
+    {
+      "id": "sglt2-tgf",
+      "title": "SGLT2 INHIBITORS: FEEDBACK",
+      "reference": "Classic hyperfiltration\nmodel",
+      "mechanism": "More NaCl reaches the macula densa → tubuloglomerular feedback.",
+      "context": "Restored afferent tone lowers intraglomerular pressure and hyperfiltration.",
+      "afferentLabel": "Afferent: tone increases",
+      "efferentLabel": "Efferent: unchanged here",
+      "baseline": [
+        -0.6,
+        0.25,
+        0.92,
+        0.94,
+        1.05
+      ],
+      "effect": [
+        0.2,
+        0.25,
+        0.65,
+        0.63,
+        0.76
+      ],
+      "hold": 7,
+      "references": [
+        "cherney",
+        "sglt2-review"
+      ],
+      "layout": {
+        "afferentMedicine": "SGLT2 inhibitors",
+        "efferentMedicine": "",
+        "afferentAction": "Tone increases",
+        "efferentAction": "",
+        "caption": "More NaCl at the macula densa → restored feedback.",
+        "context": "Classic hyperfiltration model."
+      }
+    },
+    {
+      "id": "sglt2-context",
+      "title": "SGLT2 INHIBITORS: CONTEXT MATTERS",
+      "reference": "Some type 2 diabetes\nmechanistic studies",
+      "mechanism": "Post-glomerular dilation can also contribute to the pressure reduction.",
+      "context": "Effects vary by setting; an early GFR dip can accompany long-term kidney benefit.",
+      "afferentLabel": "Afferent: unchanged here",
+      "efferentLabel": "Efferent: may dilate",
+      "baseline": [
+        0,
+        0.25,
+        0.75,
+        0.75,
+        0.78
+      ],
+      "effect": [
+        0,
+        -0.3,
+        0.58,
+        0.57,
+        0.86
+      ],
+      "hold": 7,
+      "references": [
+        "red-trial",
+        "sglt2-review"
+      ],
+      "layout": {
+        "afferentMedicine": "",
+        "efferentMedicine": "SGLT2 inhibitors",
+        "afferentAction": "",
+        "efferentAction": "May dilate",
+        "caption": "Post-glomerular dilation can also lower pressure.",
+        "context": "Effects vary by setting; an early dip can accompany long-term benefit."
+      }
+    },
+    {
+      "id": "calcineurin",
+      "title": "CALCINEURIN INHIBITORS",
+      "reference": "Acute toxicity:\ntacrolimus / ciclosporin",
+      "mechanism": "Tacrolimus or ciclosporin can increase afferent arteriolar resistance.",
+      "context": "Afferent constriction predominates in this illustration; vascular effects can be mixed.",
+      "afferentLabel": "Afferent: constricts",
+      "efferentLabel": "Efferent: unchanged here",
+      "baseline": [
+        0,
+        0,
+        0.64,
+        0.64,
+        0.8
+      ],
+      "effect": [
+        0.7,
+        0,
+        0.4,
+        0.35,
+        0.48
+      ],
+      "hold": 6.5,
+      "references": [
+        "tacrolimus-label",
+        "cni-review"
+      ],
+      "layout": {
+        "afferentMedicine": "Calcineurin inhibitors",
+        "efferentMedicine": "",
+        "afferentAction": "Constrict",
+        "efferentAction": "",
+        "caption": "Acute toxicity can increase afferent resistance.",
+        "context": "Afferent-predominant effect illustrated."
+      }
+    },
+    {
+      "id": "combination",
+      "title": "WHEN THE EFFECTS COMBINE",
+      "reference": "Volume depletion, e.g.\nwith diuretic use",
+      "mechanism": "Low perfusion + NSAID afferent constriction + ACEi OR ARB efferent dilation.",
+      "context": "A volume-depleting diuretic effect is indirect—not selective arteriolar constriction.",
+      "afferentLabel": "NSAID: inlet tightens",
+      "efferentLabel": "ACEi / ARB: outlet relaxes",
+      "baseline": [
+        -0.25,
+        0.6,
+        0.51,
+        0.47,
+        0.45
+      ],
+      "effect": [
+        0.7,
+        -0.3,
+        0.16,
+        0.12,
+        0.28
+      ],
+      "hold": 7.5,
+      "references": [
+        "aki-guidance",
+        "nkf-raas"
+      ],
+      "layout": {
+        "afferentMedicine": "NSAID",
+        "efferentMedicine": "ACEi OR ARB",
+        "afferentAction": "Constricts",
+        "efferentAction": "Dilates",
+        "caption": "Low perfusion, a tighter inlet and a more relaxed outlet.",
+        "context": "Diuretic-associated volume loss acts indirectly."
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+TITLE
+What Happens After a Water Load? | ADH, AQP2 and Dilute Urine
+
+DESCRIPTION
+Follow the kidney’s response to a water load: lower plasma osmolality, reduced vasopressin (ADH) release, retrieval of aquaporin-2 (AQP2) from the apical membrane and increased excretion of dilute urine.
+
+A magnified collecting duct shows how changing water-channel availability reduces water reabsorption. The sequence connects this response to negative feedback and the distinction between plasma sodium concentration and the amount of sodium in the body.
+
+A silent, captioned animation for medical students and renal physiology revision. It depicts a healthy adult with intact renal water handling; particle counts and response timing are illustrative.

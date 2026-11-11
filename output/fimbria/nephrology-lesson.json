@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "fnt-2026-nephrology-revision-v1",
+  "title": "Nephrology revision: transplant medicines, phosphate and renal–blood connections",
+  "steps": [
+    {
+      "id": "welcome",
+      "type": "slide",
+      "title": "Nephrology: six questions, four kidney roles",
+      "body": "A case-based Year 2 revision lesson\n\nBy the end, you should be able to:\n• Recognise a typical renal-transplant maintenance regimen.\n• Distinguish mTOR inhibition from calcineurin inhibition.\n• Explain phosphate loss after ferric carboxymaltose.\n• Trace the kidney–EPO–bone marrow response to hypoxia.\n• Connect proteinuria and renal impairment to systemic disease.\n\nSix single-best-answer questions, including one related haematology question. Allow about 25–30 minutes."
+    },
+    {
+      "id": "clinical-map",
+      "type": "slide",
+      "title": "Keep four kidney roles in view",
+      "body": "1. Filtration: what is the pattern of renal impairment and urinary protein?\n\n2. Tubular handling: is the kidney conserving or losing phosphate?\n\n3. Endocrine signalling: how does renal EPO influence red-cell production?\n\n4. Transplantation: how do the medicines that protect a graft create clinical trade-offs?\n\nFor each question, choose one answer and identify the clue that supports it. Discuss after the answer is revealed."
+    },
+    {
+      "id": "main-q23",
+      "type": "question",
+      "prompt": "Main Q23 — A 55-year-old patient with hyperlipidaemia undergoes kidney transplantation. Which of the following is the most appropriate typical long-term maintenance regimen to prevent rejection?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thalidomide plus a corticosteroid"
+        },
+        {
+          "id": "b",
+          "text": "Sirolimus plus a corticosteroid"
+        },
+        {
+          "id": "c",
+          "text": "Tacrolimus plus mycophenolate mofetil plus a corticosteroid"
+        },
+        {
+          "id": "d",
+          "text": "Basiliximab plus mycophenolate mofetil plus a corticosteroid"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "C is the best answer among these options. A calcineurin inhibitor with an antiproliferative agent forms a usual maintenance backbone; tacrolimus and mycophenolate are commonly selected. Corticosteroid use is individualised. Basiliximab is primarily an induction agent, so option D is not a usual long-term maintenance regimen. Source: KDIGO transplant-recipient guideline, recommendations 1.2 and 2.1–2.4."
+    },
+    {
+      "id": "maintenance-consolidation",
+      "type": "slide",
+      "title": "Maintenance and induction have different jobs",
+      "body": "Maintenance: a calcineurin inhibitor plus an antiproliferative agent, with or without ongoing corticosteroids.\n\nInduction: additional immunosuppression around transplantation; basiliximab is one option.\n\nClinical reasoning: choose the best regimen offered, then recognise that the transplant team tailors it to rejection risk and adverse effects. The MCQ is not a universal prescription.\n\nSource: KDIGO transplant-recipient guideline."
+    },
+    {
+      "id": "main-q24",
+      "type": "question",
+      "prompt": "Main Q24 — Which statement about sirolimus, an mTOR inhibitor, is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It has high oral bioavailability."
+        },
+        {
+          "id": "b",
+          "text": "It can delay wound healing."
+        },
+        {
+          "id": "c",
+          "text": "It blocks the S-to-G2 phase transition."
+        },
+        {
+          "id": "d",
+          "text": "It directly prevents IL-2 expression by T cells."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "B is correct. Sirolimus can impair wound healing. Its FKBP-12 complex inhibits mTOR and reduces cytokine-driven progression from G1 to S. It acts downstream of cytokine signalling rather than directly inhibiting IL-2 expression in the manner associated with calcineurin inhibition. Its systemic availability is low. Source: sirolimus prescribing information, sections 5.6, 12.1 and 12.3."
+    },
+    {
+      "id": "mtor-consolidation",
+      "type": "slide",
+      "title": "Connect the target to the adverse effect",
+      "body": "Sirolimus → mTOR inhibition → less cytokine-driven cell proliferation.\n\nThat mechanism helps explain impaired repair as well as immunosuppression. Ask about surgical wounds when considering its adverse-effect profile.\n\nHyperlipidaemia is another relevant concern.\n\nDiscussion: why might the timing of an mTOR inhibitor matter after an operation?\n\nSource: sirolimus prescribing information."
+    },
+    {
+      "id": "bonus-q18",
+      "type": "question",
+      "prompt": "Bonus Q18 — A patient who cannot tolerate oral iron develops symptomatic hypophosphataemia after ferric carboxymaltose. There was no immediate allergic reaction. After assessing and treating the phosphate disturbance, which statement about future iron replacement is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Intramuscular iron is generally preferred whenever oral iron is not tolerated."
+        },
+        {
+          "id": "b",
+          "text": "Oral iron preparations also contain ferric carboxymaltose, so changing the route removes the risk."
+        },
+        {
+          "id": "c",
+          "text": "An alternative intravenous iron formulation, such as iron sucrose, may be considered with individual risk assessment and appropriate monitoring."
+        },
+        {
+          "id": "d",
+          "text": "Intravenous iron chelators are the routine treatment for this phosphate disturbance."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "C is the best answer. A history of iron-associated hypophosphataemia warrants reconsidering the preparation and monitoring plan; an alternative parenteral product may be appropriate. Ferric carboxymaltose can increase biologically active FGF23, causing renal phosphate wasting. Measure and correct phosphate according to clinical severity. Iron chelation is not routine treatment. This scenario concerns hypophosphataemia, not anaphylaxis. Sources: TGA and Medsafe iron-safety advice; Wolf et al., JCI Insight 2018."
+    },
+    {
+      "id": "phosphate-consolidation",
+      "type": "slide",
+      "title": "Low phosphate can reflect inappropriate renal loss",
+      "body": "Ferric carboxymaltose → increased active FGF23 → increased urinary phosphate loss → hypophosphataemia.\n\nFGF23 also reduces calcitriol; secondary hyperparathyroidism can contribute to the disturbance.\n\nPersistent fatigue or weakness after an iron infusion may represent low phosphate rather than persistent iron deficiency. Assess symptoms and risk factors, check phosphate when indicated, and reconsider repeat ferric carboxymaltose if hypophosphataemia persists.\n\nSources: Wolf et al.; TGA safety advice."
+    },
+    {
+      "id": "bonus-q33",
+      "type": "question",
+      "prompt": "Bonus Q33 — Dan Heng, a 30-year-old man, moves to a high-altitude research station. Over several weeks he adapts to the lower oxygen tension. Which sequence best describes the erythropoietic response to hypoxaemia?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sensed by the liver → increased iron absorption → maturation of multipotential stem cells"
+        },
+        {
+          "id": "b",
+          "text": "Sensed by the spleen → release of stored reticulocytes → increased haemoglobin synthesis"
+        },
+        {
+          "id": "c",
+          "text": "Sensed by the kidneys → increased erythropoietin secretion → stimulation of red bone marrow"
+        },
+        {
+          "id": "d",
+          "text": "Sensed by the bone marrow → rapid proerythroblast division → reduced cell transit time"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "C is correct. In adults, renal oxygen sensing increases erythropoietin production when oxygen availability falls. EPO stimulates marrow red-cell production. The kidney supplies the hormonal signal; the marrow produces the cells. Reduced renal EPO production contributes to anaemia in CKD, although other causes must also be considered. Sources: NIDDK; Onkopedia erythrocytosis guidance."
+    },
+    {
+      "id": "epo-consolidation",
+      "type": "slide",
+      "title": "The kidney signals; the marrow responds",
+      "body": "Lower oxygen availability → renal EPO → increased red-cell production.\n\nDamaged kidneys may produce too little EPO, contributing to CKD-associated anaemia. Iron deficiency and other causes may coexist.\n\nDo not assume every low haemoglobin in someone with kidney disease is explained by reduced EPO.\n\nDiscussion: what changes if EPO is administered from outside the body?\n\nSource: NIDDK, Anaemia in Chronic Kidney Disease."
+    },
+    {
+      "id": "bonus-q56-adapted",
+      "type": "question",
+      "prompt": "Bonus Q56 — Adapted related question. A 40-year-old professional cyclist has persistent isolated erythrocytosis: haemoglobin and haematocrit are high, but white-cell and platelet counts are normal. Which exposure is LEAST likely to explain the erythrocytosis in a person without a vitamin deficiency?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sustained training at high altitude"
+        },
+        {
+          "id": "b",
+          "text": "Recombinant erythropoietin use"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin megadoses alone"
+        },
+        {
+          "id": "d",
+          "text": "Anabolic androgenic steroid use"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "C is the best answer for this revised stem. Hypoxia, exogenous EPO and androgen exposure are recognised explanations for erythrocytosis. Vitamin megadoses alone are not an established explanation in a vitamin-replete person. In clinical practice, associated leukocytosis, thrombocytosis or splenomegaly warrants assessment for a myeloproliferative process. Source: Onkopedia polycythaemia vera guideline."
+    },
+    {
+      "id": "erythrocytosis-consolidation",
+      "type": "slide",
+      "title": "Read all three blood-cell lines",
+      "body": "Isolated erythrocytosis: consider oxygen-related, drug-related and other secondary causes.\n\nErythrocytosis plus raised white cells, raised platelets or splenomegaly: widen the differential to include a myeloproliferative neoplasm. Do not attribute the whole pattern to altitude or EPO without further assessment.\n\nThe distinction matters when interpreting the original cycling vignette.\n\nSource: Onkopedia polycythaemia vera guideline."
+    },
+    {
+      "id": "bonus-q55",
+      "type": "question",
+      "prompt": "Bonus Q55 — A 70-year-old man presents with fatigue, vertebral bone pain, muscle weakness, frothy urine and a recently passed urinary stone. Investigations show proteinuria, reduced eGFR, normochromic normocytic anaemia, rouleaux on the blood film and hypergammaglobulinaemia. Based on the clinical and laboratory findings, which diagnosis best unifies the presentation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Haemophilia A"
+        },
+        {
+          "id": "b",
+          "text": "Acute myeloid leukaemia"
+        },
+        {
+          "id": "c",
+          "text": "Acute lymphoblastic leukaemia"
+        },
+        {
+          "id": "d",
+          "text": "Multiple myeloma"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "D is the best unifying diagnosis. Bone pain, anaemia, renal impairment and excess immunoglobulin suggest a plasma-cell disorder. Free light chains can contribute to tubular injury. Further assessment includes monoclonal-protein studies, serum free light chains and evaluation of calcium, marrow and bone disease. The vignette suggests myeloma but does not itself establish formal diagnostic criteria. A single reduced eGFR also does not establish CKD chronicity. Source: NCI plasma-cell neoplasms PDQ."
+    },
+    {
+      "id": "proteinuria-consolidation",
+      "type": "slide",
+      "title": "Renal findings may be the clue to a systemic disorder",
+      "body": "Think across organs: renal impairment + abnormal urinary protein + anaemia + bone symptoms.\n\nIn myeloma, filtered free light chains may form damaging tubular casts. Protein studies help identify the pattern.\n\nDo not infer hypercalcaemia from a stone alone: measure calcium. Do not infer chronic kidney disease from one eGFR result: establish duration and context.\n\nSource: NCI plasma-cell neoplasms PDQ. CKD chronicity: KDIGO 2024 CKD guideline."
+    },
+    {
+      "id": "take-home",
+      "type": "slide",
+      "title": "Six decisions to carry forward",
+      "body": "• Distinguish transplant maintenance from induction.\n• Link mTOR inhibition to impaired wound healing.\n• Think of phosphate loss after ferric carboxymaltose.\n• Connect renal oxygen sensing to EPO and marrow activity.\n• Check whether erythrocytosis is isolated or part of a wider blood-count abnormality.\n• Consider systemic disease when proteinuria and renal impairment accompany bone pain and anaemia.\n\nExit discussion: explain one answer using a mechanism rather than recall alone."
+    },
+    {
+      "id": "credits",
+      "type": "slide",
+      "title": "Question provenance and teaching adaptations",
+      "body": "Based on the 2026 Year 2 Semester 2 Practice Exam 1 student-made papers.\n\nSource items: Main Q23 and Q24; Bonus Q18, Q33, Q55 and Q56.\nQuestion authors: Angela Zheng, Allen Trang and Alex Li.\n\nThese are student-authored practice questions, not an official Monash Faculty examination.\n\nTeaching explanations and answers were added for this lesson. Q18 was clarified to specify hypophosphataemia rather than allergy. Q55 is self-contained without its CT image. Q56 was revised to address conflicting findings in the source stem. Detailed changes and references are in the companion teacher notes."
+    },
+    {
+      "id": "references-transplant-iron",
+      "type": "slide",
+      "title": "References: transplantation and phosphate",
+      "body": "KDIGO. Care of Kidney Transplant Recipients: induction and maintenance recommendations. kdigo.org\n\nSirolimus prescribing information: wound healing, mechanism and pharmacokinetics. DailyMed, sections 5.6, 12.1, 12.3. dailymed.nlm.nih.gov\n\nTGA. Ferric carboxymaltose and low blood phosphorous. tga.gov.au\n\nMedsafe. Infusing Iron? Consider Phosphate. medsafe.govt.nz\n\nWolf et al. Randomized trial of intravenous iron-induced hypophosphatemia. JCI Insight 2018;3:e124486. DOI: 10.1172/jci.insight.124486"
+    },
+    {
+      "id": "references-renal-haematology",
+      "type": "slide",
+      "title": "References: renal and haematology overlap",
+      "body": "NIDDK. Anaemia in Chronic Kidney Disease. niddk.nih.gov\n\nOnkopedia. Polycythaemia Vera: diagnostic work-up and secondary erythrocytosis. onkopedia.com\n\nNCI. Plasma Cell Neoplasms, including Multiple Myeloma, Treatment PDQ, health-professional version. cancer.gov\n\nKDIGO. 2024 Clinical Practice Guideline for CKD: establish chronicity. kdigo.org\n\nFull URLs, question mapping and adaptation notes accompany the lesson. References checked 10 November 2026."
+    }
+  ]
+}

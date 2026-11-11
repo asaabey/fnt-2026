@@ -1,0 +1,245 @@
+ADDITIONAL RENAL QUESTIONS — EXPLANATION SLIDES
+Question numbers and sequence match the combined lesson.
+Every question retains three explanation slides and all option-specific learning points.
+
+Q2 — Renal sodium conservation after gastrointestinal bleeding
+Correct answer: D
+
+Slide 1: Renin release after blood loss
+**Correct answer: D. ↓ ==NaCl transport== at the ==macula densa== → ↑ ==renin release== from ==juxtaglomerular granular cells==.**
+
+Why it is correct: Blood loss, hypotension and tachycardia indicate ↓ ==circulating volume==. ↓ ==renal perfusion== + ↑ ==upstream sodium reabsorption== → ↓ NaCl delivery and transport at the ==macula densa==. Result: ↑ ==renin release== from nearby granular cells. ==Angiotensin II== and ==aldosterone== then support sodium retention; the ==low urine sodium== is consistent with renal conservation.
+
+Learning point: Use the clinical evidence of volume loss to infer the renal response. Macula-densa cells sense NaCl; ==juxtaglomerular granular cells== release renin.
+
+Slide 2: Macula-densa NaCl transport and renal perfusion pressure
+**A** — Macula-densa signal direction
+Why it is wrong here: ↑ ==macula-densa NaCl transport== → ↓ ==renin== release. Volume depletion → ↓ ==NaCl signal== → ↑ ==renin== release.
+Learning point: ↓ ==macula-densa NaCl== → ↑ ==renin==; ↑ NaCl → ↓ ==renin==.
+
+**B** — ==Afferent arteriolar stretch==
+Why it is wrong here: Haemorrhage → ↓ ==renal perfusion== + ↓ ==afferent arteriolar stretch==. ↓ ==perfusion pressure== → ↑ ==renin==; ↑ stretch → ↓ ==renin==.
+Learning point: The renal vascular signal responds to ==perfusion pressure==, not to ==plasma sodium concentration== alone.
+
+Slide 3: Sympathetic beta-1 regulation of renin release
+**C** — ==Sympathetic beta-1 signalling==
+Why it is wrong here: Blood loss → ↑ ==renal sympathetic activity==. ↑ ==beta-1 stimulation== → ↑ ==renin release==; ↓ ==beta-1 stimulation== removes a renin stimulus.
+Learning point: Sympathetic beta-1 input reinforces the low-perfusion and low-NaCl signals.
+
+Take-home: ↓ ==renal perfusion== + ↓ ==macula-densa NaCl transport== + ↑ ==beta-1 stimulation== → ↑ ==renin release==. This is an appropriate response to volume loss.
+
+Video: RAAS: renin, angiotensin II and aldosterone
+https://youtu.be/c-zGHvy6c8k
+
+Teacher references: R2, R17
+
+Q3 — Hypertension with hypokalaemia
+Correct answer: A
+
+Slide 1: Aldosterone-mediated sodium reabsorption and potassium secretion
+**Correct answer: A. ↑ ==apical ENaC== activity + ↑ ==basolateral Na+/K+-ATPase== activity.**
+
+Why it is correct: The findings suggest ==primary aldosteronism==. ==Aldosterone== → ↑ ==ENaC==-mediated sodium entry + ↑ ==basolateral Na+/K+-ATPase== activity. Sodium retention contributes to ==hypertension==. Electrogenic ==sodium reabsorption== makes the lumen more negative, favouring ==potassium secretion== through apical potassium channels and explaining ==hypokalaemia==.
+
+Learning point: Connect the two clinical findings to one pathway: ↑ distal ==sodium reabsorption== supports volume expansion and potassium loss.
+
+Slide 2: AQP2 water permeability and Na+/K+-ATPase transport
+**B** — ==Aquaporin-2== and water handling
+Why it is wrong here: ==Aquaporin-2== is primarily regulated by ==vasopressin==. Water-channel insertion alone does not explain ==aldosterone==-driven electrogenic sodium uptake and renal potassium loss.
+Learning point: Distinguish ==vasopressin/AQP2== water handling from ==aldosterone/ENaC== sodium and potassium handling.
+
+**C** — Basolateral pump inhibition
+Why it is wrong here: ==Na+/K+-ATPase== inhibition → ↓ gradient for ==sodium entry== + ↓ ==potassium uptake== into principal cells. It opposes the transport changes expected with ==aldosterone== excess.
+Learning point: The basolateral pump sustains both sodium reabsorption and the cellular potassium supply for secretion.
+
+Slide 3: ENaC activity and potassium secretion
+**D** — ↓ ==ENaC activity==
+Why it is wrong here: ↓ ==ENaC activity== → ↓ ==electrogenic sodium uptake== → ==less negative lumen== → ↓ driving force for ==potassium secretion==. This is the opposite of the mechanism causing her findings.
+Learning point: ENaC inhibition can promote ==natriuresis== and ==spare potassium==; ↑ ==ENaC activity== favours potassium loss.
+
+Take-home: High aldosterone with ==suppressed renin== suggests ==renin-independent aldosterone production==. ==Hypokalaemia== is a useful clue but is ==absent in many patients== with primary aldosteronism.
+
+Teacher references: R3, R16
+
+Q7 — Oedema with hyponatraemia
+Correct answer: B
+
+Slide 1: Hypervolaemic hypotonic hyponatraemia
+**Correct answer: B. ↑ ==total-body sodium== + ↑ water; ==proportionately greater ↑ in water==.**
+
+Why it is correct: Weight gain and worsening oedema in this patient favour sodium and water retention. Low measured osmolality confirms ==hypotonic hyponatraemia==. ==Proportionately greater ↑ in water== than in ==exchangeable sodium + potassium== → ↓ ==plasma sodium== despite ↑ sodium stores.
+
+==Plasma [Na⁺] ≈ (Naₑ + Kₑ) / TBW==
+Naₑ and Kₑ are exchangeable sodium and potassium; TBW is ==total-body water==.
+
+Learning point: Hyponatraemia ==does not necessarily mean sodium depletion==. In the Gamblegram: ↑ cation bar, with a ==proportionately greater ↑ in water==.
+
+Slide 2: Hypovolaemic hyponatraemia and sodium-predominant retention
+**A** — Sodium and water depletion
+Why it is wrong here: This pattern can cause ==hypovolaemic hyponatraemia==, but it does not explain her weight gain and progressive oedema as well as retention. ↓ ==effective arterial filling== in nephrotic syndrome is not the same as depleted ==total-body sodium==.
+Learning point: Assess sodium stores separately from effective circulating volume.
+
+**C** — Sodium gain exceeding water gain
+Why it is wrong here: With ==exchangeable potassium== held constant in the simplified model, this would cause ↑ ==cation-to-water ratio==, favouring ==hypernatraemia==, whereas her plasma sodium is low.
+Learning point: The direction of the sodium change depends on the relative changes in cations and water.
+
+Slide 3: Sodium and water balance in oedematous disease
+**D** — Retention with preserved concentration
+Why it is wrong here: This can produce weight gain and oedema with ==normal plasma sodium==, as in the first stage of the Gamblegram’s oedema panel. It cannot account for her ==hypotonic hyponatraemia==.
+Learning point: Sodium retention can accompany normal, low or high plasma sodium, depending on ==water balance==.
+
+Take-home: Read concentration and volume separately. The animation contrasts water-predominant retention in ==SIADH==, ==unreplaced water loss in DI==, and sodium plus water retention in oedematous disease. Here, ==water gain outpaces cation gain==.
+
+Video: Plasma sodium: Edelman–Rose Gamblegram
+https://youtu.be/CKi0L95X5cs
+
+Teacher references: R1, R13, R14, R15
+
+Q12 — IgA nephropathy and infection-associated haematuria
+Correct answer: A
+
+Slide 1: IgA nephropathy: presentation and mesangial IgA
+**Correct answer: A. Dominant or co-dominant ==mesangial IgA== deposition**
+
+Why it is correct: Recurrent glomerular haematuria ==during or shortly after respiratory symptoms== suggests ==IgA nephropathy==. Its defining biopsy finding is dominant or co-dominant ==mesangial IgA==. ==Normal serum C3== supports the pattern but ==does not establish the diagnosis==; clinical suspicion and ==biopsy confirmation== are distinct.
+
+Learning point: Use timing to form a hypothesis and the biopsy pattern to establish the lesion.
+
+Image: https://assets.lattice-1.com/renal/gn/iga-nephropathy-original-figure1.54f2bd2c5470.webp
+Alt text: Representative IgA nephropathy biopsies: panel A shows mesangial IgA immunofluorescence; panel B shows mesangial expansion and hypercellularity on PAS light microscopy; panel C is electron microscopy.
+Caption: A: IgA IF; B: PAS light microscopy; C: EM. Knoppova et al. (2016), Fig. 1. Lea Novak (A), Huma Fatima (B/C), UAB. Unmodified. https://doi.org/10.3389/fimmu.2016.00117 | CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+Slide 2: Linear IgG and full-house immunofluorescence
+**B** — ==Linear IgG==
+Why it is wrong here: Strong ==linear IgG== along the GBM is characteristic of ==anti-GBM== antibody disease, rather than the expected mesangial immune-deposit pattern in this case.
+Learning point: Linear binding along a fixed basement-membrane antigen differs from ==mesangial immune-complex deposition==.
+
+**C** — ==Full-house staining==
+Why it is wrong here: ==Full-house staining== includes ==IgG, IgA, IgM, C3 and C1q== and commonly supports ==lupus nephritis== in the right context. It is not the expected dominant ==mesangial IgA== pattern.
+Learning point: ==Full-house staining== is a contextual clue, ==not a standalone diagnosis== of systemic lupus.
+
+Slide 3: Pauci-immune glomerulonephritis
+**D** — ==Pauci-immune== injury
+Why it is wrong here: ==Scant immune deposits== with ==necrotising crescentic GN== are typical of an ==ANCA-associated== pattern. IgA nephropathy is instead defined by ==mesangial IgA== deposits.
+Learning point: ==Pauci-immune== means ==few immune deposits==; ==severe inflammation and necrosis== can still be present.
+
+Take-home: Compare deposit pattern and location: ==mesangial IgA==, ==linear GBM IgG==, ==full-house immune deposits==, or a ==pauci-immune== lesion.
+
+Teacher references: R6, R9, R10, R12
+
+Q13 — Post-streptococcal glomerulonephritis
+Correct answer: D
+
+Slide 1: Post-streptococcal glomerulonephritis
+**Correct answer: D. Immune-mediated glomerular injury with ==complement activation== and typically ==granular immune deposits==**
+
+Why it is correct: A nephritic presentation around ==two weeks after streptococcal pharyngitis==, with ==low C3==, supports ==post-streptococcal GN==. Glomerular immune-mediated injury activates complement and typically produces ==granular immune deposits==. The preceding infection triggers the immune process; it does not imply suppurative infection of the kidney.
+
+Learning point: A ==latent interval== after infection supports a post-infectious mechanism, in contrast to ==near-concurrent haematuria== in typical IgA presentations.
+
+Slide 2: Immune-mediated GN and direct renal infection
+**A** — ==Direct bacterial invasion==
+Why it is wrong here: The case describes a delayed nephritic syndrome with ==red-cell casts== and ==low C3==. ==Direct suppurative renal infection== is a different process; it does not explain the characteristic immune-mediated glomerular pattern.
+Learning point: Distinguish an infection triggering GN from bacteria directly infecting urinary or renal tissue.
+
+**B** — ==Anti-GBM antibodies==
+Why it is wrong here: Antibody binding to fixed ==type IV collagen== antigens produces a ==linear anti-GBM pattern==. The post-infectious pattern here instead favours immune-mediated injury with ==granular deposits==.
+Learning point: Linear and granular staining reflect different patterns of immune involvement.
+
+Slide 3: Complement and immunofluorescence in GN
+**C** — ANCA-associated injury
+Why it is wrong here: ==ANCA-associated GN== is usually ==pauci-immune==. The latent post-streptococcal course with ==low C3== is more consistent with the immune-deposit/complement pattern in answer D.
+Learning point: Integrate the history, complement and biopsy pattern; ==low C3 alone is not specific== for one GN.
+
+Take-home: Post-streptococcal GN is one ==infection-related GN==. Other infections and other immune diseases can also cause low complement and glomerular injury.
+
+Teacher references: R7, R9, R10
+
+Q14 — Lupus nephritis and the role of kidney biopsy
+Correct answer: C
+
+Slide 1: Lupus nephritis: biopsy class, activity and chronicity
+**Correct answer: C. Arrange prompt nephrology assessment and ==kidney biopsy==, if feasible, to assess ==class, activity and chronicity==.**
+
+Why it is correct: ==Red-cell casts==, substantial proteinuria and ==declining kidney function== raise concern for active ==lupus nephritis==. If feasible, ==kidney biopsy== helps identify the histological class and assess ==active inflammation== versus ==chronic scarring==. These findings inform treatment decisions beyond what the established systemic lupus diagnosis alone provides.
+
+Learning point: Assess the kidney lesion, not just whether the patient has systemic autoimmunity.
+
+Slide 2: Serology and proteinuria in lupus nephritis
+**A** — ==Anti-dsDNA== titre alone
+Why it is wrong here: ==Anti-dsDNA== and ==complement== can support assessment of lupus activity, but they cannot reliably assign the renal ==histological class== or quantify ==chronic scarring==.
+Learning point: Serology complements renal assessment; it does not replace histological classification when biopsy is indicated.
+
+**B** — Waiting for nephrotic-range proteinuria
+Why it is wrong here: Active lupus nephritis can occur with ==sub-nephrotic proteinuria==. ==Red-cell casts== and a ==creatinine rise== already make this presentation significant.
+Learning point: The nephrotic-range threshold defines a protein-excretion category, ==not the threshold== for investigating inflammatory kidney disease.
+
+Slide 3: Ultrasound and kidney biopsy in lupus nephritis
+**D** — ==Ultrasound== versus microscopy
+Why it is wrong here: ==Ultrasound== assesses macroscopic anatomy, including kidney size and obstruction. It cannot resolve ==glomerular immune deposits== or assign lupus-nephritis class.
+Learning point: ==Light microscopy== assesses ==structural lesions==; ==immunofluorescence== assesses ==immune staining==; ==electron microscopy== adds ==ultrastructural detail==.
+
+Take-home: Link urinary sediment and kidney-function change to prompt assessment. Biopsy ==class, activity and chronicity== help guide care when biopsy is feasible.
+
+Teacher references: R8
+
+Q15 — ANCA-associated crescentic glomerulonephritis
+Correct answer: B
+
+Slide 1: PR3-ANCA-associated necrotising crescentic GN
+**Correct answer: B. ==Necrotising crescentic glomerulonephritis== with ==scant or absent immune deposits==**
+
+Why it is correct: Upper-airway symptoms, haemoptysis and rapidly declining kidney function with ==PR3-ANCA== strongly suggest ==ANCA-associated vasculitis==. The expected renal lesion is necrotising crescentic GN with ==scant or absent immune deposits==. Possible ==pulmonary haemorrhage== and rapid renal decline require ==urgent specialist assessment==.
+
+Learning point: A ==pauci-immune== biopsy can show severe necrosis and crescent formation.
+
+Image: https://assets.lattice-1.com/renal/gn/anca-pauci-immune-original-figure2.834187e78ecc.webp
+Alt text: Representative ANCA-associated pauci-immune GN: panel A shows a cellular crescent and fibrinoid necrosis on PAS light microscopy; panel B shows absent glomerular IgG staining on immunofluorescence.
+Caption: A: PAS, crescent and necrosis; B: IgG IF. Kim et al. (2025), Fig. 2. Unmodified, MPO-positive source case; illustrates the pauci-immune pattern in this PR3-positive case. https://doi.org/10.3389/fmed.2025.1515622 | CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+Slide 2: Crescentic GN: light microscopy and immune deposits
+**A** — Linear GBM IgG
+Why it is wrong here: ==Linear IgG== would raise ==anti-GBM disease==, including a possible overlapping antibody syndrome. It is not the expected ==pauci-immune== pattern of the PR3-associated presentation.
+Learning point: ANCA positivity alone does not exclude ==anti-GBM overlap==; reconcile serology with biopsy.
+
+**C** — ==Mesangial IgA==
+Why it is wrong here: ==Mesangial IgA== supports ==IgA nephropathy==. It is less consistent with this combined upper-airway, pulmonary and rapidly progressive PR3-associated presentation. IgA disease can itself sometimes develop crescents.
+Learning point: Do not classify the cause of GN from ==crescents alone==; deposit pattern and clinical context matter.
+
+Slide 3: Immune-deposit patterns in GN
+**D** — ==Full-house== immune deposits
+Why it is wrong here: A ==full-house== pattern commonly supports ==lupus-associated immune-complex disease==. Substantial granular immunoglobulin/complement deposits are not the expected ==pauci-immune== pattern here.
+Learning point: Immune-complex GN and ==pauci-immune== GN can both be severe; the distinction concerns immune deposits, not simply severity.
+
+Take-home: ==Crescents== describe severe glomerular injury. Combine light microscopy, ==immunofluorescence==, ==serology== and the clinical course to identify its cause.
+
+Teacher references: R9, R10, R6, R12
+
+Q16 — Anti-GBM disease and antibody-directed injury
+Correct answer: A
+
+Slide 1: Anti-GBM antibodies and linear IgG staining
+**Correct answer: A. Autoantibodies directed against a ==type IV collagen== antigen in the basement membrane**
+
+Why it is correct: Strong ==linear IgG== in a crescentic pulmonary-renal presentation supports ==anti-GBM disease==. The classic antibody target is the ==non-collagenous domain== of the ==alpha-3 chain== of ==type IV collagen==. Binding along the basement membrane explains the linear pattern. The disease requires ==urgent assessment==.
+
+Learning point: Connect the immune target to the staining pattern: antibody binding along a ==fixed GBM antigen== produces ==linear staining==.
+
+Slide 2: Mesangial IgA deposition and podocyte dysfunction
+**B** — ==IgA immune complexes==
+Why it is wrong here: IgA-containing immune complexes produce the characteristic ==mesangial deposit pattern== of ==IgA nephropathy==. They do not explain strong linear IgG along the GBM.
+Learning point: The identity, location and distribution of immune deposits all contribute to the diagnosis.
+
+**C** — Isolated slit-barrier dysfunction
+Why it is wrong here: ==Podocyte slit-barrier dysfunction== helps explain ==protein leakage==, but by itself does not explain ==linear GBM IgG==, crescentic injury and ==pulmonary haemorrhage==.
+Learning point: A structural barrier abnormality is not a substitute for identifying the immune mechanism causing the injury.
+
+Slide 3: Anti-GBM disease and ANCA-associated pulmonary–renal syndromes
+**D** — ANCA-mediated injury
+Why it is wrong here: ==ANCA-associated vasculitis== can also cause ==rapidly progressive GN== and ==pulmonary haemorrhage==. Its usual renal pattern is ==pauci-immune==, whereas this biopsy has strong ==linear GBM IgG==.
+Learning point: Clinical syndromes may overlap; ==immunofluorescence== and antibody testing help distinguish anti-GBM from ANCA-associated disease.
+
+Take-home: Both ==anti-GBM disease== and ANCA-associated GN may cause pulmonary-renal syndromes. The tissue immune pattern is a major discriminator; ==overlap can occur==.
+
+Teacher references: R10, R6, R9
+

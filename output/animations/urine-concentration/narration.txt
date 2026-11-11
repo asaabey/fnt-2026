@@ -1,0 +1,22 @@
+OPTIONAL VOICE-OVER OUTLINE
+The animation is captioned and silent. Match a later recording to chapter-times.json.
+
+A concentrating kidney needs two things: an osmotic gradient in the medulla,
+and a collecting duct that allows water to leave.
+
+In the thick ascending limb, NKCC2 supports net salt reabsorption. This segment
+is water-impermeable, so water does not follow the salt across its wall.
+The loop system contributes to the gradient toward the deeper medulla.
+
+High vasopressin keeps collecting-duct water pathways available. With a strong
+gradient, water can leave the collecting duct and be recovered.
+
+A loop diuretic inhibits NKCC2. Less salt is reabsorbed into the medulla,
+weakening the gradient that drives water recovery.
+
+Notice what stays the same: vasopressin is still high, and the water pathways
+remain open. But a permeable pathway cannot replace the osmotic driving force.
+
+The result is reduced maximum urine-concentrating capacity. The gradient is
+weakened, not completely eliminated. That is why high vasopressin cannot fully
+preserve concentration after NKCC2 blockade.

@@ -1,0 +1,87 @@
+EIGHT ADDITIONAL RENAL QUESTIONS — CANDIDATES FOR REVIEW
+Prepared 11 November 2026. Merged as Q11–Q18 into renal-weeks-1-4-lesson.json on 11 November 2026.
+Three questions cover sodium balance / blood-pressure physiology; five cover GN.
+Q11–Q18 are review identifiers, not prefixes to insert into Fimbria prompts.
+Choose one best answer. Complete option explanations are in additional-questions-review-notes.txt.
+Three explanation slides accompany every question in additional-questions-explanation-slides.txt.
+The standalone additional-questions-review-lesson.json contains the eight additional questions and their slides.
+
+Q11 — Oedema with hyponatraemia
+
+A 38-year-old woman with nephrotic syndrome presents with worsening leg swelling and abdominal distension. She has gained 6 kg over two weeks. Plasma sodium is 126 mmol/L, measured plasma osmolality is 264 mOsm/kg and blood glucose is normal. She has not taken diuretics and has had no vomiting or diarrhoea. Which pattern of total-body sodium and water best accounts for these findings?
+
+A. ↓ total-body sodium + ↓ water; proportionately greater ↓ in sodium.
+B. ↑ total-body sodium + ↑ water; proportionately greater ↑ in water.
+C. ↑ total-body sodium + ↑ water; proportionately greater ↑ in sodium.
+D. ↑ total-body sodium + ↑ water; sodium-to-water relationship preserved.
+
+
+
+Q12 — Renal sodium conservation after gastrointestinal bleeding
+
+A 67-year-old man presents with two days of melaena and dizziness on standing. His blood pressure is 92/58 mmHg, pulse is 112/min and urine output has fallen. Urine sodium is 8 mmol/L. He is not taking diuretics. Which renal response contributes to sodium conservation in this situation?
+
+A. ↑ NaCl transport at the macula densa → ↑ renin release.
+B. ↑ afferent arteriolar stretch → ↑ renin release.
+C. ↓ renal sympathetic beta-1 stimulation → ↑ renin release.
+D. ↓ NaCl transport at the macula densa → ↑ renin release from juxtaglomerular granular cells.
+
+
+Q13 — Hypertension with hypokalaemia
+
+A 46-year-old woman is assessed for persistent hypertension and muscle weakness. Her blood pressure is 168/104 mmHg and plasma potassium is 2.8 mmol/L. She is not taking diuretics and has no vomiting or diarrhoea. Investigation shows elevated plasma aldosterone with suppressed renin. Which principal-cell change best links her hypertension and hypokalaemia?
+
+A. ↑ apical ENaC activity + ↑ basolateral Na+/K+-ATPase activity.
+B. ↑ apical aquaporin-2 insertion without ↑ sodium transport.
+C. Inhibition of basolateral Na+/K+-ATPase, ↓ cellular potassium uptake.
+D. ↓ apical ENaC activity, making the tubular lumen less negative.
+
+
+Q14 — IgA nephropathy and infection-associated haematuria
+
+A 21-year-old has recurrent visible haematuria beginning within 24 hours of upper respiratory tract symptoms. Urine contains dysmorphic red cells and protein, and serum C3 is normal. Which kidney-biopsy immunofluorescence finding would be most consistent with the suspected diagnosis?
+
+A. Dominant or co-dominant mesangial IgA deposition
+B. Strong linear IgG staining along the glomerular basement membrane
+C. A full-house pattern with multiple immunoglobulins and complement components
+D. Scant or absent immune deposits despite necrotising crescentic injury
+
+
+Q15 — Post-streptococcal glomerulonephritis
+
+A 10-year-old develops cola-coloured urine, periorbital oedema and hypertension about two weeks after documented streptococcal pharyngitis. Urine contains red-cell casts and serum C3 is low. Which process best explains the glomerular injury?
+
+A. Direct bacterial invasion of the collecting ducts producing a suppurative infection
+B. Autoantibody binding to type IV collagen with linear IgG deposition
+C. ANCA-mediated neutrophil injury producing a predominantly pauci-immune lesion
+D. Immune-mediated glomerular injury with complement activation and typically granular immune deposits
+
+
+Q16 — Lupus nephritis and the role of kidney biopsy
+
+A patient with established systemic lupus erythematosus develops proteinuria of 1.8 g/day, red-cell casts and a creatinine rise from 80 to 150 micromol/L over three weeks. C3 and C4 are low. Which approach best establishes the renal lesion and helps guide treatment?
+
+A. Use the anti-double-stranded DNA titre alone to assign the histological class of lupus nephritis.
+B. Defer renal investigation until protein excretion exceeds the nephrotic-range threshold.
+C. Arrange prompt nephrology assessment and kidney biopsy, if feasible, to assess class, activity and chronicity.
+D. Use renal ultrasonography to determine the glomerular immune-deposit pattern and histological class.
+
+
+Q17 — ANCA-associated crescentic glomerulonephritis
+
+Over two weeks, a 56-year-old develops fatigue, nasal crusting and haemoptysis. Creatinine rises from 85 to 320 micromol/L, urine contains red-cell casts and PR3-ANCA is positive. Which kidney-biopsy pattern is most consistent with this presentation?
+
+A. Crescentic glomerulonephritis with strong linear IgG along the basement membrane
+B. Necrotising crescentic glomerulonephritis with scant or absent immune deposits
+C. Predominantly mesangial IgA deposition without necrotising injury
+D. A full-house pattern of granular glomerular immunoglobulin and complement deposits
+
+
+Q18 — Anti-GBM disease and antibody-directed injury
+
+A patient with haemoptysis and rapidly worsening kidney function has a kidney biopsy showing crescents and strong linear IgG staining along the glomerular basement membrane. Which mechanism best explains this pattern?
+
+A. Autoantibodies directed against a type IV collagen antigen in the basement membrane
+B. Mesangial deposition of IgA-containing immune complexes after mucosal immune activation
+C. Podocyte slit-barrier dysfunction without antibody-directed basement-membrane injury
+D. ANCA-associated neutrophil activation producing a predominantly pauci-immune lesion

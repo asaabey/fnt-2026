@@ -1,0 +1,56 @@
+# Rendered/exported artefacts and source document binaries
+*.mp4
+*.mov
+*.webm
+*.gif
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.pdf
+*.pptx
+*.docx
+*.xlsx
+*.zip
+
+# Generated render/validation reports
+**/render-report.json
+**/chapter-times.json
+**/model-checks.json
+**/validation-report.json
+**/*-validation.json
+**/deployment-report.json
+**/http-checks.json
+
+# Render caches, scratch files, environments and build output
+media/
+partial_movie_files/
+Tex/
+text/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
+dist/
+build/
+/tmp/
+*.log
+
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+.wrangler/
+*.pem
+*.key
+
+# OS/editor files
+.DS_Store
+._*
+.idea/
+.vscode/
+*~

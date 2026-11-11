@@ -1,0 +1,46 @@
+{
+  "model": "Illustrative simplified Edelman–Rose relation: plasma sodium ≈ (exchangeable Na + exchangeable K) / total body water",
+  "baseline": {"sodium": 2800, "potassium": 2800, "water": 40, "plasmaSodium": 140},
+  "cases": [
+    {
+      "id": "balanced-retention", "title": "Sodium + water retention",
+      "sodium": 3220, "potassium": 2800, "water": 43, "plasmaSodium": 140,
+      "lines": ["Sodium stores ↑", "Water retained in balance", "Extracellular expansion / oedema"],
+      "caption": "Sodium and water can accumulate while plasma sodium stays normal.",
+      "context": "The total cation amount and water rise in the same proportion.",
+      "posterTitle": "Sodium + water\nretention", "posterStores": "Na stores ↑"
+    },
+    {
+      "id": "water-gain", "title": "Water-predominant gain",
+      "sodium": 2800, "potassium": 2800, "water": 43.75, "plasmaSodium": 128,
+      "lines": ["Sodium stores unchanged", "Body water ↑", "Volume signs may be subtle"],
+      "caption": "Water gain lowers plasma sodium when the cation amount is unchanged.",
+      "context": "The hatched region marks water excess relative to the reference concentration.",
+      "posterTitle": "Water\ngain", "posterStores": "Na stores unchanged"
+    },
+    {
+      "id": "sodium-loss", "title": "Sodium depletion",
+      "sodium": 1960, "potassium": 2800, "water": 37.1875, "plasmaSodium": 128,
+      "lines": ["Sodium stores ↓", "Body water ↓", "Extracellular volume depleted"],
+      "caption": "Hyponatraemia can coexist with losses of both sodium and water.",
+      "context": "Cation loss is proportionally greater; retained hypotonic fluid can contribute.",
+      "posterTitle": "Sodium\nloss", "posterStores": "Na stores ↓"
+    },
+    {
+      "id": "hypotonic-retention", "title": "Retention with water excess",
+      "sodium": 3360, "potassium": 2800, "water": 48.125, "plasmaSodium": 128,
+      "lines": ["Sodium stores ↑", "Water has a greater relative gain", "Oedema can coexist with low [Na⁺]"],
+      "caption": "More body sodium does not guarantee a higher plasma sodium concentration.",
+      "context": "Water has increased more than the combined cation amount.",
+      "posterTitle": "Retention +\nwater excess", "posterStores": "Na stores ↑"
+    },
+    {
+      "id": "di-water-loss", "title": "Diabetes insipidus",
+      "sodium": 2800, "potassium": 2800, "water": 35, "plasmaSodium": 160,
+      "lines": ["Large volumes of dilute urine", "Central: vasopressin release ↓", "Nephrogenic: renal response ↓"],
+      "caption": "In DI, plasma sodium rises if urinary water loss exceeds replacement.",
+      "context": "This shows unreplaced water loss; DI does not inevitably cause hypernatraemia.",
+      "posterTitle": "DI: unreplaced\nwater loss", "posterStores": "Na stores unchanged"
+    }
+  ]
+}

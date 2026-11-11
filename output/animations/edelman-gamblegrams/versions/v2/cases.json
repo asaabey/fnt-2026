@@ -1,0 +1,50 @@
+{
+  "title": "Edelman-Rose Gamblegram",
+  "model": "Illustrative Rose ratio: (exchangeable Na + exchangeable K) / total body water",
+  "baseline": {
+    "sodium": 2800,
+    "potassium": 2800,
+    "water": 40,
+    "plasmaSodium": 140
+  },
+  "arrangement": "Three persistent panels; one initial reference; no return-to-baseline cycles",
+  "panels": [
+    {
+      "id": "siadh",
+      "title": "SIADH",
+      "x": -4.45,
+      "sodium": 2800,
+      "potassium": 2800,
+      "water": 43.75,
+      "plasmaSodium": 128,
+      "interpretation": "Idealised water-predominant retention; compensatory changes in body sodium are not separately modelled."
+    },
+    {
+      "id": "di",
+      "title": "DI",
+      "qualifier": "Unreplaced water loss",
+      "x": 0,
+      "sodium": 2800,
+      "potassium": 2800,
+      "water": 35,
+      "plasmaSodium": 160,
+      "interpretation": "Water loss exceeds drinking. DI can also have normal sodium with adequate water replacement."
+    },
+    {
+      "id": "oedematous",
+      "title": "Nephrotic syndrome\nCCF · Liver disease",
+      "x": 4.45,
+      "sodium": 3360,
+      "potassium": 2800,
+      "water": 48.125,
+      "plasmaSodium": 128,
+      "intermediate": {
+        "sodium": 3360,
+        "potassium": 2800,
+        "water": 44,
+        "plasmaSodium": 140
+      },
+      "interpretation": "One shared oedematous sodium/water-balance pattern, not an assertion that all three diseases have identical mechanisms. Liver disease refers to the cirrhotic/advanced oedematous context; hyponatraemia is not inevitable."
+    }
+  ]
+}

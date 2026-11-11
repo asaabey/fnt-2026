@@ -1,0 +1,776 @@
+{
+  "schemaVersion": 1,
+  "id": "fnt-2026-renal-weeks-1-4-v1",
+  "title": "Renal Weeks - Review questions",
+  "steps": [
+    {
+      "id": "welcome",
+      "type": "slide",
+      "title": "Renal physiology and disease",
+      "body": "Nineteen single-best-answer questions for Year 2 revision.\n\nQ1–Q3: renal haemodynamics, renin and aldosterone.\nQ4–Q5: diuretic mechanisms and nephron targets.\nQ6–Q7: osmoregulation and sodium–water balance.\nQ8–Q11: AKI, haematuria, proteinuria and glomerular syndromes.\nQ12–Q16: glomerulonephritis.\nQ17–Q19: micturition and renal tumours.\n\nChoose one answer, explain the mechanism, then discuss the revealed explanation. Allow about 70–85 minutes, or split into two sessions."
+    },
+    {
+      "id": "q01-week1-lo4",
+      "type": "question",
+      "prompt": "A patient with severe bilateral renal artery stenosis develops a marked fall in GFR soon after starting an ACE inhibitor. Which change most directly explains the fall in filtration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Afferent arteriolar constriction → ↑ glomerular capillary pressure."
+        },
+        {
+          "id": "b",
+          "text": "Efferent arteriolar constriction → ↓ glomerular capillary pressure."
+        },
+        {
+          "id": "c",
+          "text": "↓ angiotensin II → efferent arteriolar dilation → ↓ glomerular capillary pressure."
+        },
+        {
+          "id": "d",
+          "text": "↑ collecting-duct water permeability → directly ↓ glomerular capillary pressure."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "**C.** With ↓ renal perfusion, ==angiotensin II== helps support glomerular pressure through ==efferent arteriolar constriction==. ACE inhibition removes this support, so ==GFR== can fall markedly when both kidneys depend on it. This haemodynamic effect does not mean ACE inhibitors are generally harmful to kidneys. Source: renal autoregulation review; KDIGO AKI guidance."
+    },
+    {
+      "id": "blood-flow-consolidation",
+      "type": "slide",
+      "title": "Renal blood flow and arteriolar resistance",
+      "body": "Renal artery → segmental → interlobar → arcuate → cortical radiate arteries → ==afferent arteriole== → ==glomerular capillaries== → ==efferent arteriole== → peritubular capillaries or vasa recta → veins.\n\nMyogenic and macula-densa feedback mainly adjust ==afferent resistance== to stabilise flow and filtration over a limited pressure range. Severe hypovolaemia + ==sympathetic activation== → ↓ ==renal blood flow==; autoregulation cannot fully compensate.\n\n==Angiotensin II== can support filtration pressure during low perfusion; severe vasoconstriction may cause ↓ blood flow + ↓ ==GFR==."
+    },
+    {
+      "id": "renal-pressure-video",
+      "type": "video",
+      "title": "Medicines and glomerular pressure",
+      "src": "https://youtu.be/CLZKfzoJqGk"
+    },
+    {
+      "id": "candidate-q12",
+      "type": "question",
+      "prompt": "A 67-year-old man presents with two days of melaena and dizziness on standing. His blood pressure is 92/58 mmHg, pulse is 112/min and urine output has fallen. Urine sodium is 8 mmol/L. He is not taking diuretics. Which renal response contributes to sodium conservation in this situation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "↑ NaCl transport at the macula densa → ↑ renin release."
+        },
+        {
+          "id": "b",
+          "text": "↑ afferent arteriolar stretch → ↑ renin release."
+        },
+        {
+          "id": "c",
+          "text": "↓ renal sympathetic beta-1 stimulation → ↑ renin release."
+        },
+        {
+          "id": "d",
+          "text": "↓ NaCl transport at the macula densa → ↑ renin release from juxtaglomerular granular cells."
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "**Correct answer: D. ↓ ==NaCl transport== at the ==macula densa== → ↑ ==renin release== from ==juxtaglomerular granular cells==.**\n\nWhy it is correct: Blood loss, hypotension and tachycardia indicate ↓ ==circulating volume==. ↓ ==renal perfusion== + ↑ ==upstream sodium reabsorption== → ↓ NaCl delivery and transport at the ==macula densa==. Result: ↑ ==renin release== from nearby granular cells. ==Angiotensin II== and ==aldosterone== then support sodium retention; the ==low urine sodium== is consistent with renal conservation.\n\nLearning point: Use the clinical evidence of volume loss to infer the renal response. Macula-densa cells sense NaCl; ==juxtaglomerular granular cells== release renin."
+    },
+    {
+      "id": "candidate-q12-explanation-1",
+      "type": "slide",
+      "title": "Renin release after blood loss",
+      "body": "**Correct answer: D. ↓ ==NaCl transport== at the ==macula densa== → ↑ ==renin release== from ==juxtaglomerular granular cells==.**\n\nWhy it is correct: Blood loss, hypotension and tachycardia indicate ↓ ==circulating volume==. ↓ ==renal perfusion== + ↑ ==upstream sodium reabsorption== → ↓ NaCl delivery and transport at the ==macula densa==. Result: ↑ ==renin release== from nearby granular cells. ==Angiotensin II== and ==aldosterone== then support sodium retention; the ==low urine sodium== is consistent with renal conservation.\n\nLearning point: Use the clinical evidence of volume loss to infer the renal response. Macula-densa cells sense NaCl; ==juxtaglomerular granular cells== release renin."
+    },
+    {
+      "id": "candidate-q12-explanation-2",
+      "type": "slide",
+      "title": "Macula-densa NaCl transport and renal perfusion pressure",
+      "body": "**A** — Macula-densa signal direction\nWhy it is wrong here: ↑ ==macula-densa NaCl transport== → ↓ ==renin== release. Volume depletion → ↓ ==NaCl signal== → ↑ ==renin== release.\nLearning point: ↓ ==macula-densa NaCl== → ↑ ==renin==; ↑ NaCl → ↓ ==renin==.\n\n**B** — ==Afferent arteriolar stretch==\nWhy it is wrong here: Haemorrhage → ↓ ==renal perfusion== + ↓ ==afferent arteriolar stretch==. ↓ ==perfusion pressure== → ↑ ==renin==; ↑ stretch → ↓ ==renin==.\nLearning point: The renal vascular signal responds to ==perfusion pressure==, not to ==plasma sodium concentration== alone."
+    },
+    {
+      "id": "candidate-q12-explanation-3",
+      "type": "slide",
+      "title": "Sympathetic beta-1 regulation of renin release",
+      "body": "**C** — ==Sympathetic beta-1 signalling==\nWhy it is wrong here: Blood loss → ↑ ==renal sympathetic activity==. ↑ ==beta-1 stimulation== → ↑ ==renin release==; ↓ ==beta-1 stimulation== removes a renin stimulus.\nLearning point: Sympathetic beta-1 input reinforces the low-perfusion and low-NaCl signals.\n\nTake-home: ↓ ==renal perfusion== + ↓ ==macula-densa NaCl transport== + ↑ ==beta-1 stimulation== → ↑ ==renin release==. This is an appropriate response to volume loss."
+    },
+    {
+      "id": "raas-video",
+      "type": "video",
+      "title": "RAAS: renin, angiotensin II and aldosterone",
+      "src": "https://youtu.be/c-zGHvy6c8k"
+    },
+    {
+      "id": "candidate-q13",
+      "type": "question",
+      "prompt": "A 46-year-old woman is assessed for persistent hypertension and muscle weakness. Her blood pressure is 168/104 mmHg and plasma potassium is 2.8 mmol/L. She is not taking diuretics and has no vomiting or diarrhoea. Investigation shows elevated plasma aldosterone with suppressed renin. Which principal-cell change best links her hypertension and hypokalaemia?",
+      "options": [
+        {
+          "id": "a",
+          "text": "↑ apical ENaC activity + ↑ basolateral Na+/K+-ATPase activity."
+        },
+        {
+          "id": "b",
+          "text": "↑ apical aquaporin-2 insertion without ↑ sodium transport."
+        },
+        {
+          "id": "c",
+          "text": "Inhibition of basolateral Na+/K+-ATPase, ↓ cellular potassium uptake."
+        },
+        {
+          "id": "d",
+          "text": "↓ apical ENaC activity, making the tubular lumen less negative."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "**Correct answer: A. ↑ ==apical ENaC== activity + ↑ ==basolateral Na+/K+-ATPase== activity.**\n\nWhy it is correct: The findings suggest ==primary aldosteronism==. ==Aldosterone== → ↑ ==ENaC==-mediated sodium entry + ↑ ==basolateral Na+/K+-ATPase== activity. Sodium retention contributes to ==hypertension==. Electrogenic ==sodium reabsorption== makes the lumen more negative, favouring ==potassium secretion== through apical potassium channels and explaining ==hypokalaemia==.\n\nLearning point: Connect the two clinical findings to one pathway: ↑ distal ==sodium reabsorption== supports volume expansion and potassium loss."
+    },
+    {
+      "id": "candidate-q13-explanation-1",
+      "type": "slide",
+      "title": "Aldosterone-mediated sodium reabsorption and potassium secretion",
+      "body": "**Correct answer: A. ↑ ==apical ENaC== activity + ↑ ==basolateral Na+/K+-ATPase== activity.**\n\nWhy it is correct: The findings suggest ==primary aldosteronism==. ==Aldosterone== → ↑ ==ENaC==-mediated sodium entry + ↑ ==basolateral Na+/K+-ATPase== activity. Sodium retention contributes to ==hypertension==. Electrogenic ==sodium reabsorption== makes the lumen more negative, favouring ==potassium secretion== through apical potassium channels and explaining ==hypokalaemia==.\n\nLearning point: Connect the two clinical findings to one pathway: ↑ distal ==sodium reabsorption== supports volume expansion and potassium loss."
+    },
+    {
+      "id": "candidate-q13-explanation-2",
+      "type": "slide",
+      "title": "AQP2 water permeability and Na+/K+-ATPase transport",
+      "body": "**B** — ==Aquaporin-2== and water handling\nWhy it is wrong here: ==Aquaporin-2== is primarily regulated by ==vasopressin==. Water-channel insertion alone does not explain ==aldosterone==-driven electrogenic sodium uptake and renal potassium loss.\nLearning point: Distinguish ==vasopressin/AQP2== water handling from ==aldosterone/ENaC== sodium and potassium handling.\n\n**C** — Basolateral pump inhibition\nWhy it is wrong here: ==Na+/K+-ATPase== inhibition → ↓ gradient for ==sodium entry== + ↓ ==potassium uptake== into principal cells. It opposes the transport changes expected with ==aldosterone== excess.\nLearning point: The basolateral pump sustains both sodium reabsorption and the cellular potassium supply for secretion."
+    },
+    {
+      "id": "candidate-q13-explanation-3",
+      "type": "slide",
+      "title": "ENaC activity and potassium secretion",
+      "body": "**D** — ↓ ==ENaC activity==\nWhy it is wrong here: ↓ ==ENaC activity== → ↓ ==electrogenic sodium uptake== → ==less negative lumen== → ↓ driving force for ==potassium secretion==. This is the opposite of the mechanism causing her findings.\nLearning point: ENaC inhibition can promote ==natriuresis== and ==spare potassium==; ↑ ==ENaC activity== favours potassium loss.\n\nTake-home: High aldosterone with ==suppressed renin== suggests ==renin-independent aldosterone production==. ==Hypokalaemia== is a useful clue but is ==absent in many patients== with primary aldosteronism."
+    },
+    {
+      "id": "q02-week1-lo6",
+      "type": "question",
+      "prompt": "Consider three diuretics: mannitol, furosemide and hydrochlorothiazide. Which option correctly matches each drug to its main renal mechanism of action?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mannitol: retains water osmotically in tubular fluid; furosemide: blocks NCC in the distal convoluted tubule; hydrochlorothiazide: blocks NKCC2 in the thick ascending limb."
+        },
+        {
+          "id": "b",
+          "text": "Mannitol: retains water osmotically in tubular fluid; furosemide: blocks NKCC2 in the thick ascending limb; hydrochlorothiazide: blocks NCC in the distal convoluted tubule."
+        },
+        {
+          "id": "c",
+          "text": "Mannitol: blocks ENaC in the collecting system; furosemide: blocks NKCC2 in the thick ascending limb; hydrochlorothiazide: blocks NCC in the distal convoluted tubule."
+        },
+        {
+          "id": "d",
+          "text": "Mannitol: retains water osmotically in tubular fluid; furosemide: blocks V2 receptors in the collecting duct; hydrochlorothiazide: blocks NCC in the distal convoluted tubule."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "**Correct answer: B. ==Mannitol== is a filtered, poorly reabsorbed osmole → ↓ tubular ==water reabsorption==, especially in water-permeable segments. ==Furosemide== inhibits apical ==NKCC2== (Na+/K+/2Cl− cotransporter) in the water-impermeable ==thick ascending limb==. ==Hydrochlorothiazide== inhibits apical ==NCC== (Na+/Cl− cotransporter) in the ==distal convoluted tubule==.**\n\n**A** swaps the loop and thiazide targets. C assigns the ==ENaC==-blocking mechanism of ==amiloride== to ==mannitol==. D assigns the ==V2==-antagonist mechanism of ==tolvaptan== to ==furosemide==.\n\n==NKCC2== blockade → weaker ==medullary osmotic gradient== → ↓ maximum urine-concentrating capacity, even with ==vasopressin== present. Osmotic diuresis and natriuresis are distinct from selective aquaresis. Sources: D1–D2 in diuretics-question-notes.txt."
+    },
+    {
+      "id": "diuretics-osmotic-loop-thiazide",
+      "type": "slide",
+      "title": "Mannitol, loop diuretics and thiazides",
+      "body": "**Correct answer: B.**\n\n==Mannitol==: a ==filtered osmole== remains in tubular fluid and opposes ==water reabsorption==. It does not need to block a receptor or channel.\n\n==Furosemide==: blocks apical ==NKCC2== in the ==thick ascending limb==.\n\n==Hydrochlorothiazide==: blocks apical ==NCC== in the ==distal convoluted tubule==.\n\nOption **A** swaps ==NKCC2== and ==NCC==. Learning point: identify the nephron segment as well as the transporter."
+    },
+    {
+      "id": "diuretics-osmosis-versus-receptors",
+      "type": "slide",
+      "title": "Diuretic mechanisms and molecular targets",
+      "body": "Option **C** is wrong: ==mannitol== acts ==osmotically==; ==amiloride== is the ==ENaC== blocker.\n\nOption **D** is wrong: ==furosemide== blocks ==NKCC2==; ==tolvaptan== is the ==V2== antagonist.\n\n==Mannitol==, loops and thiazides can cause ↑ water excretion, but they do not share one molecular target.\n\nLearning point: ↑ urine volume does not make every drug a ==selective aquaretic==."
+    },
+    {
+      "id": "concentration-consolidation",
+      "type": "slide",
+      "title": "Medullary osmotic gradient and collecting-duct water permeability",
+      "body": "The loop system helps establish a ==medullary osmotic gradient==; ==urea recycling== contributes, especially in the inner medulla.\n\n==Vasa recta== ==countercurrent exchange== helps preserve the gradient.\n\n==Vasopressin== acts at ==V2 receptors==, promoting apical ==aquaporin-2== insertion in collecting-duct principal cells. Water then moves down an osmotic gradient.\n\nA concentrating defect can arise from failure of either the gradient or the ==water-permeability response==."
+    },
+    {
+      "id": "diuretic-receptors-channels",
+      "type": "question",
+      "prompt": "Spironolactone and amiloride are potassium-sparing diuretics; tolvaptan promotes aquaresis. Which option correctly identifies their direct renal targets?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spironolactone: ENaC; amiloride: mineralocorticoid receptor; tolvaptan: vasopressin V2 receptor."
+        },
+        {
+          "id": "b",
+          "text": "Spironolactone: mineralocorticoid receptor; amiloride: ENaC; tolvaptan: aquaporin-2 water channel."
+        },
+        {
+          "id": "c",
+          "text": "Spironolactone: mineralocorticoid receptor; amiloride: ENaC; tolvaptan: vasopressin V2 receptor."
+        },
+        {
+          "id": "d",
+          "text": "Spironolactone: mineralocorticoid receptor; amiloride: Na+/K+-ATPase; tolvaptan: vasopressin V2 receptor."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "**Correct answer: C. ==Spironolactone== blocks the intracellular ==mineralocorticoid receptor== → ↓ ==aldosterone==-driven sodium transport. ==Amiloride== directly blocks ==apical== epithelial sodium channels (==ENaC==). Both cause ↓ electrogenic ==sodium reabsorption== in the ==aldosterone==-sensitive distal nephron → ↓ driving force for ==potassium secretion==.**\n\n==Tolvaptan== blocks ==basolateral== V2 receptors in collecting-duct principal cells → ↓ signalling for ==apical== aquaporin-2 (==AQP2==) insertion. Result: ↑ water excretion relatively independently of electrolyte excretion — ==aquaresis==.\n\n**A** swaps ==spironolactone== and ==amiloride== targets. B mistakes the downstream water channel for ==tolvaptan==’s direct receptor target. D mistakes the ==basolateral== sodium pump for ==amiloride==’s ==apical== channel target. The pump maintains gradients but is not directly inhibited by ==amiloride==. Sources: D3–D5 in diuretics-question-notes.txt."
+    },
+    {
+      "id": "diuretics-distal-targets",
+      "type": "slide",
+      "title": "Mineralocorticoid receptors, ENaC and V2 receptors",
+      "body": "**Correct answer: C.**\n\n==Spironolactone== → intracellular ==mineralocorticoid receptor==.\n==Amiloride== → apical ==ENaC==.\n==Tolvaptan== → basolateral vasopressin ==V2 receptor==.\n\n==Aldosterone== regulates sodium transport through its receptor; ==amiloride== blocks sodium entry directly.\n\nLearning point: ==spironolactone== and ==amiloride== share potassium-sparing effects through ==different direct targets==."
+    },
+    {
+      "id": "diuretics-distal-distractors",
+      "type": "slide",
+      "title": "Diuretic receptor, channel and pump targets",
+      "body": "**A** is wrong: ==spironolactone== blocks the ==mineralocorticoid receptor==; ==amiloride== blocks ==ENaC==.\n\n**B** is wrong: ==tolvaptan== blocks ==V2 signalling== → ↓ ==AQP2== insertion; it does not directly plug ==AQP2==.\n\n**D** is wrong: ==Na+/K+-ATPase== is ==basolateral== and sustains ion gradients; ==amiloride==’s target is ==apical== ==ENaC==.\n\nLearning point: distinguish the drug’s direct target from downstream transport changes."
+    },
+    {
+      "id": "diuretics-potassium-and-water",
+      "type": "slide",
+      "title": "Potassium-sparing diuresis and aquaresis",
+      "body": "==Spironolactone== and ==amiloride== → ↓ electrogenic distal ==sodium reabsorption==. ==Less negative lumen== → ↓ driving force for ==potassium secretion==. Potassium excretion also depends on distal delivery, flow and potassium availability.\n\n==Tolvaptan== → ↓ vasopressin-dependent collecting-duct ==water permeability==. Its characteristic effect is ==aquaresis==, rather than the salt-and-water loss of conventional natriuretic diuretics.\n\nLearning point: predict effects from the pathway being interrupted; do not equate every ↑ in urine volume with ==sodium loss==."
+    },
+    {
+      "id": "diuretics-nephron-map",
+      "type": "slide",
+      "title": "Diuretic targets along the nephron",
+      "body": "Proximal tubule:\n• ==Mannitol==: osmotic water retention in tubular fluid; also acts in other water-permeable segments.\n• ==Acetazolamide==: ==carbonic anhydrase== inhibition → ↓ ==bicarbonate reabsorption==.\n• ==SGLT2== inhibitors: ↓ sodium–glucose cotransport → ==glycosuria== and osmotic diuresis, with natriuretic effects.\n\nThick ascending limb: loop diuretics → ==NKCC2==.\nDistal convoluted tubule: thiazides → ==NCC==.\nAldosterone-sensitive distal nephron: ==spironolactone== → ==mineralocorticoid receptor==; ==amiloride== → ==ENaC==.\nCollecting duct: ==tolvaptan== → ==V2 receptor== → ↓ ==AQP2== insertion.\n\nTargets include an enzyme, cotransporters, a channel and receptors. ==Mannitol== acts as an osmole."
+    },
+    {
+      "id": "diuretics-mechanisms-video",
+      "type": "video",
+      "title": "Diuretics: sites of action, transporters and receptors",
+      "src": "https://youtu.be/HfeTV6MAxzM"
+    },
+    {
+      "id": "q03-week1-lo7",
+      "type": "question",
+      "prompt": "A healthy adult drinks a large water load. Plasma osmolality falls slightly. Which renal response best limits dilution of plasma sodium?",
+      "options": [
+        {
+          "id": "a",
+          "text": "↓ vasopressin release, ↓ collecting-duct water permeability and excretion of dilute urine"
+        },
+        {
+          "id": "b",
+          "text": "↑ vasopressin release, ↑ collecting-duct water permeability and retention of free water"
+        },
+        {
+          "id": "c",
+          "text": "↑ aldosterone secretion to directly detect and correct the low plasma sodium concentration"
+        },
+        {
+          "id": "d",
+          "text": "↑ proximal NaCl loss without any change in water handling"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "**A.** ↓ osmolality → ↓ ==vasopressin== → ↓ collecting-duct water permeability → excretion of excess water. Plasma sodium reflects water relative to exchangeable sodium and potassium; it is not a direct measure of ==total-body sodium== stores. Aldosterone mainly regulates sodium retention and extracellular volume, rather than directly sensing ==plasma sodium concentration==. Sources: water-homeostasis and sodium-balance physiology reviews."
+    },
+    {
+      "id": "sodium-consolidation",
+      "type": "slide",
+      "title": "Plasma sodium concentration and total-body sodium",
+      "body": "==Plasma sodium concentration==: strongly influenced by ==water balance==, with ==thirst== and ==vasopressin== adjusting intake and renal water excretion.\n\n==Total-body sodium==: strongly influences ==extracellular fluid volume==. Renal Na+ excretion is adjusted through the ==renin–angiotensin–aldosterone system==, sympathetic activity, natriuretic signals and pressure natriuresis.\n\nVolume depletion can stimulate ==vasopressin== despite low osmolality. Ask separately: what is the sodium concentration, and what is the ==effective circulating volume==?"
+    },
+    {
+      "id": "osmoregulation-video",
+      "type": "video",
+      "title": "Osmoregulation: ADH, thirst and urine concentration",
+      "src": "https://youtu.be/3jjLUql4cZ8"
+    },
+    {
+      "id": "candidate-q11",
+      "type": "question",
+      "prompt": "A 38-year-old woman with nephrotic syndrome presents with worsening leg swelling and abdominal distension. She has gained 6 kg over two weeks. Plasma sodium is 126 mmol/L, measured plasma osmolality is 264 mOsm/kg and blood glucose is normal. She has not taken diuretics and has had no vomiting or diarrhoea. Which pattern of total-body sodium and water best accounts for these findings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "↓ total-body sodium + ↓ water; proportionately greater ↓ in sodium."
+        },
+        {
+          "id": "b",
+          "text": "↑ total-body sodium + ↑ water; proportionately greater ↑ in water."
+        },
+        {
+          "id": "c",
+          "text": "↑ total-body sodium + ↑ water; proportionately greater ↑ in sodium."
+        },
+        {
+          "id": "d",
+          "text": "↑ total-body sodium + ↑ water; sodium-to-water relationship preserved."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "**Correct answer: B. ↑ ==total-body sodium== + ↑ water; ==proportionately greater ↑ in water==.**\n\nWhy it is correct: Weight gain and worsening oedema in this patient favour sodium and water retention. Low measured osmolality confirms ==hypotonic hyponatraemia==. ==Proportionately greater ↑ in water== than in ==exchangeable sodium + potassium== → ↓ ==plasma sodium== despite ↑ sodium stores.\n\n==Plasma [Na⁺] ≈ (Naₑ + Kₑ) / TBW==\nNaₑ and Kₑ are exchangeable sodium and potassium; TBW is ==total-body water==.\n\nLearning point: Hyponatraemia ==does not necessarily mean sodium depletion==. In the Gamblegram: ↑ cation bar, with a ==proportionately greater ↑ in water==."
+    },
+    {
+      "id": "candidate-q11-explanation-1",
+      "type": "slide",
+      "title": "Hypervolaemic hypotonic hyponatraemia",
+      "body": "**Correct answer: B. ↑ ==total-body sodium== + ↑ water; ==proportionately greater ↑ in water==.**\n\nWhy it is correct: Weight gain and worsening oedema in this patient favour sodium and water retention. Low measured osmolality confirms ==hypotonic hyponatraemia==. ==Proportionately greater ↑ in water== than in ==exchangeable sodium + potassium== → ↓ ==plasma sodium== despite ↑ sodium stores.\n\n==Plasma [Na⁺] ≈ (Naₑ + Kₑ) / TBW==\nNaₑ and Kₑ are exchangeable sodium and potassium; TBW is ==total-body water==.\n\nLearning point: Hyponatraemia ==does not necessarily mean sodium depletion==. In the Gamblegram: ↑ cation bar, with a ==proportionately greater ↑ in water==."
+    },
+    {
+      "id": "candidate-q11-explanation-2",
+      "type": "slide",
+      "title": "Hypovolaemic hyponatraemia and sodium-predominant retention",
+      "body": "**A** — Sodium and water depletion\nWhy it is wrong here: This pattern can cause ==hypovolaemic hyponatraemia==, but it does not explain her weight gain and progressive oedema as well as retention. ↓ ==effective arterial filling== in nephrotic syndrome is not the same as depleted ==total-body sodium==.\nLearning point: Assess sodium stores separately from effective circulating volume.\n\n**C** — Sodium gain exceeding water gain\nWhy it is wrong here: With ==exchangeable potassium== held constant in the simplified model, this would cause ↑ ==cation-to-water ratio==, favouring ==hypernatraemia==, whereas her plasma sodium is low.\nLearning point: The direction of the sodium change depends on the relative changes in cations and water."
+    },
+    {
+      "id": "candidate-q11-explanation-3",
+      "type": "slide",
+      "title": "Sodium and water balance in oedematous disease",
+      "body": "**D** — Retention with preserved concentration\nWhy it is wrong here: This can produce weight gain and oedema with ==normal plasma sodium==, as in the first stage of the Gamblegram’s oedema panel. It cannot account for her ==hypotonic hyponatraemia==.\nLearning point: Sodium retention can accompany normal, low or high plasma sodium, depending on ==water balance==.\n\nTake-home: Read concentration and volume separately. The animation contrasts water-predominant retention in ==SIADH==, ==unreplaced water loss in DI==, and sodium plus water retention in oedematous disease. Here, ==water gain outpaces cation gain==."
+    },
+    {
+      "id": "edelman-rose-gamblegram-video",
+      "type": "video",
+      "title": "Plasma sodium: Edelman–Rose Gamblegram",
+      "src": "https://youtu.be/CKi0L95X5cs"
+    },
+    {
+      "id": "q04-week2-lo3",
+      "type": "question",
+      "prompt": "Three patients develop acute kidney injury.\n1: Severe diarrhoea, hypotension and improvement in renal function after restoration of perfusion.\n2: Prolonged shock followed by persistent renal dysfunction and muddy-brown granular casts.\n3: Acute urinary retention with bilateral hydronephrosis.\n\nWhich sequence best identifies their principal mechanisms?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1: tubular epithelial injury; 2: urinary obstruction; 3: ↓ renal perfusion"
+        },
+        {
+          "id": "b",
+          "text": "1: urinary obstruction; 2: ↓ renal perfusion; 3: tubular epithelial injury"
+        },
+        {
+          "id": "c",
+          "text": "1: ↓ renal perfusion; 2: urinary obstruction; 3: immune-mediated glomerular injury"
+        },
+        {
+          "id": "d",
+          "text": "1: ↓ renal perfusion; 2: acute tubular injury; 3: urinary obstruction"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "**D.** Case 1 is ==prerenal== hypoperfusion; case 2 suggests ==intrinsic== acute ==tubular injury== after sustained ischaemia; case 3 is ==postrenal== ==obstruction==. Persistent hypoperfusion can progress to structural injury. Sepsis-associated AKI is multifactorial, so not every case is explained by low blood pressure alone. Evaluate reversible causes promptly. Source: KDIGO AKI guidance."
+    },
+    {
+      "id": "aki-consolidation",
+      "type": "slide",
+      "title": "Prerenal, intrinsic and postrenal AKI",
+      "body": "==Prerenal==: ↓ ==effective renal perfusion==, for example volume depletion, haemorrhage or low-output heart failure.\n\n==Intrinsic==: ==tubular injury== from ischaemia or toxins; interstitial nephritis; ==glomerulonephritis==; vascular disease.\n\n==Postrenal==: ==obstruction==, for example retention, bilateral ureteric ==obstruction== or ==obstruction== of a solitary functioning kidney.\n\nAKI criteria include creatinine rise ==≥26.5 µmol/L within 48 hours==, ==≥1.5 times baseline within 7 days==, or urine output ==<0.5 mL/kg/hour for at least 6 hours==. A ==normal urine volume does not exclude AKI==."
+    },
+    {
+      "id": "q09-week4-lo1",
+      "type": "question",
+      "prompt": "Patient A has dysmorphic urinary red cells, red-cell casts and albuminuria. Patient B, an older smoker, has painless visible haematuria with clots and predominantly uniform red cells. Which interpretation is most appropriate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A strongly suggests a glomerular source; B suggests a non-glomerular source and needs urological assessment."
+        },
+        {
+          "id": "b",
+          "text": "A proves bladder cancer; B proves IgA nephropathy."
+        },
+        {
+          "id": "c",
+          "text": "Both must originate in the glomeruli because all urinary red cells have passed through a kidney."
+        },
+        {
+          "id": "d",
+          "text": "B can be observed without assessment because clots exclude malignancy."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "**A.** Dysmorphic cells, especially acanthocytes, and ==red-cell casts== strongly support renal parenchymal, usually glomerular, bleeding. Clots favour non-glomerular bleeding, but cannot identify its exact site. Painless visible haematuria in an older smoker requires assessment for urinary tract malignancy. Morphology alone is imperfect, and suspected glomerular disease does not remove a separate indication for urological evaluation. Sources: AUA haematuria curriculum and guidance."
+    },
+    {
+      "id": "haematuria-consolidation",
+      "type": "slide",
+      "title": "Glomerular and non-glomerular haematuria",
+      "body": "A positive dipstick for blood can reflect red cells, ==haemoglobin== or ==myoglobin==; ==microscopy== helps distinguish them.\n\nGlomerular clues: ==dysmorphic red cells==, ==red-cell casts==, ==albuminuria== and impaired filtration.\n\nNon-glomerular causes include ==stones==, ==infection==, prostatic disease, trauma and ==urinary tract tumours==. Menstrual contamination can mimic haematuria.\n\nDo not rely on urine colour, pain or red-cell shape alone. ==Persistent or visible haematuria== needs assessment appropriate to the clinical context."
+    },
+    {
+      "id": "q10-week4-lo2",
+      "type": "question",
+      "prompt": "Three patients have proteinuria.\n1: Long-standing diabetes with predominantly urinary albumin.\n2: Proximal tubular injury with ↑ urinary low-molecular-weight proteins.\n3: A plasma-cell disorder producing excessive filtered free light chains.\n\nWhich sequence best describes their predominant proteinuria mechanisms?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1: overflow; 2: glomerular; 3: tubular"
+        },
+        {
+          "id": "b",
+          "text": "1: tubular; 2: overflow; 3: glomerular"
+        },
+        {
+          "id": "c",
+          "text": "1: glomerular leakage; 2: impaired tubular reabsorption; 3: overflow"
+        },
+        {
+          "id": "d",
+          "text": "1: lower urinary tract bleeding; 2: normal ageing; 3: exercise-related albuminuria"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "**C.** Glomerular barrier abnormalities → ↑ albumin leakage. Proximal tubular dysfunction → ↓ recovery of normally filtered low-molecular-weight proteins. Excess ==light-chain production== causes overflow proteinuria, and may also injure tubules. An albumin-focused dipstick can miss non-albumin proteins. Quantify and investigate the pattern rather than treating all proteinuria as equivalent. Sources: KDIGO CKD guidance; NCI plasma-cell neoplasms PDQ."
+    },
+    {
+      "id": "proteinuria-consolidation",
+      "type": "slide",
+      "title": "Proteinuria: persistence, quantification and protein type",
+      "body": "Common persistent causes include ==diabetic kidney disease== and other glomerular disorders. Tubular disease and excess ==light-chain production== produce different patterns.\n\nExercise, fever and infection can cause ==transient== ↑ protein excretion; ==orthostatic proteinuria== is another consideration, especially in younger people.\n\nA ==first-morning urine ACR== is useful for albumin assessment; ==PCR== and targeted protein studies may add information when ==non-albumin protein== is suspected. ==Repeat testing== and interpret alongside sediment, blood pressure and renal function."
+    },
+    {
+      "id": "q05-week2-lo4",
+      "type": "question",
+      "prompt": "Patient A has cola-coloured urine, hypertension, ↓ GFR, red-cell casts and urine protein of 1 g/day. Patient B has generalised oedema, urine protein of 5.2 g/day, serum albumin of 20 g/L and hyperlipidaemia, without red-cell casts. Which pairing best identifies the dominant syndromes and mechanisms?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A: nephrotic syndrome from ↑ glomerular protein permeability; B: nephritic syndrome from glomerular inflammation"
+        },
+        {
+          "id": "b",
+          "text": "A: nephritic syndrome from glomerular inflammation; B: nephrotic syndrome from ↑ glomerular protein permeability"
+        },
+        {
+          "id": "c",
+          "text": "A: tubular proteinuria from impaired protein reabsorption; B: overflow proteinuria from excess protein production"
+        },
+        {
+          "id": "d",
+          "text": "A: postrenal impairment from urinary obstruction; B: nephrotic syndrome from ↑ glomerular protein permeability"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "**B.** A has a nephritic pattern: haematuria with active sediment, impaired filtration and often hypertension. B has nephrotic-range protein loss with hypoalbuminaemia and oedema; adult nephrotic-range proteinuria is conventionally >3.5 g/day. Nephritic and nephrotic features may overlap. Neither syndrome alone establishes the precise histological diagnosis. Sources: KDIGO glomerular disease guidance; NIDDK."
+    },
+    {
+      "id": "glomerular-consolidation",
+      "type": "slide",
+      "title": "Nephritic and nephrotic syndromes",
+      "body": "==Nephritic patterns==: ==IgA nephropathy==, infection-related GN, ==lupus nephritis== and rapidly progressive forms such as ==ANCA-associated== or ==anti-GBM== disease.\n\n==Nephrotic patterns==: ==minimal change disease==, ==FSGS==, ==membranous nephropathy== and ==diabetic kidney disease==.\n\nGlomerulonephritis denotes inflammatory glomerular injury; ==not every glomerular disease is inflammatory==.\n\nUrine sediment, renal function, clinical context and targeted serology help refine the cause. ==Biopsy== is used when indicated, rather than diagnosing a specific lesion from protein quantity alone."
+    },
+    {
+      "id": "candidate-q14",
+      "type": "question",
+      "prompt": "A 21-year-old has recurrent visible haematuria beginning within 24 hours of upper respiratory tract symptoms. Urine contains dysmorphic red cells and protein, and serum C3 is normal. Which kidney-biopsy immunofluorescence finding would be most consistent with the suspected diagnosis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dominant or co-dominant mesangial IgA deposition"
+        },
+        {
+          "id": "b",
+          "text": "Strong linear IgG staining along the glomerular basement membrane"
+        },
+        {
+          "id": "c",
+          "text": "A full-house pattern with multiple immunoglobulins and complement components"
+        },
+        {
+          "id": "d",
+          "text": "Scant or absent immune deposits despite necrotising crescentic injury"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "**Correct answer: A. Dominant or co-dominant ==mesangial IgA== deposition**\n\nWhy it is correct: Recurrent glomerular haematuria ==during or shortly after respiratory symptoms== suggests ==IgA nephropathy==. Its defining biopsy finding is dominant or co-dominant ==mesangial IgA==. ==Normal serum C3== supports the pattern but ==does not establish the diagnosis==; clinical suspicion and ==biopsy confirmation== are distinct.\n\nLearning point: Use timing to form a hypothesis and the biopsy pattern to establish the lesion."
+    },
+    {
+      "id": "candidate-q14-explanation-1",
+      "type": "slide",
+      "title": "IgA nephropathy: presentation and mesangial IgA",
+      "body": "**Correct answer: A. Dominant or co-dominant ==mesangial IgA== deposition**\n\nWhy it is correct: Recurrent glomerular haematuria ==during or shortly after respiratory symptoms== suggests ==IgA nephropathy==. Its defining biopsy finding is dominant or co-dominant ==mesangial IgA==. ==Normal serum C3== supports the pattern but ==does not establish the diagnosis==; clinical suspicion and ==biopsy confirmation== are distinct.\n\nLearning point: Use timing to form a hypothesis and the biopsy pattern to establish the lesion."
+    },
+    {
+      "id": "candidate-q14-explanation-2",
+      "type": "slide",
+      "title": "Linear IgG and full-house immunofluorescence",
+      "body": "**B** — ==Linear IgG==\nWhy it is wrong here: Strong ==linear IgG== along the GBM is characteristic of ==anti-GBM== antibody disease, rather than the expected mesangial immune-deposit pattern in this case.\nLearning point: Linear binding along a fixed basement-membrane antigen differs from ==mesangial immune-complex deposition==.\n\n**C** — ==Full-house staining==\nWhy it is wrong here: ==Full-house staining== includes ==IgG, IgA, IgM, C3 and C1q== and commonly supports ==lupus nephritis== in the right context. It is not the expected dominant ==mesangial IgA== pattern.\nLearning point: ==Full-house staining== is a contextual clue, ==not a standalone diagnosis== of systemic lupus."
+    },
+    {
+      "id": "candidate-q14-explanation-3",
+      "type": "slide",
+      "title": "Pauci-immune glomerulonephritis",
+      "body": "**D** — ==Pauci-immune== injury\nWhy it is wrong here: ==Scant immune deposits== with ==necrotising crescentic GN== are typical of an ==ANCA-associated== pattern. IgA nephropathy is instead defined by ==mesangial IgA== deposits.\nLearning point: ==Pauci-immune== means ==few immune deposits==; ==severe inflammation and necrosis== can still be present.\n\nTake-home: Compare deposit pattern and location: ==mesangial IgA==, ==linear GBM IgG==, ==full-house immune deposits==, or a ==pauci-immune== lesion."
+    },
+    {
+      "id": "candidate-q15",
+      "type": "question",
+      "prompt": "A 10-year-old develops cola-coloured urine, periorbital oedema and hypertension about two weeks after documented streptococcal pharyngitis. Urine contains red-cell casts and serum C3 is low. Which process best explains the glomerular injury?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Direct bacterial invasion of the collecting ducts producing a suppurative infection"
+        },
+        {
+          "id": "b",
+          "text": "Autoantibody binding to type IV collagen with linear IgG deposition"
+        },
+        {
+          "id": "c",
+          "text": "ANCA-mediated neutrophil injury producing a predominantly pauci-immune lesion"
+        },
+        {
+          "id": "d",
+          "text": "Immune-mediated glomerular injury with complement activation and typically granular immune deposits"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "**Correct answer: D. Immune-mediated glomerular injury with ==complement activation== and typically ==granular immune deposits==**\n\nWhy it is correct: A nephritic presentation around ==two weeks after streptococcal pharyngitis==, with ==low C3==, supports ==post-streptococcal GN==. Glomerular immune-mediated injury activates complement and typically produces ==granular immune deposits==. The preceding infection triggers the immune process; it does not imply suppurative infection of the kidney.\n\nLearning point: A ==latent interval== after infection supports a post-infectious mechanism, in contrast to ==near-concurrent haematuria== in typical IgA presentations."
+    },
+    {
+      "id": "candidate-q15-explanation-1",
+      "type": "slide",
+      "title": "Post-streptococcal glomerulonephritis",
+      "body": "**Correct answer: D. Immune-mediated glomerular injury with ==complement activation== and typically ==granular immune deposits==**\n\nWhy it is correct: A nephritic presentation around ==two weeks after streptococcal pharyngitis==, with ==low C3==, supports ==post-streptococcal GN==. Glomerular immune-mediated injury activates complement and typically produces ==granular immune deposits==. The preceding infection triggers the immune process; it does not imply suppurative infection of the kidney.\n\nLearning point: A ==latent interval== after infection supports a post-infectious mechanism, in contrast to ==near-concurrent haematuria== in typical IgA presentations."
+    },
+    {
+      "id": "candidate-q15-explanation-2",
+      "type": "slide",
+      "title": "Immune-mediated GN and direct renal infection",
+      "body": "**A** — ==Direct bacterial invasion==\nWhy it is wrong here: The case describes a delayed nephritic syndrome with ==red-cell casts== and ==low C3==. ==Direct suppurative renal infection== is a different process; it does not explain the characteristic immune-mediated glomerular pattern.\nLearning point: Distinguish an infection triggering GN from bacteria directly infecting urinary or renal tissue.\n\n**B** — ==Anti-GBM antibodies==\nWhy it is wrong here: Antibody binding to fixed ==type IV collagen== antigens produces a ==linear anti-GBM pattern==. The post-infectious pattern here instead favours immune-mediated injury with ==granular deposits==.\nLearning point: Linear and granular staining reflect different patterns of immune involvement."
+    },
+    {
+      "id": "candidate-q15-explanation-3",
+      "type": "slide",
+      "title": "Complement and immunofluorescence in GN",
+      "body": "**C** — ANCA-associated injury\nWhy it is wrong here: ==ANCA-associated GN== is usually ==pauci-immune==. The latent post-streptococcal course with ==low C3== is more consistent with the immune-deposit/complement pattern in answer D.\nLearning point: Integrate the history, complement and biopsy pattern; ==low C3 alone is not specific== for one GN.\n\nTake-home: Post-streptococcal GN is one ==infection-related GN==. Other infections and other immune diseases can also cause low complement and glomerular injury."
+    },
+    {
+      "id": "candidate-q16",
+      "type": "question",
+      "prompt": "A patient with established systemic lupus erythematosus develops proteinuria of 1.8 g/day, red-cell casts and a creatinine rise from 80 to 150 micromol/L over three weeks. C3 and C4 are low. Which approach best establishes the renal lesion and helps guide treatment?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Use the anti-double-stranded DNA titre alone to assign the histological class of lupus nephritis."
+        },
+        {
+          "id": "b",
+          "text": "Defer renal investigation until protein excretion exceeds the nephrotic-range threshold."
+        },
+        {
+          "id": "c",
+          "text": "Arrange prompt nephrology assessment and kidney biopsy, if feasible, to assess class, activity and chronicity."
+        },
+        {
+          "id": "d",
+          "text": "Use renal ultrasonography to determine the glomerular immune-deposit pattern and histological class."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "**Correct answer: C. Arrange prompt nephrology assessment and ==kidney biopsy==, if feasible, to assess ==class, activity and chronicity==.**\n\nWhy it is correct: ==Red-cell casts==, substantial proteinuria and ==declining kidney function== raise concern for active ==lupus nephritis==. If feasible, ==kidney biopsy== helps identify the histological class and assess ==active inflammation== versus ==chronic scarring==. These findings inform treatment decisions beyond what the established systemic lupus diagnosis alone provides.\n\nLearning point: Assess the kidney lesion, not just whether the patient has systemic autoimmunity."
+    },
+    {
+      "id": "candidate-q16-explanation-1",
+      "type": "slide",
+      "title": "Lupus nephritis: biopsy class, activity and chronicity",
+      "body": "**Correct answer: C. Arrange prompt nephrology assessment and ==kidney biopsy==, if feasible, to assess ==class, activity and chronicity==.**\n\nWhy it is correct: ==Red-cell casts==, substantial proteinuria and ==declining kidney function== raise concern for active ==lupus nephritis==. If feasible, ==kidney biopsy== helps identify the histological class and assess ==active inflammation== versus ==chronic scarring==. These findings inform treatment decisions beyond what the established systemic lupus diagnosis alone provides.\n\nLearning point: Assess the kidney lesion, not just whether the patient has systemic autoimmunity."
+    },
+    {
+      "id": "candidate-q16-explanation-2",
+      "type": "slide",
+      "title": "Serology and proteinuria in lupus nephritis",
+      "body": "**A** — ==Anti-dsDNA== titre alone\nWhy it is wrong here: ==Anti-dsDNA== and ==complement== can support assessment of lupus activity, but they cannot reliably assign the renal ==histological class== or quantify ==chronic scarring==.\nLearning point: Serology complements renal assessment; it does not replace histological classification when biopsy is indicated.\n\n**B** — Waiting for nephrotic-range proteinuria\nWhy it is wrong here: Active lupus nephritis can occur with ==sub-nephrotic proteinuria==. ==Red-cell casts== and a ==creatinine rise== already make this presentation significant.\nLearning point: The nephrotic-range threshold defines a protein-excretion category, ==not the threshold== for investigating inflammatory kidney disease."
+    },
+    {
+      "id": "candidate-q16-explanation-3",
+      "type": "slide",
+      "title": "Ultrasound and kidney biopsy in lupus nephritis",
+      "body": "**D** — ==Ultrasound== versus microscopy\nWhy it is wrong here: ==Ultrasound== assesses macroscopic anatomy, including kidney size and obstruction. It cannot resolve ==glomerular immune deposits== or assign lupus-nephritis class.\nLearning point: ==Light microscopy== assesses ==structural lesions==; ==immunofluorescence== assesses ==immune staining==; ==electron microscopy== adds ==ultrastructural detail==.\n\nTake-home: Link urinary sediment and kidney-function change to prompt assessment. Biopsy ==class, activity and chronicity== help guide care when biopsy is feasible."
+    },
+    {
+      "id": "candidate-q17",
+      "type": "question",
+      "prompt": "Over two weeks, a 56-year-old develops fatigue, nasal crusting and haemoptysis. Creatinine rises from 85 to 320 micromol/L, urine contains red-cell casts and PR3-ANCA is positive. Which kidney-biopsy pattern is most consistent with this presentation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Crescentic glomerulonephritis with strong linear IgG along the basement membrane"
+        },
+        {
+          "id": "b",
+          "text": "Necrotising crescentic glomerulonephritis with scant or absent immune deposits"
+        },
+        {
+          "id": "c",
+          "text": "Predominantly mesangial IgA deposition without necrotising injury"
+        },
+        {
+          "id": "d",
+          "text": "A full-house pattern of granular glomerular immunoglobulin and complement deposits"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "**Correct answer: B. ==Necrotising crescentic glomerulonephritis== with ==scant or absent immune deposits==**\n\nWhy it is correct: Upper-airway symptoms, haemoptysis and rapidly declining kidney function with ==PR3-ANCA== strongly suggest ==ANCA-associated vasculitis==. The expected renal lesion is necrotising crescentic GN with ==scant or absent immune deposits==. Possible ==pulmonary haemorrhage== and rapid renal decline require ==urgent specialist assessment==.\n\nLearning point: A ==pauci-immune== biopsy can show severe necrosis and crescent formation."
+    },
+    {
+      "id": "candidate-q17-explanation-1",
+      "type": "slide",
+      "title": "PR3-ANCA-associated necrotising crescentic GN",
+      "body": "**Correct answer: B. ==Necrotising crescentic glomerulonephritis== with ==scant or absent immune deposits==**\n\nWhy it is correct: Upper-airway symptoms, haemoptysis and rapidly declining kidney function with ==PR3-ANCA== strongly suggest ==ANCA-associated vasculitis==. The expected renal lesion is necrotising crescentic GN with ==scant or absent immune deposits==. Possible ==pulmonary haemorrhage== and rapid renal decline require ==urgent specialist assessment==.\n\nLearning point: A ==pauci-immune== biopsy can show severe necrosis and crescent formation."
+    },
+    {
+      "id": "candidate-q17-explanation-2",
+      "type": "slide",
+      "title": "Crescentic GN: light microscopy and immune deposits",
+      "body": "**A** — Linear GBM IgG\nWhy it is wrong here: ==Linear IgG== would raise ==anti-GBM disease==, including a possible overlapping antibody syndrome. It is not the expected ==pauci-immune== pattern of the PR3-associated presentation.\nLearning point: ANCA positivity alone does not exclude ==anti-GBM overlap==; reconcile serology with biopsy.\n\n**C** — ==Mesangial IgA==\nWhy it is wrong here: ==Mesangial IgA== supports ==IgA nephropathy==. It is less consistent with this combined upper-airway, pulmonary and rapidly progressive PR3-associated presentation. IgA disease can itself sometimes develop crescents.\nLearning point: Do not classify the cause of GN from ==crescents alone==; deposit pattern and clinical context matter."
+    },
+    {
+      "id": "candidate-q17-explanation-3",
+      "type": "slide",
+      "title": "Immune-deposit patterns in GN",
+      "body": "**D** — ==Full-house== immune deposits\nWhy it is wrong here: A ==full-house== pattern commonly supports ==lupus-associated immune-complex disease==. Substantial granular immunoglobulin/complement deposits are not the expected ==pauci-immune== pattern here.\nLearning point: Immune-complex GN and ==pauci-immune== GN can both be severe; the distinction concerns immune deposits, not simply severity.\n\nTake-home: ==Crescents== describe severe glomerular injury. Combine light microscopy, ==immunofluorescence==, ==serology== and the clinical course to identify its cause."
+    },
+    {
+      "id": "candidate-q18",
+      "type": "question",
+      "prompt": "A patient with haemoptysis and rapidly worsening kidney function has a kidney biopsy showing crescents and strong linear IgG staining along the glomerular basement membrane. Which mechanism best explains this pattern?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Autoantibodies directed against a type IV collagen antigen in the basement membrane"
+        },
+        {
+          "id": "b",
+          "text": "Mesangial deposition of IgA-containing immune complexes after mucosal immune activation"
+        },
+        {
+          "id": "c",
+          "text": "Podocyte slit-barrier dysfunction without antibody-directed basement-membrane injury"
+        },
+        {
+          "id": "d",
+          "text": "ANCA-associated neutrophil activation producing a predominantly pauci-immune lesion"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "**Correct answer: A. Autoantibodies directed against a ==type IV collagen== antigen in the basement membrane**\n\nWhy it is correct: Strong ==linear IgG== in a crescentic pulmonary-renal presentation supports ==anti-GBM disease==. The classic antibody target is the ==non-collagenous domain== of the ==alpha-3 chain== of ==type IV collagen==. Binding along the basement membrane explains the linear pattern. The disease requires ==urgent assessment==.\n\nLearning point: Connect the immune target to the staining pattern: antibody binding along a ==fixed GBM antigen== produces ==linear staining==."
+    },
+    {
+      "id": "candidate-q18-explanation-1",
+      "type": "slide",
+      "title": "Anti-GBM antibodies and linear IgG staining",
+      "body": "**Correct answer: A. Autoantibodies directed against a ==type IV collagen== antigen in the basement membrane**\n\nWhy it is correct: Strong ==linear IgG== in a crescentic pulmonary-renal presentation supports ==anti-GBM disease==. The classic antibody target is the ==non-collagenous domain== of the ==alpha-3 chain== of ==type IV collagen==. Binding along the basement membrane explains the linear pattern. The disease requires ==urgent assessment==.\n\nLearning point: Connect the immune target to the staining pattern: antibody binding along a ==fixed GBM antigen== produces ==linear staining==."
+    },
+    {
+      "id": "candidate-q18-explanation-2",
+      "type": "slide",
+      "title": "Mesangial IgA deposition and podocyte dysfunction",
+      "body": "**B** — ==IgA immune complexes==\nWhy it is wrong here: IgA-containing immune complexes produce the characteristic ==mesangial deposit pattern== of ==IgA nephropathy==. They do not explain strong linear IgG along the GBM.\nLearning point: The identity, location and distribution of immune deposits all contribute to the diagnosis.\n\n**C** — Isolated slit-barrier dysfunction\nWhy it is wrong here: ==Podocyte slit-barrier dysfunction== helps explain ==protein leakage==, but by itself does not explain ==linear GBM IgG==, crescentic injury and ==pulmonary haemorrhage==.\nLearning point: A structural barrier abnormality is not a substitute for identifying the immune mechanism causing the injury."
+    },
+    {
+      "id": "candidate-q18-explanation-3",
+      "type": "slide",
+      "title": "Anti-GBM disease and ANCA-associated pulmonary–renal syndromes",
+      "body": "**D** — ANCA-mediated injury\nWhy it is wrong here: ==ANCA-associated vasculitis== can also cause ==rapidly progressive GN== and ==pulmonary haemorrhage==. Its usual renal pattern is ==pauci-immune==, whereas this biopsy has strong ==linear GBM IgG==.\nLearning point: Clinical syndromes may overlap; ==immunofluorescence== and antibody testing help distinguish anti-GBM from ANCA-associated disease.\n\nTake-home: Both ==anti-GBM disease== and ANCA-associated GN may cause pulmonary-renal syndromes. The tissue immune pattern is a major discriminator; ==overlap can occur==."
+    },
+    {
+      "id": "q06-week3-lo2",
+      "type": "question",
+      "prompt": "An adult with intact neurological pathways decides to void. Which coordinated change best describes normal micturition?",
+      "options": [
+        {
+          "id": "a",
+          "text": "↑ hypogastric sympathetic activity → detrusor relaxation + outlet contraction."
+        },
+        {
+          "id": "b",
+          "text": "↑ pudendal activity → external sphincter contraction while the detrusor contracts."
+        },
+        {
+          "id": "c",
+          "text": "Pontine coordination → ↑ sacral pelvic parasympathetic activity + ↓ pudendal sphincter activity → detrusor contraction with outlet relaxation."
+        },
+        {
+          "id": "d",
+          "text": "The external sphincter opens only when abdominal pressure exceeds a persistently contracted outlet."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "**C.** Bladder afferent signalling is integrated with higher control through brainstem circuits. During ==voiding==, pelvic parasympathetic output from S2–S4 promotes detrusor contraction, while ↓ somatic pudendal drive relaxes the external urethral sphincter and the outlet relaxes. ==Storage== instead favours a relaxed, compliant bladder and a closed outlet. Sources: neural-control-of-micturition reviews."
+    },
+    {
+      "id": "micturition-consolidation",
+      "type": "slide",
+      "title": "Neural control of urine storage and micturition",
+      "body": "==Storage==: low-pressure filling; ==sympathetic signalling== supports ==detrusor relaxation== and outlet resistance. ==Pudendal somatic activity== maintains external sphincter tone.\n\n==Voiding==: bladder stretch input and cortical permission engage ==pontine coordination==. ==Pelvic parasympathetic activity== rises; sympathetic and external-sphincter somatic activity falls.\n\n==Detrusor pressure must exceed outlet pressure== for flow. A weak detrusor or a ==non-relaxing outlet== can impair emptying despite an urge to void."
+    },
+    {
+      "id": "q07-week3-lo10",
+      "type": "question",
+      "prompt": "A fit 60-year-old has painless visible haematuria. Multiphasic CT shows a 3.2-cm enhancing solid renal cortical mass confined to the kidney, without venous invasion or metastases. The anatomy permits nephron-sparing surgery. After specialist assessment and shared decision-making, intervention is chosen for suspected localised RCC. Which treatment generally offers cancer control while preserving renal tissue?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Immediate systemic immunotherapy as the standard treatment for any enhancing mass"
+        },
+        {
+          "id": "b",
+          "text": "Partial nephrectomy when technically and oncologically feasible"
+        },
+        {
+          "id": "c",
+          "text": "Mandatory radical nephrectomy with routine removal of a normal ipsilateral adrenal gland"
+        },
+        {
+          "id": "d",
+          "text": "Radiotherapy alone as the routine first choice for a fit surgical candidate"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "**B.** Partial nephrectomy is generally recommended for feasible T1 tumours and preserves more functioning renal tissue. An enhancing mass is suspicious but imaging does not prove its histology. ==Biopsy==, surveillance, ablation or other approaches depend on the clinical setting and preferences. Radical nephrectomy and adrenal removal are not automatic for every small renal mass. Sources: EAU ==RCC== diagnostic and management guidance."
+    },
+    {
+      "id": "renal-mass-consolidation",
+      "type": "slide",
+      "title": "Assessment of an enhancing renal mass",
+      "body": "==RCC== may be incidental or present with haematuria; the full classic triad is not required.\n\n==Contrast-enhanced cross-sectional imaging== characterises the mass and assesses extent. ==Biopsy== is considered when it will inform management, and is needed before some non-surgical treatments.\n\nFor suitable localised tumours, ==preserve nephrons== where possible. Larger, complex or advanced lesions require a different plan.\n\nManagement is based on anatomy, ==renal function==, fitness, ==staging== and ==patient preference==."
+    },
+    {
+      "id": "q08-week3-lo10",
+      "type": "question",
+      "prompt": "A renal cortical tumour contains clear cells in a rich capillary network and has loss of VHL function. Imaging also shows extension into the renal vein, but no distant metastases. Which statement best links its biology to its staging implications?",
+      "options": [
+        {
+          "id": "a",
+          "text": "This is a benign oncocytoma; venous invasion has no staging significance."
+        },
+        {
+          "id": "b",
+          "text": "VHL loss suppresses hypoxia-inducible signalling, and renal-vein invasion proves distant metastatic disease."
+        },
+        {
+          "id": "c",
+          "text": "A tumour is always T1 when its diameter is below 7 cm, even if it invades the renal vein."
+        },
+        {
+          "id": "d",
+          "text": "The findings support clear-cell RCC; VHL loss promotes hypoxia-inducible signalling, and renal-vein invasion places it in a locally advanced T category."
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "**D.** Loss of VHL function promotes HIF-dependent signalling, including angiogenic pathways, characteristic of ==clear-cell== RCC. Renal-vein or segmental-branch invasion is T3a; small size does not preserve a T1 classification when this invasion is present. Venous invasion is not itself distant metastasis and does not automatically preclude surgery. Stage, grade and spread help determine prognosis. Sources: EAU RCC pathology and staging guidance."
+    },
+    {
+      "id": "tumour-differential-consolidation",
+      "type": "slide",
+      "title": "Renal tumour histology and staging",
+      "body": "RCC: ==clear-cell== is the commonest subtype; ==papillary== and ==chromophobe== RCC are other important types. ==Extent and grade== influence prognosis.\n\n==Oncocytoma==: a ==benign epithelial tumour== that can resemble RCC on imaging; a ==central scar does not establish benignity==.\n\nClassic ==angiomyolipoma==: contains ==vessels, smooth muscle and fat==. Haemorrhage risk influences management. Fat-poor lesions can be diagnostically difficult.\n\n==Wilms tumour== is an important ==childhood renal malignancy==, with a different diagnostic and treatment pathway.\n\nDo not call every renal mass RCC, or every small mass harmless."
+    },
+    {
+      "id": "take-home",
+      "type": "slide",
+      "title": "Renal physiology and disease: summary",
+      "body": "Flow and ==arteriolar tone== influence filtration.\nA ==medullary gradient== and ==vasopressin== govern water recovery.\n==Water balance== and ==sodium content== must be distinguished.\n==AKI== requires a search for reversible mechanisms.\n==Urine findings== help classify glomerular disease and bleeding.\n==Voiding== requires both contraction and outlet relaxation.\n==Renal tumour type==, extent and patient factors guide management.\n\nExit prompt: choose one case and connect its mechanism to its investigation or management implication."
+    },
+    {
+      "id": "sources-physiology",
+      "type": "slide",
+      "title": "Sources: physiology and kidney injury",
+      "body": "Renal Autoregulation in Health and Disease. PMC4551215.\nThe Physiology of Urinary Concentration: an Update. PMC2709207.\nMammalian urine concentration: architecture and transporters. PMC6186196.\nMolecular Physiology of Water Balance. PMC6444926.\nKDIGO AKI and glomerular disease guidance.\nThe neural control of micturition. PMC2897743.\n\nFull references and the learning-objective map accompany the lesson."
+    },
+    {
+      "id": "sources-clinical",
+      "type": "slide",
+      "title": "Sources: tumours and urinary findings",
+      "body": "EAU Renal Cell Carcinoma guidelines: diagnosis, management, pathology and staging.\nAUA haematuria curriculum and guidance.\nKDIGO 2024 CKD guideline.\nNIDDK: glomerular disease and nephrotic syndrome.\nNCI: plasma-cell neoplasms PDQ.\n\nQuestions are newly authored from the supplied learning objectives. Answers and references were checked on 10 November 2026."
+    }
+  ]
+}

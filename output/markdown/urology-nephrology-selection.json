@@ -1,0 +1,398 @@
+[
+  {
+    "source": "main",
+    "question": 23,
+    "page": 16,
+    "tier": "core",
+    "group": "Renal physiology, kidney disease and transplantation",
+    "topic": "Kidney-transplant maintenance immunosuppression",
+    "rationale": "Direct kidney-transplant pharmacology."
+  },
+  {
+    "source": "main",
+    "question": 24,
+    "page": 16,
+    "tier": "core",
+    "group": "Renal physiology, kidney disease and transplantation",
+    "topic": "Sirolimus pharmacology",
+    "rationale": "Relevant immunosuppressant pharmacology for renal transplantation."
+  },
+  {
+    "source": "bonus",
+    "question": 18,
+    "page": 17,
+    "tier": "core",
+    "group": "Renal physiology, kidney disease and transplantation",
+    "topic": "Iron infusions, renal phosphate wasting and hypophosphataemia",
+    "rationale": "Explicit renal phosphate handling and drug-related electrolyte disturbance."
+  },
+  {
+    "source": "bonus",
+    "question": 33,
+    "page": 31,
+    "tier": "core",
+    "group": "Renal physiology, kidney disease and transplantation",
+    "topic": "Hypoxia, renal erythropoietin and erythropoiesis",
+    "rationale": "Tests the endocrine role of the kidneys."
+  },
+  {
+    "source": "bonus",
+    "question": 55,
+    "page": 47,
+    "tier": "core",
+    "group": "Renal physiology, kidney disease and transplantation",
+    "topic": "Proteinuria, reduced eGFR and systemic disease",
+    "rationale": "Renal manifestations are central to the clinical presentation."
+  },
+  {
+    "source": "main",
+    "question": 6,
+    "page": 5,
+    "tier": "core",
+    "group": "Clinical urology and genitourinary infection",
+    "topic": "Urethral foreign bodies and urethral injury",
+    "rationale": "Urethral anatomy, innervation and trauma."
+  },
+  {
+    "source": "main",
+    "question": 8,
+    "page": 7,
+    "tier": "core",
+    "group": "Clinical urology and genitourinary infection",
+    "topic": "Penile constriction and vascular compromise",
+    "rationale": "Penile blood supply, ischaemia and lymphatic drainage; the scenario is partly in the figures."
+  },
+  {
+    "source": "main",
+    "question": 9,
+    "page": 8,
+    "tier": "core",
+    "group": "Clinical urology and genitourinary infection",
+    "topic": "Acute scrotal and perineal infection",
+    "rationale": "Recognition and management of a urological emergency."
+  },
+  {
+    "source": "main",
+    "question": 81,
+    "page": 54,
+    "tier": "core",
+    "group": "Clinical urology and genitourinary infection",
+    "topic": "Urethritis, dysuria and STI testing",
+    "rationale": "Urinary presentation, specimen selection and genitourinary microbiology."
+  },
+  {
+    "source": "main",
+    "question": 86,
+    "page": 57,
+    "tier": "core",
+    "group": "Clinical urology and genitourinary infection",
+    "topic": "Acute pelvic pain with a renal-stone differential",
+    "rationale": "One of the cases specifically involves haematuria and possible urinary stones."
+  },
+  {
+    "source": "main",
+    "question": 92,
+    "page": 60,
+    "tier": "core",
+    "group": "Clinical urology and genitourinary infection",
+    "topic": "Investigations including testicular torsion",
+    "rationale": "Contains a directly urological diagnostic-investigation pairing."
+  },
+  {
+    "source": "main",
+    "question": 94,
+    "page": 60,
+    "tier": "core",
+    "group": "Clinical urology and genitourinary infection",
+    "topic": "Haematuria with abnormal coagulation studies",
+    "rationale": "Systemic bleeding disorders in the differential for haematuria; primarily a haematology question."
+  },
+  {
+    "source": "bonus",
+    "question": 2,
+    "page": 2,
+    "tier": "core",
+    "group": "Clinical urology and genitourinary infection",
+    "topic": "Penile fracture",
+    "rationale": "Penile fascia, tunica albuginea, urethral injury and surgical management."
+  },
+  {
+    "source": "bonus",
+    "question": 5,
+    "page": 5,
+    "tier": "core",
+    "group": "Clinical urology and genitourinary infection",
+    "topic": "Lower urinary tract symptoms and haematuria",
+    "rationale": "Voiding symptoms, regional pain referral and treatment effects."
+  },
+  {
+    "source": "bonus",
+    "question": 45,
+    "page": 39,
+    "tier": "core",
+    "group": "Clinical urology and genitourinary infection",
+    "topic": "Chlamydia, gonorrhoea and genitourinary complications",
+    "rationale": "Urethritis, dysuria, epididymitis, urine testing and related microbiology."
+  },
+  {
+    "source": "bonus",
+    "question": 57,
+    "page": 48,
+    "tier": "core",
+    "group": "Clinical urology and genitourinary infection",
+    "topic": "Erectile dysfunction and cardiovascular comorbidity",
+    "rationale": "Erectile dysfunction, vascular risk factors and drug interactions."
+  },
+  {
+    "source": "main",
+    "question": 1,
+    "page": 2,
+    "tier": "core",
+    "group": "Urogynaecology and female urinary symptoms",
+    "topic": "Stress urinary incontinence and pelvic support",
+    "rationale": "Direct urogynaecology: urethral support, pelvic-floor injury and continence."
+  },
+  {
+    "source": "main",
+    "question": 18,
+    "page": 14,
+    "tier": "core",
+    "group": "Urogynaecology and female urinary symptoms",
+    "topic": "Pelvic vascular anatomy and the ureter",
+    "rationale": "Pelvic surgical anatomy, ureteric relationships and vesical vascular connections."
+  },
+  {
+    "source": "main",
+    "question": 32,
+    "page": 19,
+    "tier": "core",
+    "group": "Urogynaecology and female urinary symptoms",
+    "topic": "Genitourinary changes after menopause",
+    "rationale": "Includes dysuria, incontinence, vaginal dryness and dyspareunia."
+  },
+  {
+    "source": "main",
+    "question": 84,
+    "page": 56,
+    "tier": "core",
+    "group": "Urogynaecology and female urinary symptoms",
+    "topic": "Urinary symptoms in chronic pelvic disease",
+    "rationale": "Urinary urgency/frequency, bladder compression and renal-vein relationships."
+  },
+  {
+    "source": "main",
+    "question": 10,
+    "page": 9,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Seminiferous epithelium and cell identification",
+    "rationale": "Testicular histology relevant to male reproductive urology."
+  },
+  {
+    "source": "main",
+    "question": 11,
+    "page": 10,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Male reproductive duct histology",
+    "rationale": "Duct structure, epithelium and sperm storage."
+  },
+  {
+    "source": "main",
+    "question": 12,
+    "page": 10,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Spermatogenesis and chromosome content",
+    "rationale": "Basic science underpinning male fertility."
+  },
+  {
+    "source": "main",
+    "question": 16,
+    "page": 13,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "External genital development and Leydig-cell function",
+    "rationale": "Urogenital folds, labioscrotal development and androgen effects."
+  },
+  {
+    "source": "main",
+    "question": 17,
+    "page": 13,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Undescended testes and duct development",
+    "rationale": "Paediatric urology and persistent embryological structures."
+  },
+  {
+    "source": "main",
+    "question": 34,
+    "page": 20,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Sperm maturation and fertilisation failure",
+    "rationale": "Sperm function and male-factor fertility assessment."
+  },
+  {
+    "source": "main",
+    "question": 36,
+    "page": 22,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Small testes, oligospermia and gonadotrophins",
+    "rationale": "Andrology and hormonal assessment of male infertility."
+  },
+  {
+    "source": "main",
+    "question": 46,
+    "page": 28,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Anabolic steroids and male reproductive function",
+    "rationale": "Testicular atrophy, fertility and endocrine feedback."
+  },
+  {
+    "source": "main",
+    "question": 47,
+    "page": 28,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Testicular endocrine feedback",
+    "rationale": "Sertoli/Leydig physiology and the regulation of inhibin."
+  },
+  {
+    "source": "main",
+    "question": 48,
+    "page": 29,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Oestrogens and aromatisation in males",
+    "rationale": "Andrology-related endocrine physiology; broader than urinary medicine."
+  },
+  {
+    "source": "bonus",
+    "question": 6,
+    "page": 6,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Epididymal/testicular histology and sperm handling",
+    "rationale": "Male genital anatomy and reproductive-tract function."
+  },
+  {
+    "source": "bonus",
+    "question": 7,
+    "page": 7,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Testicular histology and fertility",
+    "rationale": "Spermatogenesis, testicular cell function and fertility interpretation."
+  },
+  {
+    "source": "bonus",
+    "question": 8,
+    "page": 8,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Identification of seminiferous-tubule cells",
+    "rationale": "Testicular histology."
+  },
+  {
+    "source": "bonus",
+    "question": 10,
+    "page": 10,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Sex differentiation and embryonic duct development",
+    "rationale": "Shared urogenital embryology; the question includes congenital genital-tract abnormalities."
+  },
+  {
+    "source": "bonus",
+    "question": 11,
+    "page": 10,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Ambiguous genitalia and undescended testes",
+    "rationale": "Paediatric urology and external genital development."
+  },
+  {
+    "source": "bonus",
+    "question": 20,
+    "page": 18,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Sperm preparation and capacitation",
+    "rationale": "Andrology and assisted male fertility."
+  },
+  {
+    "source": "bonus",
+    "question": 51,
+    "page": 43,
+    "tier": "core",
+    "group": "Male genital anatomy, development and andrology",
+    "topic": "Delayed male puberty, small testes and micropenis",
+    "rationale": "Clinical andrology and the hypothalamic-pituitary-gonadal axis."
+  },
+  {
+    "source": "main",
+    "question": 3,
+    "page": 3,
+    "tier": "additional",
+    "group": "Additional questions with an indirect connection",
+    "topic": "Vulval anatomy and infibulation",
+    "rationale": "Supporting female perineal neurovascular/fascial anatomy; no primary renal or urinary diagnosis."
+  },
+  {
+    "source": "main",
+    "question": 4,
+    "page": 4,
+    "tier": "additional",
+    "group": "Additional questions with an indirect connection",
+    "topic": "Pelvic-floor mechanics during defecation",
+    "rationale": "Shared pelvic-floor anatomy relevant to pelvic-floor dysfunction; the tested function is bowel evacuation."
+  },
+  {
+    "source": "main",
+    "question": 5,
+    "page": 4,
+    "tier": "additional",
+    "group": "Additional questions with an indirect connection",
+    "topic": "Ischioanal fossa and nerve compression",
+    "rationale": "Supporting perineal nerve anatomy; the presentation is anorectal."
+  },
+  {
+    "source": "main",
+    "question": 7,
+    "page": 6,
+    "tier": "additional",
+    "group": "Additional questions with an indirect connection",
+    "topic": "Flank pain with pelvic/adnexal imaging",
+    "rationale": "Potential pelvic differential for urinary-region pain; no explicit renal diagnosis in the options."
+  },
+  {
+    "source": "main",
+    "question": 19,
+    "page": 14,
+    "tier": "additional",
+    "group": "Additional questions with an indirect connection",
+    "topic": "Episiotomy and perineal repair anatomy",
+    "rationale": "Supporting urogynaecological anatomy of the perineum."
+  },
+  {
+    "source": "bonus",
+    "question": 4,
+    "page": 4,
+    "tier": "additional",
+    "group": "Additional questions with an indirect connection",
+    "topic": "Vulval lymphatics and genital infection",
+    "rationale": "Supporting female genital lymphatic anatomy and STI complications."
+  },
+  {
+    "source": "bonus",
+    "question": 56,
+    "page": 48,
+    "tier": "additional",
+    "group": "Additional questions with an indirect connection",
+    "topic": "Erythrocytosis and exogenous erythropoietin",
+    "rationale": "Indirect overlap with renal endocrine physiology; primarily a haematology question."
+  }
+]

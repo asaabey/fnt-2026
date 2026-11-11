@@ -1,0 +1,9 @@
+TITLE
+Why Loop Diuretics Reduce Urine Concentration | NKCC2 and ADH
+
+DESCRIPTION
+Why can a loop diuretic reduce urine-concentrating capacity even when vasopressin is high? Follow salt transport in the thick ascending limb, formation of the medullary osmotic gradient and water movement out of the collecting duct.
+
+The animation shows how NKCC2 inhibition weakens the gradient while vasopressin-dependent water permeability remains high. The key idea: water needs both a permeable pathway and an osmotic driving force.
+
+A silent, captioned animation for medical students and renal physiology revision. The model illustrates reduced maximum concentrating capacity; the medullary gradient is weakened rather than abolished.

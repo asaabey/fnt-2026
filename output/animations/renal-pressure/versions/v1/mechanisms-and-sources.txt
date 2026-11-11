@@ -1,0 +1,74 @@
+MECHANISMS AND SOURCES
+Evidence checked 10 November 2026.
+
+This is an educational synthesis. The bar states are illustrative choices,
+not values taken from the cited studies or numerical treatment predictions.
+The preferential vessel effects are qualified by their clinical setting.
+
+physiology — renal vascular regulation, angiotensin II and perfusion:
+Renal Autoregulation in Health and Disease.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4551215/
+
+aki-guidance — NSAIDs, perfusion dependence and interacting medicines:
+NICE. Acute kidney injury: prevention, detection and management.
+https://www.nice.org.uk/guidance/ng148/chapter/Recommendations
+The associated full guideline describes prostaglandin-dependent afferent
+vasodilation and angiotensin-dependent efferent constriction.
+https://www.nice.org.uk/guidance/ng148/evidence/full-guideline-pdf-7019266862
+
+nkf-raas — ACE inhibitors/ARBs, long-term benefit and combination AKI risk:
+National Kidney Foundation. ACE inhibitors and ARBs.
+https://www.kidney.org/kidney-topics/ace-inhibitors-and-arbs
+
+kdigo-ckd — initial SGLT2-related eGFR dip and kidney-protective treatment:
+KDIGO 2024 CKD guideline, especially practice point 3.7.3.
+https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf
+Executive summary:
+https://doi.org/10.1016/j.kint.2023.10.016
+
+cherney — classic hyperfiltration physiology:
+Cherney et al. Renal hemodynamic effect of sodium-glucose cotransporter 2
+inhibition in patients with type 1 diabetes mellitus. Circulation (2014).
+https://pubmed.ncbi.nlm.nih.gov/24334175/
+https://doi.org/10.1161/CIRCULATIONAHA.113.005081
+
+red-trial — post-glomerular interpretation in a human type 2 diabetes study:
+The renal hemodynamic effects of the SGLT2 inhibitor dapagliflozin are
+caused by post-glomerular vasodilatation rather than pre-glomerular
+vasoconstriction in metformin-treated patients with type 2 diabetes in
+the randomized, double-blind RED trial.
+https://pubmed.ncbi.nlm.nih.gov/31791665/
+Vessel-resistance interpretations in these human studies are inferred
+from physiological measurements rather than direct visual measurement
+of every afferent/efferent arteriolar diameter.
+
+sglt2-review — context and differences in arteriolar effects:
+Renoprotective Mechanism of Sodium-Glucose Cotransporter 2 Inhibitors:
+Focusing on Renal Hemodynamics (2022).
+https://pubmed.ncbi.nlm.nih.gov/35929172/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9353563/
+
+Clinical outcome context and expected initial dip:
+KDIGO 2022 Diabetes Management in CKD guideline, practice point 1.3.5.
+https://kdigo.org/wp-content/uploads/2023/12/KDIGO-2022-Diabetes-Guideline.pdf
+
+The SGLT2 presentation deliberately distinguishes the model of feedback-
+mediated afferent constriction from the post-glomerular dilation supported
+in some settings. It does not equate SGLT2 therapy with NSAID toxicity.
+
+The review literature continues to evolve; this scene is not an exhaustive
+account of tubular, metabolic or microvascular kidney-protective mechanisms.
+
+cni-review — afferent-predominant acute toxicity, with mixed vascular effects:
+Calcineurin Inhibitor Associated Nephrotoxicity in Kidney Transplantation—
+A Transplant Nephrologist's Perspective (2025).
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12005075/
+The Many Faces of Calcineurin Inhibitor Toxicity – What the FK?
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7080294/
+
+tacrolimus-label — acute afferent vasoconstriction in prescribing information:
+https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=4caa20af-45a8-4365-9f06-1568afae61b1&type=display
+
+Animation stack
+https://github.com/ManimCommunity/manim
+https://github.com/3b1b/manim

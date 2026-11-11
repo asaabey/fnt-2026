@@ -1,0 +1,265 @@
+RENAL QUESTIONS — VISUALIZATION PLAN
+Updated: 10 November 2026
+Question source: questions.txt in this directory
+
+This document records the visualization approach for all ten questions.
+Created assets and proposed work are distinguished below. Q3 has an initial
+animation; further review is deferred, following the user's latest direction.
+
+OVERVIEW
+
+Question | Topic                         | Format                         | Status
+---------|-------------------------------|--------------------------------|-------------------
+Q1       | Renal haemodynamics           | Manim animation                | Created
+Q2       | Loop diuretics/concentration  | Manim animation                | Created
+Q3       | Water load/plasma sodium      | Manim animation                | Created; revisit later
+Q4       | Three mechanisms of AKI       | Static three-panel diagram     | Planned
+Q5       | Nephritic/nephrotic syndromes | Illustration + Manim animation | Created
+Q6       | Normal micturition            | Manim animation                | Created
+Q7       | Nephron-sparing surgery       | Static before/after cutaway    | Planned
+Q8       | Clear-cell RCC and staging    | Molecular + anatomical panels  | Planned
+Q9       | Source of haematuria          | Tract map + urine microscopy   | Planned
+Q10      | Proteinuria mechanisms        | Manim animation                | Created
+
+SHARED VISUAL DESIGN
+
+Use the established dark background (#10151F), Avenir Next typography,
+white main text (#EDF3FA), muted anatomical labels (#A4B3C5), and restrained
+teal (#65D4C2), gold (#F2C66D) and coral (#EC6174) emphasis.
+
+Place labels beside the structure or pathway they explain. Keep captions
+short and use colour consistently within each visual. Omit course branding,
+week numbers, learning objectives and answer-choice labels from the visuals.
+Question numbers in this planning document are for asset organisation.
+
+Static diagrams: editable vector source plus a 1920 x 1080 PNG. Prepare
+layers so they can be revealed in stages during teaching if useful.
+Animations: silent captioned 1080p MP4, editable Manim source, representative
+frame, comparison image, chapter timings and supporting notes. Existing
+animations use Manim Community 0.22.1 at 30 fps.
+
+Q1 — RENAL BLOOD FLOW AND GLOMERULAR PRESSURE
+
+Format: Manim animation, already created; approximately 106 seconds.
+
+Teaching focus: why reducing angiotensin-II-dependent efferent tone can
+lower glomerular pressure and GFR when perfusion is compromised.
+
+Sequence: establish afferent inflow, the glomerulus and efferent outflow;
+compare angiotensin II, ACE inhibitors, ARBs, prostaglandins, NSAIDs,
+SGLT2 inhibitors and calcineurin inhibitors; finish with low perfusion plus
+NSAID and ACE inhibitor OR ARB effects.
+
+Keep medicine labels on the affected vessel's side. Preserve the separate,
+context-dependent SGLT2 mechanisms and the distinction between an initial
+haemodynamic change and long-term kidney benefit.
+
+Existing assets: ../../animations/renal-pressure/
+Video: renal-pressure.mp4
+YouTube: https://youtu.be/CLZKfzoJqGk
+Fimbria placement: after Q1 consolidation, before Q2.
+Editable source: renal_pressure.py and storyboard.json
+
+Q2 — LOOP DIURETICS AND URINE-CONCENTRATING CAPACITY
+
+Format: Manim animation, already created; approximately 61 seconds.
+
+Teaching focus: NKCC2 blockade weakens the medullary osmotic gradient and
+reduces maximum concentrating capacity despite high vasopressin.
+
+Sequence: trace tubular flow; show salt leaving the water-impermeable
+thick ascending limb; establish water recovery from the collecting duct;
+block NKCC2; weaken the gradient and reduce water recovery.
+
+Keep vasopressin high and collecting-duct water pathways available during
+blockade. The gradient is reduced rather than abolished.
+
+Existing assets: ../../animations/urine-concentration/
+Video: urine-concentration.mp4
+Editable source: urine_concentration.py
+
+Q3 — WATER LOAD AND PLASMA SODIUM CONCENTRATION
+
+Format: Manim animation, initial version created; approximately 67 seconds.
+Status: return to this later; no further changes have been specified.
+
+Teaching focus: a water load lowers plasma osmolality, suppresses
+vasopressin and reduces collecting-duct water permeability, allowing the
+excretion of dilute urine and limiting dilution of plasma sodium.
+
+Sequence: establish baseline water recovery; add water while holding the
+sodium-symbol count fixed; reduce vasopressin; retrieve AQP2 from the apical
+membrane into intracellular vesicles; reduce water reabsorption; increase
+urine volume and lower urine osmolality; show movement towards baseline.
+
+Retain the collecting-duct aesthetic of Q2. The principal mechanism here is
+reduced permeability. Keep residual water movement and the distinction
+between sodium concentration and sodium amount clear.
+
+Existing assets: ../../animations/water-load/
+Video: water-load.mp4
+Editable source: water_load.py
+
+Q4 — PRERENAL, INTRINSIC AND POSTRENAL AKI
+
+Format: static three-panel anatomical diagram, with optional staged reveal.
+
+Use the same kidney/urinary-tract layout in each panel. Highlight the
+different location of the principal problem:
+  1. Reduced perfusion after diarrhoea and hypotension: highlight the inlet
+     blood supply and show improvement after perfusion is restored.
+  2. Acute tubular injury after prolonged shock: enlarge the injured tubular
+     epithelium and include a small muddy-brown granular cast inset.
+  3. Retention and obstruction: mark the blocked outlet and show bilateral
+     upstream collecting-system dilation.
+
+Place the case cue and mechanism beside each panel. Make the comparison
+about the mechanism in these three patients, rather than every AKI cause.
+
+Suggested asset folder: ../../illustrations/aki-mechanisms/
+
+Q5 — NEPHRITIC VERSUS NEPHROTIC SYNDROME
+
+Format: layered illustration followed by Manim animation, created;
+approximately 87 seconds. This replaces the earlier static-cutaway plan,
+following the user's supplied visual reference and request for evolution.
+
+Start with a healthy capillary cross-section showing fenestrated
+endothelium, glomerular basement membrane and podocyte foot processes.
+
+Inflammatory pathway: introduce inflammatory cells and swelling; show a
+local barrier defect, reduced filtration, and red-cell/protein leakage.
+Animate red-cell cast formation in a separate downstream tubular inset.
+Associate the state with haematuria, hypertension, reduced GFR and protein
+of 1 g/day.
+
+Reset visibly to the healthy barrier before the second pathway.
+
+Podocyte pathway: flatten foot processes and mark slit-barrier dysfunction;
+increase albumin leakage and show protein of 5.2 g/day, plasma albumin of
+20 g/L, oedema and hyperlipidaemia. Explain that low oncotic pressure and
+renal sodium retention both contribute to oedema.
+
+Finish with matched illustrated states and acknowledge possible overlap.
+The inflammatory mechanism is illustrative; the sequence does not imply
+routine progression from nephritic to nephrotic disease. The new anatomical
+illustration uses coral red cells and teal albumin with a visible legend.
+
+Existing assets: ../../animations/nephritic-nephrotic/
+Video: nephritic-nephrotic.mp4
+Starting illustration: healthy-barrier.png
+Comparison: comparison.png
+Editable source: nephritic_nephrotic.py and storyboard.json
+
+Q6 — NEURAL AND MECHANICAL COORDINATION OF MICTURITION
+
+Format: Manim animation, already created; 60 seconds.
+
+Teaching focus: normal voiding combines detrusor contraction with outlet
+relaxation through coordinated autonomic and somatic activity.
+
+Sequence: establish storage; introduce filling signals and higher-centre
+permission; show pontine coordination increasing pelvic parasympathetic
+activity while reducing sympathetic and pudendal activity; relax the outlet
+as detrusor contraction begins; show urine flow.
+
+Keep nerve labels beside their pathways, identify S2-S4 for pelvic and
+pudendal pathways, and distinguish the bladder outlet from the external
+sphincter. Separate the neural-switch phase from active voiding.
+
+Existing assets: ../../animations/micturition/
+Video: micturition.mp4
+Editable source: micturition.py
+
+Q7 — PARTIAL NEPHRECTOMY AND PRESERVED RENAL TISSUE
+
+Format: static before/after kidney cutaway.
+
+Before: show the 3.2-cm cortical mass confined to the kidney.
+After: show removal of the tumour-bearing portion with the remaining
+renal tissue preserved. Use a restrained highlight for the excised region
+and make the retained kidney visually prominent.
+
+The teaching point is what nephron-sparing surgery achieves in this case.
+Keep the question's context visible in a short caption: intervention has
+been chosen and partial nephrectomy is technically and oncologically
+feasible. No full treatment algorithm is needed.
+
+Suggested asset folder: ../../illustrations/partial-nephrectomy/
+
+Q8 — CLEAR-CELL RCC: BIOLOGY AND ANATOMICAL STAGING
+
+Format: two complementary static panels, with optional sequential reveal.
+
+Molecular panel: VHL loss -> increased HIF signalling -> pro-angiogenic
+signalling. Keep the pathway short and connect it to the described tumour.
+
+Anatomical panel: show a renal cortical tumour extending into the renal
+vein. Identify renal-vein invasion as T3a, with distant metastasis assessed
+separately; this question specifies no distant metastases. Keep local
+extension distinct from the M category.
+
+The two panels should teach separate ideas without crowding the molecular
+pathway onto the kidney illustration. An authentic histology inset can be
+added later if a suitable licensed image is selected.
+
+Suggested asset folder: ../../illustrations/rcc-biology-staging/
+
+Q9 — GLOMERULAR AND NON-GLOMERULAR HAEMATURIA
+
+Format: urinary-tract map paired with urine microscopy comparisons.
+
+Map: distinguish a glomerular origin from downstream urinary-tract sources.
+Microscopy: place dysmorphic red cells and a red-cell cast beside the
+glomerular example; place predominantly uniform red cells beside the
+non-glomerular example. Show clots as a separate macroscopic cue.
+
+Prefer authentic, appropriately sourced microscopy with simplified
+annotated drawings alongside. Clearly distinguish schematic drawings from
+actual micrographs. Image selection and sourcing remain to be done.
+
+Use 'suggests' or 'supports' rather than treating appearances as proof.
+Connect the older smoker's painless visible haematuria with clots to the
+need for urological assessment, without assigning an unproven diagnosis.
+
+Suggested asset folder: ../../illustrations/haematuria-sources/
+
+Q10 — THREE MECHANISMS OF PROTEINURIA
+
+Format: Manim animation, already created; approximately 83 seconds.
+
+Teaching focus: distinguish excess glomerular albumin passage, reduced
+proximal tubular protein uptake and excess filtered free-light-chain load.
+
+Sequence: establish normal handling; increase albumin passage at the
+glomerular barrier; restore barrier restriction and impair tubular uptake;
+restore uptake and increase light-chain supply beyond capacity; finish
+with a three-column clinical/mechanistic comparison.
+
+Keep uptake active during overflow, residual uptake during tubular injury,
+and some albumin uptake during glomerular leakage. The closing caption
+acknowledges that mechanisms may coexist.
+
+Existing assets: ../../animations/proteinuria/
+Video: proteinuria.mp4
+Editable source: proteinuria.py
+
+SUGGESTED NEXT PRODUCTION ORDER
+
+Q4 -> Q9 -> Q7 -> Q8.
+Return to Q3 for further review when requested.
+
+REFERENCE NOTES
+
+Created animations have physiological notes, references and export checks
+in their respective README.txt and render-report.json files.
+
+For Q7, retain the question's clinical context when illustrating surgery:
+https://www.cancer.gov/types/kidney/hp/kidney-treatment-pdq
+
+For Q8, renal-vein invasion is classified as T3a in the RCC staging table:
+https://uroweb.org/guidelines/renal-cell-carcinoma/chapter/staging-and-classification-systems
+
+The planned static illustrations and microscopy assets have not yet been
+produced. These plans preserve the question-specific teaching scope and
+the design decisions made in the discussion.

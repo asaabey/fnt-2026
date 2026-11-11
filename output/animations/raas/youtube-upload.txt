@@ -1,0 +1,11 @@
+TITLE
+RAAS Explained | Renin, Angiotensin II and Aldosterone Animation
+
+DESCRIPTION
+Follow the renin–angiotensin–aldosterone system (RAAS), from the signals that trigger renin release to the effects of aldosterone on sodium and potassium handling.
+
+This animation shows reduced renal perfusion, reduced macula-densa NaCl transport and sympathetic beta-1 signalling stimulating renin release. Follow the conversion of angiotensinogen to angiotensin I and angiotensin II, then see how vasoconstriction, proximal sodium reabsorption and adrenal aldosterone release support blood pressure and sodium conservation.
+
+A principal-cell view connects apical ENaC and basolateral Na+/K+-ATPase activity with sodium reabsorption and potassium secretion. The closing scenes show negative feedback, direct stimulation of aldosterone by elevated potassium, and a separate example of autonomous aldosterone secretion with suppressed renin.
+
+A silent animation with on-screen labels for medical students and renal physiology revision. Anatomy and ion movement are schematic. The final example illustrates hypertension with hypokalaemia; low potassium is not present in every case of primary aldosteronism.

@@ -1,0 +1,9 @@
+TITLE
+How Medicines Change Glomerular Pressure | Renal Physiology Animation
+
+DESCRIPTION
+See how medicines alter afferent and efferent arteriolar tone and influence pressure inside the glomerulus. This animation compares angiotensin II, ACE inhibitors, ARBs, prostaglandins, NSAIDs and SGLT2 inhibitors, then brings the mechanisms together in a low-perfusion example.
+
+The SGLT2 inhibitor scenes distinguish the classic tubuloglomerular-feedback model from context-dependent effects. ACE inhibitors, ARBs and SGLT2 inhibitors can also reduce albuminuria in relevant clinical settings. Each comparison begins from its own reference state. A fall in glomerular pressure needs to be interpreted in context, including potential long-term kidney protection.
+
+A silent animation with on-screen explanations for medical students and renal physiology revision. Vessel sizes, flow and pressure indicators are schematic.

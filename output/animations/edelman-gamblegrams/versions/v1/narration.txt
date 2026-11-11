@@ -1,0 +1,33 @@
+OPTIONAL VOICE-OVER OUTLINE
+
+Reference
+Plasma sodium depends on exchangeable sodium plus potassium relative to
+body water. Grey potassium stays fixed here. The bars show body amounts,
+each scaled to its own baseline.
+
+Sodium and water retention
+More sodium does not necessarily mean a higher concentration. If total
+cations and water rise in proportion, sodium stays normal despite fluid
+accumulation and possible oedema.
+
+Water gain
+Water gain without added cations lowers the concentration. The hatched
+region shows water excess relative to the reference concentration.
+
+Sodium depletion
+Both sodium and water can fall while sodium concentration also falls.
+Relative water excess does not require an absolute increase in body water.
+
+Oedematous hyponatraemia
+Sodium stores may be increased, but a still larger relative water gain
+lowers sodium concentration. In heart failure, congestion can coexist with
+reduced effective arterial filling and continued vasopressin release.
+
+Diabetes insipidus
+DI produces large volumes of dilute urine through vasopressin deficiency
+or renal resistance. Sodium rises if water loss exceeds replacement.
+If drinking keeps pace, sodium can remain normal even while polyuria persists.
+
+Comparison
+Similar sodium concentrations can conceal very different sodium stores.
+Assess concentration and volume status separately.

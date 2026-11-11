@@ -1,0 +1,23 @@
+RENAL QUESTION SEQUENCE
+
+Question | Previous number | Topic | Step ID
+---------|-----------------|-------|--------
+Q1 | Q1 | Renal perfusion and efferent arteriolar regulation | q01-week1-lo4
+Q2 | Q13 | Renal sodium conservation after gastrointestinal bleeding | candidate-q12
+Q3 | Q14 | Hypertension with hypokalaemia | candidate-q13
+Q4 | Q2 | Osmotic, loop and thiazide diuretics: mechanisms and nephron targets | q02-week1-lo6
+Q5 | Q3 | Potassium-sparing diuretics and aquaresis: MR, ENaC, V2 and AQP2 | diuretic-receptors-channels
+Q6 | Q4 | Plasma sodium concentration versus total-body sodium | q03-week1-lo7
+Q7 | Q12 | Oedema with hyponatraemia | candidate-q11
+Q8 | Q5 | Prerenal, intrinsic and postrenal AKI | q04-week2-lo3
+Q9 | Q10 | Glomerular versus non-glomerular urinary red cells | q09-week4-lo1
+Q10 | Q11 | Glomerular, tubular and overflow proteinuria | q10-week4-lo2
+Q11 | Q6 | Nephritic versus nephrotic syndrome and glomerulonephritis | q05-week2-lo4
+Q12 | Q15 | IgA nephropathy and infection-associated haematuria | candidate-q14
+Q13 | Q16 | Post-streptococcal glomerulonephritis | candidate-q15
+Q14 | Q17 | Lupus nephritis and the role of kidney biopsy | candidate-q16
+Q15 | Q18 | ANCA-associated crescentic glomerulonephritis | candidate-q17
+Q16 | Q19 | Anti-GBM disease and antibody-directed injury | candidate-q18
+Q17 | Q7 | Neural and mechanical coordination of voiding | q06-week3-lo2
+Q18 | Q8 | Renal tumour presentation, diagnostic evaluation and local treatment | q07-week3-lo10
+Q19 | Q9 | Clear-cell RCC biology and prognostic importance of venous invasion | q08-week3-lo10

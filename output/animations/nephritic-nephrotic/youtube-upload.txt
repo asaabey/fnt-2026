@@ -1,0 +1,9 @@
+TITLE
+Nephritic vs Nephrotic Syndrome | Glomerular Injury Animation
+
+DESCRIPTION
+Compare two patterns of glomerular injury, starting with the healthy filtration barrier: fenestrated endothelium, glomerular basement membrane and podocyte foot processes.
+
+The nephritic pathway illustrates inflammatory injury, red-cell leakage, reduced filtration and red-cell cast formation in a downstream tubule. A separate nephrotic pathway shows podocyte injury, heavy protein leakage and the associated pattern of hypoalbuminaemia, oedema and hyperlipidaemia.
+
+A silent, captioned animation for medical students and renal pathology revision. These are illustrative dominant patterns: nephritic and nephrotic features can overlap, and the two pathways are not stages of a single inevitable progression.

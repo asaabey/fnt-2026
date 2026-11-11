@@ -1,0 +1,55 @@
+{
+  "bucket": "fimbria-teaching-assets",
+  "domain": "assets.lattice-1.com",
+  "zone": "lattice-1.com",
+  "storageClass": "Standard",
+  "assets": [
+    {
+      "key": "renal/gn/iga-nephropathy-original-figure1.54f2bd2c5470.webp",
+      "file": "files/iga-nephropathy-original-figure1.54f2bd2c5470.webp",
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable",
+      "bytes": 755084,
+      "sha256": "54f2bd2c5470549588afa22d7cf460f96a73165017b4b20fbea9e5b6dce4eae9",
+      "url": "https://assets.lattice-1.com/renal/gn/iga-nephropathy-original-figure1.54f2bd2c5470.webp",
+      "source": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2016.00117/full",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "key": "renal/gn/anca-pauci-immune-original-figure2.834187e78ecc.webp",
+      "file": "files/anca-pauci-immune-original-figure2.834187e78ecc.webp",
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable",
+      "bytes": 1230204,
+      "sha256": "834187e78ecc2c5a44f6fe693cdcee1adb776fe7ec74606c025191bf0fbff196",
+      "url": "https://assets.lattice-1.com/renal/gn/anca-pauci-immune-original-figure2.834187e78ecc.webp",
+      "source": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1515622/full",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "key": "renal/gn/lupus-full-house-figure2.ace6a828a95f.png",
+      "file": "files/lupus-full-house-figure2.ace6a828a95f.png",
+      "contentType": "image/png",
+      "cacheControl": "public, max-age=31536000, immutable",
+      "bytes": 748629,
+      "sha256": "ace6a828a95f3f9c3bed5be8ccfd7a4e2ebb23cbbaaec32100bebb92dad179f8",
+      "url": "https://assets.lattice-1.com/renal/gn/lupus-full-house-figure2.ace6a828a95f.png",
+      "source": "https://jctn.msn.org.my/index.php/ejournal/article/download/86/39",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Figure 2 region extracted from page 2 of the source PDF using Poppler at 144 dpi. No tissue content, staining, panel letters or scale bars altered."
+    },
+    {
+      "key": "renal/gn/credits.1f1b15eaca39.txt",
+      "file": "files/credits.1f1b15eaca39.txt",
+      "contentType": "text/plain; charset=utf-8",
+      "cacheControl": "public, max-age=31536000, immutable",
+      "bytes": 1591,
+      "sha256": "1f1b15eaca392d05944492b571040304cc21d5d5045ffe9c03212dc377870a2c",
+      "url": "https://assets.lattice-1.com/renal/gn/credits.1f1b15eaca39.txt"
+    }
+  ],
+  "note": "Three reviewed figures are prepared: IgA, ANCA-associated GN and the lupus full-house panel. Post-infectious and anti-GBM figures remain pending."
+}

@@ -1,0 +1,145 @@
+YOUTUBE TITLES AND DESCRIPTIONS
+
+Prepared for the ten current animations. Archived versions are excluded.
+Copy the text under TITLE and DESCRIPTION into the corresponding YouTube fields.
+
+renal-pressure.mp4
+============================================================
+TITLE
+How Medicines Change Glomerular Pressure | Renal Physiology Animation
+
+DESCRIPTION
+See how medicines alter afferent and efferent arteriolar tone and influence pressure inside the glomerulus. This animation compares angiotensin II, ACE inhibitors, ARBs, prostaglandins, NSAIDs and SGLT2 inhibitors, then brings the mechanisms together in a low-perfusion example.
+
+The SGLT2 inhibitor scenes distinguish the classic tubuloglomerular-feedback model from context-dependent effects. ACE inhibitors, ARBs and SGLT2 inhibitors can also reduce albuminuria in relevant clinical settings. Each comparison begins from its own reference state. A fall in glomerular pressure needs to be interpreted in context, including potential long-term kidney protection.
+
+A silent animation with on-screen explanations for medical students and renal physiology revision. Vessel sizes, flow and pressure indicators are schematic.
+
+urine-concentration.mp4
+============================================================
+TITLE
+Why Loop Diuretics Reduce Urine Concentration | NKCC2 and ADH
+
+DESCRIPTION
+Why can a loop diuretic reduce urine-concentrating capacity even when vasopressin is high? Follow salt transport in the thick ascending limb, formation of the medullary osmotic gradient and water movement out of the collecting duct.
+
+The animation shows how NKCC2 inhibition weakens the gradient while vasopressin-dependent water permeability remains high. The key idea: water needs both a permeable pathway and an osmotic driving force.
+
+A silent, captioned animation for medical students and renal physiology revision. The model illustrates reduced maximum concentrating capacity; the medullary gradient is weakened rather than abolished.
+
+
+water-load.mp4
+============================================================
+TITLE
+What Happens After a Water Load? | ADH, AQP2 and Dilute Urine
+
+DESCRIPTION
+Follow the kidney’s response to a water load: lower plasma osmolality, reduced vasopressin (ADH) release, retrieval of aquaporin-2 (AQP2) from the apical membrane and increased excretion of dilute urine.
+
+A magnified collecting duct shows how changing water-channel availability reduces water reabsorption. The sequence connects this response to negative feedback and the distinction between plasma sodium concentration and the amount of sodium in the body.
+
+A silent, captioned animation for medical students and renal physiology revision. It depicts a healthy adult with intact renal water handling; particle counts and response timing are illustrative.
+
+
+osmoregulation.mp4
+============================================================
+TITLE
+Osmoregulation Explained | ADH, Thirst and Urine Concentration
+
+DESCRIPTION
+Explore the relationship between plasma osmolality, antidiuretic hormone (ADH, or vasopressin), thirst and urine concentration on one animated graph.
+
+A moving cursor follows rising and falling plasma osmolality. The curves show the illustrated ADH and thirst responses and the plateau in urine concentration, with a shaded reference band at 275–295 mOsm/kg H2O.
+
+A silent graph animation for medical students and physiology revision. Each curve has its own coloured vertical axis, so heights across different variables cannot be compared directly. The curves and thresholds are schematic; the horizontal axis represents plasma osmolality, not elapsed time.
+
+
+edelman-gamblegrams.mp4
+============================================================
+TITLE
+Understanding Plasma Sodium | Edelman–Rose Gamblegram Animation
+
+DESCRIPTION
+Why can a patient have oedema and a low plasma sodium concentration? Compare three sodium–water patterns using an Edelman–Rose Gamblegram: water-predominant retention in SIADH, unreplaced water loss in diabetes insipidus, and sodium plus water retention in nephrotic syndrome, heart failure and liver disease.
+
+The animation uses the simplified relationship:
+Plasma [Na+] ≈ (exchangeable Na + exchangeable K) / total body water.
+
+The oedematous panel first shows retention with preserved sodium concentration, then disproportionate water gain with hyponatraemia. Diabetes insipidus causes hypernatraemia in the illustrated example because water losses are not replaced.
+
+A silent visual teaching aid for medical students. Values are illustrative, potassium is held constant, and the shared oedema pattern does not imply identical disease mechanisms.
+
+
+nephritic-nephrotic.mp4
+============================================================
+TITLE
+Nephritic vs Nephrotic Syndrome | Glomerular Injury Animation
+
+DESCRIPTION
+Compare two patterns of glomerular injury, starting with the healthy filtration barrier: fenestrated endothelium, glomerular basement membrane and podocyte foot processes.
+
+The nephritic pathway illustrates inflammatory injury, red-cell leakage, reduced filtration and red-cell cast formation in a downstream tubule. A separate nephrotic pathway shows podocyte injury, heavy protein leakage and the associated pattern of hypoalbuminaemia, oedema and hyperlipidaemia.
+
+A silent, captioned animation for medical students and renal pathology revision. These are illustrative dominant patterns: nephritic and nephrotic features can overlap, and the two pathways are not stages of a single inevitable progression.
+
+
+micturition.mp4
+============================================================
+TITLE
+How Micturition Works | Neural Control of Bladder Storage and Voiding
+
+DESCRIPTION
+See how the nervous system coordinates bladder storage and voluntary voiding. Follow the relaxed detrusor and closed outlet during storage, sensory signals during filling, and the coordinated switch to bladder emptying.
+
+The animation connects pontine coordination with increased sacral pelvic parasympathetic activity and reduced sympathetic and pudendal activity. Effective voiding brings detrusor contraction together with outlet and external sphincter relaxation.
+
+A silent, captioned animation for medical students and physiology revision. It illustrates normal adult control with intact neurological pathways; nerve activity and anatomy are simplified.
+
+
+proteinuria.mp4
+============================================================
+TITLE
+Three Mechanisms of Proteinuria | Glomerular, Tubular and Overflow
+
+DESCRIPTION
+Why does protein appear in urine? Compare normal renal protein handling with three predominant mechanisms of proteinuria: increased glomerular leakage, impaired proximal tubular uptake and an excessive filtered protein load.
+
+The animation follows albumin and small proteins through filtration and tubular handling. Examples include albumin-predominant proteinuria in diabetic kidney disease, tubular proteinuria and free-light-chain overflow in a plasma-cell disorder.
+
+A silent, captioned animation for medical students and renal pathology revision. The final comparison links each mechanism to its protein pattern. Mechanisms can coexist, and light chains can also cause tubular injury.
+
+raas.mp4
+============================================================
+TITLE
+RAAS Explained | Renin, Angiotensin II and Aldosterone Animation
+
+DESCRIPTION
+Follow the renin–angiotensin–aldosterone system (RAAS), from the signals that trigger renin release to the effects of aldosterone on sodium and potassium handling.
+
+This animation shows reduced renal perfusion, reduced macula-densa NaCl transport and sympathetic beta-1 signalling stimulating renin release. Follow the conversion of angiotensinogen to angiotensin I and angiotensin II, then see how vasoconstriction, proximal sodium reabsorption and adrenal aldosterone release support blood pressure and sodium conservation.
+
+A principal-cell view connects apical ENaC and basolateral Na+/K+-ATPase activity with sodium reabsorption and potassium secretion. The closing scenes show negative feedback, direct stimulation of aldosterone by elevated potassium, and a separate example of autonomous aldosterone secretion with suppressed renin.
+
+A silent animation with on-screen labels for medical students and renal physiology revision. Anatomy and ion movement are schematic. The final example illustrates hypertension with hypokalaemia; low potassium is not present in every case of primary aldosteronism.
+
+diuretics-nephron.mp4
+============================================================
+TITLE
+Mechanism of Diuretics | Sites of Action, Transporters and Receptors
+
+DESCRIPTION
+Explore how the major diuretic classes work using one nephron diagram, with animated insets showing each drug’s site of action and molecular target.
+
+This video covers:
+• Mannitol — osmotic diuresis
+• Acetazolamide — carbonic anhydrase inhibition
+• SGLT2 inhibitors — sodium–glucose cotransport inhibition
+• Loop diuretics — NKCC2 blockade
+• Thiazide and thiazide-like diuretics — NCC blockade
+• Spironolactone and eplerenone — mineralocorticoid receptor antagonism
+• Amiloride and triamterene — ENaC blockade
+• Tolvaptan — vasopressin V2 receptor antagonism
+
+Follow the links between tubular transport, salt and water excretion, potassium sparing, and urine-concentrating ability. The final comparison distinguishes natriuresis from aquaresis and shows how V2 signalling regulates AQP2 water channels.
+
+Designed for medical students and renal physiology revision. The animation is silent, with on-screen explanations. Anatomical segment names are accompanied by traditional Site I–IV labels. Anatomy and transport are schematic.

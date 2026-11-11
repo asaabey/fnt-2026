@@ -1,0 +1,246 @@
+[
+  {
+    "question": 1,
+    "stepId": "q01-week1-lo4",
+    "week": 1,
+    "learningObjective": "LO4",
+    "topic": "Renal perfusion and efferent arteriolar regulation",
+    "correctOptionId": "c",
+    "references": [
+      "R1",
+      "R6"
+    ],
+    "referenceFile": "teacher-notes.txt"
+  },
+  {
+    "question": 2,
+    "stepId": "q02-week1-lo6",
+    "week": 1,
+    "learningObjective": "LO6",
+    "topic": "Countercurrent multiplication and concentrating ability",
+    "correctOptionId": "b",
+    "references": [
+      "R2",
+      "R3"
+    ],
+    "referenceFile": "teacher-notes.txt"
+  },
+  {
+    "question": 3,
+    "stepId": "q03-week1-lo7",
+    "week": 1,
+    "learningObjective": "LO7",
+    "topic": "Plasma sodium concentration versus total-body sodium",
+    "correctOptionId": "a",
+    "references": [
+      "R4",
+      "R5"
+    ],
+    "referenceFile": "teacher-notes.txt"
+  },
+  {
+    "question": 4,
+    "stepId": "q04-week2-lo3",
+    "week": 2,
+    "learningObjective": "LO3",
+    "topic": "Prerenal, intrinsic and postrenal AKI",
+    "correctOptionId": "d",
+    "references": [
+      "R6"
+    ],
+    "referenceFile": "teacher-notes.txt"
+  },
+  {
+    "question": 5,
+    "stepId": "q05-week2-lo4",
+    "week": 2,
+    "learningObjective": "LO4",
+    "topic": "Nephritic versus nephrotic syndrome and glomerulonephritis",
+    "correctOptionId": "b",
+    "references": [
+      "R7",
+      "R8",
+      "R9"
+    ],
+    "referenceFile": "teacher-notes.txt"
+  },
+  {
+    "question": 6,
+    "stepId": "q06-week3-lo2",
+    "week": 3,
+    "learningObjective": "LO2",
+    "topic": "Neural and mechanical coordination of voiding",
+    "correctOptionId": "c",
+    "references": [
+      "R10",
+      "R11"
+    ],
+    "referenceFile": "teacher-notes.txt"
+  },
+  {
+    "question": 7,
+    "stepId": "q07-week3-lo10",
+    "week": 3,
+    "learningObjective": "LO10",
+    "topic": "Renal tumour presentation, diagnostic evaluation and local treatment",
+    "correctOptionId": "b",
+    "references": [
+      "R12",
+      "R13"
+    ],
+    "referenceFile": "teacher-notes.txt"
+  },
+  {
+    "question": 8,
+    "stepId": "q08-week3-lo10",
+    "week": 3,
+    "learningObjective": "LO10",
+    "topic": "Clear-cell RCC biology and prognostic importance of venous invasion",
+    "correctOptionId": "d",
+    "references": [
+      "R14",
+      "R15",
+      "R16"
+    ],
+    "referenceFile": "teacher-notes.txt"
+  },
+  {
+    "question": 9,
+    "stepId": "q09-week4-lo1",
+    "week": 4,
+    "learningObjective": "LO1",
+    "topic": "Glomerular versus non-glomerular urinary red cells",
+    "correctOptionId": "a",
+    "references": [
+      "R17",
+      "R18"
+    ],
+    "referenceFile": "teacher-notes.txt"
+  },
+  {
+    "question": 10,
+    "stepId": "q10-week4-lo2",
+    "week": 4,
+    "learningObjective": "LO2",
+    "topic": "Glomerular, tubular and overflow proteinuria",
+    "correctOptionId": "c",
+    "references": [
+      "R19",
+      "R20",
+      "R21",
+      "R23"
+    ],
+    "referenceFile": "teacher-notes.txt"
+  },
+  {
+    "question": 11,
+    "stepId": "candidate-q11",
+    "week": 1,
+    "learningObjective": "LO7",
+    "topic": "Oedema with hyponatraemia",
+    "correctOptionId": "b",
+    "references": [
+      "R1",
+      "R13",
+      "R14",
+      "R15"
+    ],
+    "referenceFile": "additional-questions-review-notes.txt"
+  },
+  {
+    "question": 12,
+    "stepId": "candidate-q12",
+    "week": 1,
+    "learningObjective": "LO7",
+    "topic": "Renal sodium conservation after gastrointestinal bleeding",
+    "correctOptionId": "d",
+    "references": [
+      "R2",
+      "R17"
+    ],
+    "referenceFile": "additional-questions-review-notes.txt"
+  },
+  {
+    "question": 13,
+    "stepId": "candidate-q13",
+    "week": 1,
+    "learningObjective": "LO7",
+    "topic": "Hypertension with hypokalaemia",
+    "correctOptionId": "a",
+    "references": [
+      "R3",
+      "R16"
+    ],
+    "referenceFile": "additional-questions-review-notes.txt"
+  },
+  {
+    "question": 14,
+    "stepId": "candidate-q14",
+    "week": 2,
+    "learningObjective": "LO4",
+    "topic": "IgA nephropathy and infection-associated haematuria",
+    "correctOptionId": "a",
+    "references": [
+      "R6",
+      "R9",
+      "R10",
+      "R12"
+    ],
+    "referenceFile": "additional-questions-review-notes.txt"
+  },
+  {
+    "question": 15,
+    "stepId": "candidate-q15",
+    "week": 2,
+    "learningObjective": "LO4",
+    "topic": "Post-streptococcal glomerulonephritis",
+    "correctOptionId": "d",
+    "references": [
+      "R7",
+      "R9",
+      "R10"
+    ],
+    "referenceFile": "additional-questions-review-notes.txt"
+  },
+  {
+    "question": 16,
+    "stepId": "candidate-q16",
+    "week": 2,
+    "learningObjective": "LO4",
+    "topic": "Lupus nephritis and the role of kidney biopsy",
+    "correctOptionId": "c",
+    "references": [
+      "R8"
+    ],
+    "referenceFile": "additional-questions-review-notes.txt"
+  },
+  {
+    "question": 17,
+    "stepId": "candidate-q17",
+    "week": 2,
+    "learningObjective": "LO4",
+    "topic": "ANCA-associated crescentic glomerulonephritis",
+    "correctOptionId": "b",
+    "references": [
+      "R9",
+      "R10",
+      "R6",
+      "R12"
+    ],
+    "referenceFile": "additional-questions-review-notes.txt"
+  },
+  {
+    "question": 18,
+    "stepId": "candidate-q18",
+    "week": 2,
+    "learningObjective": "LO4",
+    "topic": "Anti-GBM disease and antibody-directed injury",
+    "correctOptionId": "a",
+    "references": [
+      "R10",
+      "R6",
+      "R9"
+    ],
+    "referenceFile": "additional-questions-review-notes.txt"
+  }
+]

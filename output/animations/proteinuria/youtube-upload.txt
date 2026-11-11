@@ -1,0 +1,9 @@
+TITLE
+Three Mechanisms of Proteinuria | Glomerular, Tubular and Overflow
+
+DESCRIPTION
+Why does protein appear in urine? Compare normal renal protein handling with three predominant mechanisms of proteinuria: increased glomerular leakage, impaired proximal tubular uptake and an excessive filtered protein load.
+
+The animation follows albumin and small proteins through filtration and tubular handling. Examples include albumin-predominant proteinuria in diabetic kidney disease, tubular proteinuria and free-light-chain overflow in a plasma-cell disorder.
+
+A silent, captioned animation for medical students and renal pathology revision. The final comparison links each mechanism to its protein pattern. Mechanisms can coexist, and light chains can also cause tubular injury.

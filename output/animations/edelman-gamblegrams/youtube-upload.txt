@@ -1,0 +1,12 @@
+TITLE
+Understanding Plasma Sodium | Edelman–Rose Gamblegram Animation
+
+DESCRIPTION
+Why can a patient have oedema and a low plasma sodium concentration? Compare three sodium–water patterns using an Edelman–Rose Gamblegram: water-predominant retention in SIADH, unreplaced water loss in diabetes insipidus, and sodium plus water retention in nephrotic syndrome, heart failure and liver disease.
+
+The animation uses the simplified relationship:
+Plasma [Na+] ≈ (exchangeable Na + exchangeable K) / total body water.
+
+The oedematous panel first shows retention with preserved sodium concentration, then disproportionate water gain with hyponatraemia. Diabetes insipidus causes hypernatraemia in the illustrated example because water losses are not replaced.
+
+A silent visual teaching aid for medical students. Values are illustrative, potassium is held constant, and the shared oedema pattern does not imply identical disease mechanisms.

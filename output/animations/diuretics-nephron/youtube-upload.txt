@@ -1,0 +1,19 @@
+TITLE
+Mechanism of Diuretics | Sites of Action, Transporters and Receptors
+
+DESCRIPTION
+Explore how the major diuretic classes work using one nephron diagram, with animated insets showing each drug’s site of action and molecular target.
+
+This video covers:
+• Mannitol — osmotic diuresis
+• Acetazolamide — carbonic anhydrase inhibition
+• SGLT2 inhibitors — sodium–glucose cotransport inhibition
+• Loop diuretics — NKCC2 blockade
+• Thiazide and thiazide-like diuretics — NCC blockade
+• Spironolactone and eplerenone — mineralocorticoid receptor antagonism
+• Amiloride and triamterene — ENaC blockade
+• Tolvaptan — vasopressin V2 receptor antagonism
+
+Follow the links between tubular transport, salt and water excretion, potassium sparing, and urine-concentrating ability. The final comparison distinguishes natriuresis from aquaresis and shows how V2 signalling regulates AQP2 water channels.
+
+Designed for medical students and renal physiology revision. The animation is silent, with on-screen explanations. Anatomical segment names are accompanied by traditional Site I–IV labels. Anatomy and transport are schematic.

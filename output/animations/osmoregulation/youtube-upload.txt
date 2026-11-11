@@ -1,0 +1,9 @@
+TITLE
+Osmoregulation Explained | ADH, Thirst and Urine Concentration
+
+DESCRIPTION
+Explore the relationship between plasma osmolality, antidiuretic hormone (ADH, or vasopressin), thirst and urine concentration on one animated graph.
+
+A moving cursor follows rising and falling plasma osmolality. The curves show the illustrated ADH and thirst responses and the plateau in urine concentration, with a shaded reference band at 275–295 mOsm/kg H2O.
+
+A silent graph animation for medical students and physiology revision. Each curve has its own coloured vertical axis, so heights across different variables cannot be compared directly. The curves and thresholds are schematic; the horizontal axis represents plasma osmolality, not elapsed time.

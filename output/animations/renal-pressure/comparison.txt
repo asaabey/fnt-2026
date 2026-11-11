@@ -1,0 +1,46 @@
+MEDICINES AND GLOMERULAR PRESSURE — QUICK COMPARISON
+
+Medicine labels follow the affected vessel. Each comparison starts from its stated reference.
+
+Efferent: Angiotensin II — Constricts
+Setting: Reduced renal perfusion
+Efferent constriction supports glomerular pressure.
+Moderate activation shown.
+
+Efferent: ACE inhibitors — Dilates
+Setting: Angiotensin-dependent filtration pressure
+Less angiotensin II → efferent relaxation.
+An initial GFR dip can accompany long-term benefit.
+Can reduce albuminuria
+
+Efferent: ARBs — Dilates
+Setting: Angiotensin-dependent filtration pressure
+AT1 blockade → less efferent constrictor tone.
+Can reduce albuminuria
+
+Afferent: Prostaglandins — Dilate
+Setting: Low-perfusion setting
+PGE2 / PGI2 help maintain afferent dilation.
+
+Afferent: NSAIDs — Constrict
+Setting: Prostaglandin-dependent afferent dilation
+COX inhibition removes afferent vasodilator support.
+AKI risk is greater when perfusion is low.
+
+Afferent: SGLT2 inhibitors — Tone increases
+Setting: Classic hyperfiltration model
+More NaCl at the macula densa → restored feedback.
+Classic hyperfiltration model.
+Can reduce albuminuria
+
+Efferent: SGLT2 inhibitors — May dilate
+Setting: Some type 2 diabetes mechanistic studies
+Post-glomerular dilation can also lower pressure.
+Effects vary by setting; an early dip can accompany long-term benefit.
+Can reduce albuminuria
+
+Afferent: NSAID — Constricts
+Efferent: ACEi OR ARB — Dilates
+Setting: Volume depletion, e.g. with diuretic use
+Low perfusion, a tighter inlet and a more relaxed outlet.
+Diuretic-associated volume loss acts indirectly.

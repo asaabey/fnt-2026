@@ -1,0 +1,25 @@
+OPTIONAL VOICE-OVER OUTLINE
+
+Baseline
+Vasopressin regulates collecting-duct water permeability by controlling the
+amount of AQP2 in the apical membrane.
+
+Water load
+Adding water lowers plasma osmolality and dilutes plasma sodium. The sodium
+symbols stay the same while the amount of water increases.
+
+Hormonal response
+Lower plasma osmolality suppresses vasopressin release. More AQP2 is retrieved
+from the apical membrane into intracellular vesicles, reducing water permeability.
+
+Renal response
+Less water leaves the collecting duct. More remains in the tubular fluid,
+so urine volume rises and urine osmolality falls.
+
+Negative feedback
+Excreting the excess water limits dilution of plasma sodium and helps move
+its concentration towards baseline.
+
+Take-home
+Water load, lower vasopressin, lower collecting-duct water permeability,
+and increased excretion of dilute urine.

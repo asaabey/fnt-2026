@@ -1,0 +1,9 @@
+TITLE
+How Micturition Works | Neural Control of Bladder Storage and Voiding
+
+DESCRIPTION
+See how the nervous system coordinates bladder storage and voluntary voiding. Follow the relaxed detrusor and closed outlet during storage, sensory signals during filling, and the coordinated switch to bladder emptying.
+
+The animation connects pontine coordination with increased sacral pelvic parasympathetic activity and reduced sympathetic and pudendal activity. Effective voiding brings detrusor contraction together with outlet and external sphincter relaxation.
+
+A silent, captioned animation for medical students and physiology revision. It illustrates normal adult control with intact neurological pathways; nerve activity and anatomy are simplified.

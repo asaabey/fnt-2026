@@ -1,0 +1,211 @@
+{
+  "createdAt": "2026-11-11T17:50:08.209025+00:00",
+  "scope": "GN microscopy shortlist. Reviewed IgA, ANCA and lupus full-house figures are hosted and integrated; post-infectious and anti-GBM images remain pending.",
+  "hostingRecommendation": "Cloudflare R2 Standard storage with a custom asset subdomain and CDN caching.",
+  "candidates": [
+    {
+      "question": 12,
+      "stepId": "candidate-q14",
+      "phenotype": "IgA nephropathy",
+      "pmcid": "PMC4828451",
+      "article": "The Origin and Activities of IgA1-Containing Immune Complexes in IgA Nephropathy",
+      "authors": "Knoppova et al., 2016",
+      "source": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2016.00117/full",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "lm": {
+        "figure": "Figure 1B",
+        "finding": "PAS-stained mesangial expansion and hypercellularity."
+      },
+      "if": {
+        "figure": "Figure 1A",
+        "finding": "Mesangial IgA staining."
+      },
+      "localOriginals": [
+        "originals/iga-figure1.webp"
+      ],
+      "visualReview": "Original composite inspected; LM and IF panels clear. Panel C is EM, not IF.",
+      "notes": "Credit the named image contributors Huma Fatima (LM/EM) and Lea Novak (IF), UAB, as well as the article authors. These are representative images; do not imply all panels are one biopsy.",
+      "proposedPlacement": {
+        "afterStep": "candidate-q14-explanation-1",
+        "reason": "Show diagnostic morphology after the answer is revealed, before distractor comparisons."
+      },
+      "fullResolutionSourceRequiredBeforeProduction": false,
+      "downloads": [
+        {
+          "file": "originals/iga-figure1.webp",
+          "bytes": 755084,
+          "sha256": "54f2bd2c5470549588afa22d7cf460f96a73165017b4b20fbea9e5b6dce4eae9"
+        }
+      ],
+      "cdnOriginalUrl": "https://assets.lattice-1.com/renal/gn/iga-nephropathy-original-figure1.54f2bd2c5470.webp",
+      "cdnVerifiedAt": "2026-11-11T18:04:08.072813+00:00",
+      "integratedExplanationSlide": "candidate-q14-explanation-1",
+      "integrationStatus": "Added to both lesson files for testing"
+    },
+    {
+      "question": 13,
+      "stepId": "candidate-q15",
+      "phenotype": "Post-infectious / post-streptococcal GN pattern",
+      "pmcid": "PMC9677723",
+      "article": "Infection-Related Glomerulonephritis",
+      "authors": "Khalighi and Chang, 2021",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9677723/",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "lm": {
+        "figure": "Figure 1",
+        "finding": "Endocapillary hypercellularity with prominent neutrophils, H&E ×400.",
+        "sourceFigure": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9677723/figure/F1/"
+      },
+      "if": {
+        "figure": "Figure 4",
+        "finding": "Granular C3 in mesangium and capillary loops: starry-sky pattern, ×600.",
+        "sourceFigure": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9677723/figure/F4/"
+      },
+      "localOriginals": [],
+      "visualReview": "Figure captions and article license checked in Europe PMC full-text XML; binary retrieval blocked with HTTP 403. Full-resolution visual review remains pending.",
+      "notes": "This is an infection-related GN teaching atlas, not proof of streptococcal aetiology from the stain alone. Figure 3 is an alternative garland-pattern C3 image. Avoid the SPEB/CD10 research staining in PMC4400488: it is not routine diagnostic glomerular C3 IF.",
+      "proposedPlacement": {
+        "afterStep": "candidate-q15-explanation-1",
+        "reason": "Show diagnostic morphology after the answer is revealed, before distractor comparisons."
+      },
+      "fullResolutionSourceRequiredBeforeProduction": true
+    },
+    {
+      "question": 14,
+      "stepId": "candidate-q16",
+      "phenotype": "Proliferative lupus nephritis",
+      "article": "Lupus Nephritis, A Great Mimicker",
+      "authors": "Shahar et al., 2025",
+      "source": "https://jctn.msn.org.my/index.php/ejournal/article/download/86/39",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "lm": {
+        "figure": "Figure 1",
+        "finding": "Class IV proliferative injury including endocapillary hypercellularity, crescents and deposits.",
+        "status": "Available in source PDF; not added to lesson in this revision."
+      },
+      "if": {
+        "figure": "Figure 2",
+        "finding": "Complete labelled panel: A IgG, B IgA, C IgM, D C3, E C1q, F kappa, G lambda."
+      },
+      "localOriginals": [
+        "originals/lupus-full-house-figure2.png"
+      ],
+      "visualReview": "Full PDF page and extracted Figure 2 region visually inspected. All seven panels, letters and scale bar retained. IgA is weaker than other stains, consistent with the source caption.",
+      "notes": "Source case was classified as class IV lupus nephritis. Figure illustrates full-house staining and does not assign a histological class to the fictional question patient. Figure-region extraction is credited; tissue content unchanged.",
+      "proposedPlacement": {
+        "afterStep": "candidate-q16-explanation-1",
+        "reason": "Show diagnostic morphology after the answer is revealed, before distractor comparisons."
+      },
+      "fullResolutionSourceRequiredBeforeProduction": false,
+      "previousCandidate": {
+        "article": "Renal biopsy pathology in a cohort of patients from southwest Sydney with clinically diagnosed systemic lupus erythematosus",
+        "authors": "Yong, Killingsworth and Lai, 2013",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3575160/",
+        "license": "Publisher states unrestricted noncommercial use with attribution; no numbered CC license asserted here",
+        "licenseUrl": null,
+        "lm": {
+          "figure": "Figure 9A–C",
+          "finding": "Class IV: proliferative injury, capillary-loop deposits and necrosis.",
+          "sourceFigure": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3575160/figure/f9-ijnrd-6-015/"
+        },
+        "if": {
+          "figure": "Figure 6",
+          "finding": "Class III: multistain immunofluorescence panel including immunoglobulins, C3 and C1q.",
+          "sourceFigure": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3575160/figure/f6-ijnrd-6-015/"
+        },
+        "visualReview": "Figure captions and article reuse statement checked in Europe PMC full-text XML; binary retrieval blocked with HTTP 403. Full-resolution visual review remains pending.",
+        "pmcid": "PMC3575160"
+      },
+      "cdnOriginalUrl": "https://assets.lattice-1.com/renal/gn/lupus-full-house-figure2.ace6a828a95f.png",
+      "integratedExplanationSlide": "lupus-full-house-microscopy",
+      "integrationStatus": "Dedicated full-house IF slide added to both lessons for testing",
+      "downloads": [
+        {
+          "file": "originals/lupus-full-house-figure2.png",
+          "bytes": 748629,
+          "sha256": "ace6a828a95f3f9c3bed5be8ccfd7a4e2ebb23cbbaaec32100bebb92dad179f8"
+        }
+      ],
+      "cdnVerifiedAt": "2026-11-11T18:34:37.250826+00:00"
+    },
+    {
+      "question": 15,
+      "stepId": "candidate-q17",
+      "phenotype": "ANCA-associated pauci-immune necrotising crescentic GN",
+      "pmcid": "PMC11876380",
+      "article": "Optic neuropathy as an early manifestation of granulomatosis with polyangiitis: a case report and literature review",
+      "authors": "Kim et al., 2025",
+      "source": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1515622/full",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "lm": {
+        "figure": "Figure 2A",
+        "finding": "PAS-stained cellular crescent and fibrinoid necrosis, ×400."
+      },
+      "if": {
+        "figure": "Figure 2B",
+        "finding": "Absent glomerular IgG staining; background fluorescence remains visible, ×400."
+      },
+      "localOriginals": [
+        "originals/anca-figure2.webp"
+      ],
+      "visualReview": "Original two-panel LM/IF composite inspected; LM lesion and IF glomerulus visible.",
+      "notes": "Source case is MPO-positive GPA, whereas Q15 is PR3-positive. Label as an illustrative ANCA-associated pauci-immune pattern; not the case patient’s biopsy. This is renal tissue IF, not indirect serum ANCA staining.",
+      "proposedPlacement": {
+        "afterStep": "candidate-q17-explanation-1",
+        "reason": "Show diagnostic morphology after the answer is revealed, before distractor comparisons."
+      },
+      "fullResolutionSourceRequiredBeforeProduction": false,
+      "downloads": [
+        {
+          "file": "originals/anca-figure2.webp",
+          "bytes": 1230204,
+          "sha256": "834187e78ecc2c5a44f6fe693cdcee1adb776fe7ec74606c025191bf0fbff196"
+        }
+      ],
+      "cdnOriginalUrl": "https://assets.lattice-1.com/renal/gn/anca-pauci-immune-original-figure2.834187e78ecc.webp",
+      "cdnVerifiedAt": "2026-11-11T18:04:08.072813+00:00",
+      "integratedExplanationSlide": "candidate-q17-explanation-1",
+      "integrationStatus": "Added to both lesson files for testing"
+    },
+    {
+      "question": 16,
+      "stepId": "candidate-q18",
+      "phenotype": "Anti-GBM disease",
+      "pmcid": "PMC10466353",
+      "article": "Pulmonary-Renal Syndrome During COVID-19 Pandemic Revealed a Rare Case of Anti-GBM Disease",
+      "authors": "Chalkia et al., 2023",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10466353/",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "lm": {
+        "figure": "Figure 1",
+        "finding": "Cellular crescent on silver stain, ×200.",
+        "sourceFigure": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10466353/figure/F1/"
+      },
+      "if": {
+        "figure": "Figure 4",
+        "finding": "Linear IgG along glomerular capillary walls.",
+        "sourceFigure": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10466353/figure/F4/"
+      },
+      "localOriginals": [],
+      "visualReview": "Figure captions and license checked in Europe PMC full-text XML; binary retrieval blocked with HTTP 403. Full-resolution visual review remains pending.",
+      "notes": "Figure 3 is a useful alternative LM view showing a crescent and segmental necrosis. Prefer this classic linear-IgG case over mixed IgA/anti-GBM or atypical seronegative examples for the introductory lesson.",
+      "proposedPlacement": {
+        "afterStep": "candidate-q18-explanation-1",
+        "reason": "Show diagnostic morphology after the answer is revealed, before distractor comparisons."
+      },
+      "fullResolutionSourceRequiredBeforeProduction": true
+    }
+  ],
+  "hosting": {
+    "domain": "assets.lattice-1.com",
+    "bucket": "fimbria-teaching-assets",
+    "verifiedAt": "2026-11-11T18:04:08.072813+00:00",
+    "publicHttpsAndImageCacheHitsVerified": true,
+    "deploymentReport": "../../../hosting/lattice-1-assets/deployment-report.json"
+  }
+}

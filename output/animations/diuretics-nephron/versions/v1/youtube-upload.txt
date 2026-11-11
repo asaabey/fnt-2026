@@ -1,0 +1,13 @@
+TITLE
+Diuretics Explained on One Nephron | Sites, Transporters and Receptors
+
+DESCRIPTION
+Follow eight major diuretic mechanisms on one persistent nephron diagram. Each scene highlights the site of action and uses a cell inset to connect the drug target with its effect on salt or water handling.
+
+Covered: mannitol, acetazolamide, SGLT2 inhibitors, loop diuretics, thiazides and thiazide-like drugs, spironolactone/eplerenone, amiloride/triamterene, and tolvaptan.
+
+See the differences between carbonic anhydrase, SGLT2, NKCC2, NCC, mineralocorticoid receptors, ENaC and vasopressin V2 receptors. The tolvaptan scene shows how V2 blockade reduces apical AQP2 availability. The closing summary distinguishes natriuresis from aquaresis.
+
+Anatomical segment names are the main guide, with small traditional Site I–IV labels for reference. Mannitol acts across water-permeable segments rather than at a single receptor or channel.
+
+A silent animation with on-screen explanations for medical students and renal physiology revision. Anatomy, transport arrows and timing are schematic; the scenes compare mechanisms independently.
